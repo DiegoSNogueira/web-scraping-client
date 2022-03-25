@@ -1,0 +1,3237 @@
+PREÇO|QUARTOS|TAMANHO|CONDOMÍNIO|ESTACIONAMENTO|BAIRRO
+R$ 150.000|2 quartos | 65m² | | 4 vagas|Marcos Freire
+R$ 1.300.000|4 quartos | 240m² | | 3 vagas|Olaria
+R$ 420.000|4 quartos | 200m² | | 2 vagas|Igarapé
+R$ 400.000|3 quartos | 105m² | | 3 vagas|Aponiã
+R$ 150.000|2 quartos | 56m² |R$ 360 | 1 vaga|Triângulo
+R$ 85.000|4 quartos | 138m² |R$ 0 | 3 vagas|Areal
+R$ 330.000|3 quartos | 85m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 161.000|2 quartos | 52m² |R$ 0 | 1 vaga|Esperança da Comunidade
+R$ 560.000|3 quartos | | | 2 vagas|Olaria
+R$ 451.000|3 quartos | 75m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 290|2 quartos | | | 1 vaga|Nova Porto Velho
+R$ 420.000|3 quartos | 210m² |R$ 0 | 2 vagas|Nova Floresta
+R$ 0|2 quartos | 100m² | | 2 vagas|Socialista
+R$ 1.250.000|4 quartos | 490m² |R$ 790 | 4 vagas|Nova Porto Velho
+R$ 990.000|3 quartos | 231m² |R$ 0 | 4 vagas|Aeroclube
+R$ 620.000|2 quartos | 300m² |R$ 0| |Nova Porto Velho
+R$ 150.000|3 quartos | 60m² |R$ 150 | 2 vagas|Bairro Novo
+R$ 365.000|2 quartos | 69m² |R$ 339 | 1 vaga|Rio Madeira
+R$ 390.000|3 quartos | 300m² |R$ 0 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 650.000|3 quartos | 110m² |R$ 980 | 2 vagas|Olaria
+R$ 890.000|3 quartos | 162m² |R$ 0 | 4 vagas|Aponiã
+R$ 230.000|4 quartos | 180m² |R$ 0 | 2 vagas|Cuniã
+R$ 199.990|3 quartos | 80m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 750.000|3 quartos | 600m² |R$ 0 | 5 ou mais vagas|Escola de Polícia
+R$ 180.000|2 quartos | 90m² |R$ 0 | 2 vagas|Três Marias
+R$ 150.000|3 quartos | 80m² | | 2 vagas|Lagoinha
+R$ 470.000|3 quartos | 120m² |R$ 0 | 2 vagas|Nova Floresta
+R$ 110.000|2 quartos | 10m² | | 1 vaga|Bairro Novo
+R$ 400.000|3 quartos | 143m² |R$ 400 | 2 vagas|Lagoa
+R$ 470.000|3 quartos | 120m² | | 2 vagas|Nova Floresta
+R$ 350.000|3 quartos | 75m² |R$ 440 | 1 vaga|Industrial
+R$ 890.000|3 quartos | 162m² | | 4 vagas|Rio Madeira
+R$ 750.000|2 quartos | 230m² | | 5 ou mais vagas|Cohab
+R$ 300.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 195.000|2 quartos | 70m² | | 3 vagas|Tancredo Neves
+R$ 680.000|4 quartos | 340m² |R$ 0 | 3 vagas|Liberdade
+R$ 890.000|3 quartos | 162m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 350.000|3 quartos | 75m² |R$ 440 | 1 vaga|Industrial
+R$ 890.000|3 quartos | 158m² |R$ 344 | 4 vagas|Rio Madeira
+R$ 750.000|2 quartos | 230m² |R$ 0 | 5 ou mais vagas|Cohab
+R$ 560.000|3 quartos | 120m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 660.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 280.000|2 quartos | 58m² |R$ 386 | 1 vaga|Industrial
+R$ 25.000|2 quartos | | | 1 vaga|Aeroclube
+R$ 60.000|1 quarto| | | |Mariana
+R$ 300.000|4 quartos | 250m² |R$ 0 | 2 vagas|Três Marias
+R$ 260.000|2 quartos | 53m² | | 1 vaga|Igarapé
+R$ 68.000|2 quartos | 42m² |R$ 0| |Bairro Novo
+R$ 580.000|3 quartos | 120m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 250.000|3 quartos| | | |Aponiã
+R$ 1.290.000|3 quartos | 408m² |R$ 400 | 2 vagas|Aeroclube
+R$ 1.850.000|4 quartos | | | 4 vagas|Aponiã
+R$ 200.000|2 quartos | 75m² |R$ 0 | 1 vaga|Cohab
+R$ 280.000|2 quartos | 94m² |R$ 0 | 2 vagas|Igarapé
+R$ 50.000|2 quartos | 200m² | | 2 vagas|Agenor de Carvalho
+R$ 280.000|3 quartos | 102m² |R$ 650 | 2 vagas|Rio Madeira
+R$ 280.000|2 quartos | 360m² |R$ 0 | 2 vagas|Eldorado
+R$ 1.287.000|4 quartos | 306m² |R$ 0 | 4 vagas|Lagoa
+R$ 595.000|5 ou mais quartos | 442m² | | 4 vagas|Cuniã
+R$ 110.000|3 quartos | 250m² |R$ 0| |Castanheira
+R$ 1.600.000|4 quartos | 450m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 250.000|3 quartos | 60m² |R$ 614 | 1 vaga|Agenor de Carvalho
+R$ 100.000|2 quartos | 70m² |R$ 0 | 5 ou mais vagas|Cohab
+R$ 350.000|3 quartos | | | 2 vagas|Escola de Polícia
+R$ 140.000|2 quartos | 55m² |R$ 0 | 1 vaga|Triângulo
+R$ 40.000|2 quartos | 25m² |R$ 0 | 5 ou mais vagas|Jardim Santana
+R$ 220.000|2 quartos | 140m² |R$ 0 | 1 vaga|Nova Floresta
+R$ 320.000|3 quartos | 80m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 400.000|3 quartos | 76m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 55.000|3 quartos| | | |Novo Horizonte
+R$ 780.000|3 quartos | 280m² |R$ 300 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 240.000|3 quartos | 210m² |R$ 0| |Castanheira
+R$ 790.000|4 quartos | 172m² |R$ 0 | 4 vagas|Aeroclube
+R$ 85.000|2 quartos | 81m² | | 1 vaga|Castanheira
+R$ 64.999|2 quartos | 50m² | | 1 vaga|Novo Horizonte
+R$ 230.000|3 quartos | 100m² |R$ 0 | 3 vagas|Castanheira
+R$ 320.000|3 quartos | 110m² | | 2 vagas|Rio Madeira
+R$ 1.500.000|5 ou mais quartos | 400m² |R$ 0 | 5 ou mais vagas|Lagoa
+R$ 172.000|2 quartos | 51m² |R$ 0 | 2 vagas|Planalto
+R$ 260.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 58.000|2 quartos | 47m² |R$ 0 | 1 vaga|Caladinho
+R$ 110.000|2 quartos | 60m² | | 2 vagas|Castanheira
+R$ 250.000|2 quartos | 100m² | | 3 vagas|Tancredo Neves
+R$ 585.000|3 quartos | 180m² |R$ 0 | 5 ou mais vagas|Embratel
+R$ 350.000|3 quartos | 160m² |R$ 100 | 2 vagas|Escola de Polícia
+R$ 350.000|3 quartos | 91m² |R$ 0 | 2 vagas|Triângulo
+R$ 90.000|1 quarto | 432m² |R$ 0| |Floresta
+R$ 15.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 150.000|2 quartos| | | |Embratel
+R$ 660.000|3 quartos | 110m² |R$ 0 | 2 vagas|Olaria
+R$ 550.000|4 quartos | 350m² |R$ 0 | 3 vagas|Agenor de Carvalho
+R$ 330.000|3 quartos | 250m² |R$ 0 | 3 vagas|Conceição
+R$ 750.000|3 quartos | 360m² | | 4 vagas|Embratel
+R$ 1.250.000|3 quartos | 250m² |R$ 1.000 | 4 vagas|Lagoa
+R$ 330.000|3 quartos| | | |Tiradentes
+R$ 580.000|4 quartos | 260m² | | 2 vagas|Liberdade
+R$ 750.000|2 quartos | 96m² |R$ 800 | 2 vagas|Liberdade
+R$ 80.000|1 quarto| | | |Eletronorte
+R$ 350.000|3 quartos | 0m² | | 5 ou mais vagas|Igarapé
+R$ 350.000|3 quartos | 75m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 323.000|2 quartos | 160m² |R$ 70 | 2 vagas|Novo Horizonte
+R$ 285.000|1 quarto | |R$ 0 | 5 ou mais vagas|Nova Porto Velho
+R$ 180.000|2 quartos | 320m² | | 2 vagas|Caladinho
+R$ 1.200.000|3 quartos | 230m² |R$ 0 | 4 vagas|Cidade Jardim
+R$ 130.000|2 quartos | 90m² |R$ 0 | 1 vaga|Três Marias
+R$ 135.000|2 quartos | 47m² |R$ 285 | 1 vaga|Rio Madeira
+R$ 325.000|2 quartos | 68m² |R$ 230 | 1 vaga|Nova Esperança
+R$ 170.000|2 quartos | 52m² |R$ 330 | 1 vaga|Triângulo
+R$ 380.000|3 quartos | 400m² | | 5 ou mais vagas|Nossa Senhora das Graças
+R$ 60|2 quartos | 0m² | | 1 vaga|Marcos Freire
+R$ 330.000|3 quartos | 84m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 2.200.000|4 quartos | 443m² | | 2 vagas|Cuniã
+R$ 150.000|2 quartos | 250m² |R$ 0 | 1 vaga|Três Marias
+R$ 110.000|2 quartos | 270m² |R$ 0 | 2 vagas|Nova Floresta
+R$ 320.000|2 quartos | 52m² |R$ 400 | 2 vagas|Industrial
+R$ 380.000|2 quartos | 300m² |R$ 0 | 2 vagas|Aponiã
+R$ 890.000|3 quartos | 158m² |R$ 344 | 4 vagas|Aponiã
+R$ 90.000|3 quartos | 2000m² |R$ 11.111| |Igarapé
+R$ 1.900.000|4 quartos | 250m² |R$ 0 | 4 vagas|Olaria
+R$ 710.000|3 quartos | 151m² | | 2 vagas|Nova Porto Velho
+R$ 1.200.000|3 quartos | 206m² |R$ 400 | 4 vagas|Aeroclube
+R$ 350.000|3 quartos | 78m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 68.000|2 quartos | 250m² | | 2 vagas|Castanheira
+R$ 880.000|3 quartos | 109m² | | 2 vagas|Olaria
+R$ 297.000|3 quartos | 72m² | | 1 vaga|Agenor de Carvalho
+R$ 180.000|3 quartos | 60m² |R$ 175 | 2 vagas|Bairro Novo
+R$ 470.000|3 quartos | 83m² |R$ 0 | 2 vagas|Lagoa
+R$ 180.000|2 quartos | 260m² |R$ 0| |Cohab
+R$ 170.000|3 quartos | | | 2 vagas|Aponiã
+R$ 350.000|3 quartos | 84m² |R$ 600 | 1 vaga|Rio Madeira
+R$ 275.000|2 quartos | 69m² | | 2 vagas|Aponiã
+R$ 565.000|3 quartos | 84m² |R$ 450 | 2 vagas|Lagoa
+R$ 180.000|2 quartos | 70m² |R$ 70 | 2 vagas|Bairro Novo
+R$ 80.000|2 quartos | 0m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 800.000|3 quartos | 173m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 43.000|2 quartos | 40m² | | 3 vagas|Panair
+R$ 730.000|4 quartos | 355m² |R$ 0 | 3 vagas|Pedrinhas
+R$ 650|1 quarto | 5m² |R$ 5 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 1.750.000|4 quartos | 280m² |R$ 0 | 3 vagas|Centro
+R$ 360.000|2 quartos | 93m² |R$ 480 | 2 vagas|Rio Madeira
+R$ 80.000|2 quartos | | | 1 vaga|Cohab
+R$ 240|2 quartos | 146m² |R$ 162 | 2 vagas|Rio Madeira
+R$ 80.000|1 quarto | 300m² |R$ 0 | 5 ou mais vagas|Cascalheira
+R$ 310.000|3 quartos | 110m² | | 2 vagas|Cuniã
+R$ 210.000|3 quartos | 230m² | | 3 vagas|Rio Madeira
+R$ 150|2 quartos | 300m²| | |Eldorado
+R$ 780.000|1 quarto | 195m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 70.000|2 quartos | 100m² |R$ 0 | 3 vagas|Bairro Novo
+R$ 350.000|2 quartos | 88m² | | 1 vaga|Aponiã
+R$ 0|3 quartos | 297m² | | 3 vagas|Arigolândia
+R$ 285.000|3 quartos | 120m² |R$ 0 | 2 vagas|Castanheira
+R$ 160.000|2 quartos | 46m² |R$ 150 | 1 vaga|Aeroclube
+R$ 370.000|2 quartos | 90m² | | 3 vagas|Aeroclube
+R$ 550.000|5 ou mais quartos | 300m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 280.000|3 quartos | | | 3 vagas|Rio Madeira
+R$ 330.000|3 quartos | 82m² |R$ 580 | 1 vaga|Rio Madeira
+R$ 260.000|3 quartos | 140m² | | 2 vagas|Rio Madeira
+R$ 325.000|2 quartos | 74m² |R$ 375 | 2 vagas|Triângulo
+R$ 459.000|3 quartos | 216m² |R$ 0 | 2 vagas|Cuniã
+R$ 320.000|3 quartos | 73m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 1.600.000|3 quartos | 380m² | | 5 ou mais vagas|Rio Madeira
+R$ 49.999|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 295.000|4 quartos | 250m² |R$ 0 | 2 vagas|Aponiã
+R$ 900.000|4 quartos | 430m² |R$ 900 | 2 vagas|Panair
+R$ 235.000|2 quartos | 80m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 344.678|3 quartos | 80m² | | 2 vagas|Rio Madeira
+R$ 1.550.000|3 quartos | 251m² |R$ 800 | 4 vagas|Aponiã
+R$ 1.190.000|4 quartos | 293m² |R$ 390 | 4 vagas|Aeroclube
+R$ 175.000|2 quartos | | | 1 vaga|Aponiã
+R$ 580.000|3 quartos | 96m² |R$ 0 | 2 vagas|São João Bosco
+R$ 230.000|2 quartos | 66m² |R$ 0 | 1 vaga|Industrial
+R$ 290.000|3 quartos | 72m² |R$ 450 | 1 vaga|Agenor de Carvalho
+R$ 550.000|3 quartos | | | 2 vagas|Rio Madeira
+R$ 260.000|2 quartos | 80m² |R$ 0 | 2 vagas|Esperança da Comunidade
+R$ 45.000|2 quartos | 60m² |R$ 0 | 2 vagas|Panair
+R$ 30.000|2 quartos | 50m²| | |Esperança da Comunidade
+R$ 300.000|3 quartos | 85m² |R$ 560 | 1 vaga|Rio Madeira
+R$ 280.000|2 quartos | 74m² |R$ 0| |Rio Madeira
+R$ 280.000|2 quartos | 250m² |R$ 0| |Aponiã
+R$ 450.000|2 quartos | 320m² |R$ 0| |Agenor de Carvalho
+R$ 170.000|2 quartos | 148m² |R$ 0| |Lagoinha
+R$ 325.000|3 quartos | 74m² |R$ 375 | 2 vagas|Triângulo
+R$ 45.000|3 quartos | 12m²| | |Três Marias
+R$ 80.000|1 quarto | 888888m² |R$ 0 | 2 vagas|Ulisses Guimarães
+R$ 172.000|2 quartos | 51m² |R$ 0 | 2 vagas|Planalto
+R$ 243.495|2 quartos | 66m² |R$ 0 | 2 vagas|Lagoa
+R$ 220.000|2 quartos | 360m² | | 2 vagas|Nova Esperança
+R$ 880.000|3 quartos | 108m² |R$ 0 | 2 vagas|Olaria
+R$ 45.000|2 quartos | |R$ 130 | 3 vagas|Cohab
+R$ 800.000|3 quartos | 181m² | | 4 vagas|Triângulo
+R$ 1.500.000|3 quartos | 600m² |R$ 0 | 5 ou mais vagas|Baixa União
+R$ 890.000|3 quartos | 164m² |R$ 400 | 2 vagas|Aponiã
+R$ 80.000|4 quartos | 600m² | | 5 ou mais vagas|Nacional
+R$ 160.000|2 quartos | 70m² |R$ 175 | 2 vagas|Bairro Novo
+R$ 150.000|2 quartos | 150m² | | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 520.000|3 quartos | 200m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 590.000|3 quartos | 200m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 260.000|2 quartos | 180m² |R$ 0| |Aponiã
+R$ 890.000|3 quartos | 180m² |R$ 0 | 4 vagas|Aponiã
+R$ 270.000|2 quartos | 70m² |R$ 0 | 2 vagas|Aponiã
+R$ 490.000|3 quartos | 150m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 1.200.000|3 quartos | 214m² | | 2 vagas|Triângulo
+R$ 1.200.000|3 quartos | 238m² |R$ 500 | 2 vagas|Cidade Jardim
+R$ 650.000|4 quartos | 250m² |R$ 403 | 4 vagas|Triângulo
+R$ 120.000|1 quarto | 80m² |R$ 0| |Nova Floresta
+R$ 330.000|4 quartos | 247m² |R$ 0 | 2 vagas|Baixa União
+R$ 280.000|2 quartos | 300m² |R$ 0| |Cuniã
+R$ 75.000|2 quartos | 10m² |R$ 0 | 2 vagas|Novo Horizonte
+R$ 90.000|2 quartos | | | 1 vaga|Nacional
+R$ 360.000|3 quartos | 72m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 220.000|3 quartos | 94m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 130.000|2 quartos | | | 2 vagas|Marcos Freire
+R$ 85.000|2 quartos | 72m² |R$ 0 | 1 vaga|Castanheira
+R$ 270.000|3 quartos | 142m² |R$ 0 | 2 vagas|Esperança da Comunidade
+R$ 200.000|3 quartos | 100m² |R$ 0 | 5 ou mais vagas|Três Marias
+R$ 120.000|2 quartos | 45m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 256.000|3 quartos | 95m² |R$ 318 | 1 vaga|Nova Esperança
+R$ 890.000|5 ou mais quartos | 430m² |R$ 900 | 4 vagas|Panair
+R$ 378.000|3 quartos | 85m² |R$ 0 | 2 vagas|Olaria
+R$ 490.000|3 quartos | 230m² |R$ 0 | 1 vaga|São Cristóvão
+R$ 155.000|4 quartos | 160m² |R$ 0 | 2 vagas|Tiradentes
+R$ 580.000|3 quartos | 95m² |R$ 750 | 2 vagas|São João Bosco
+R$ 1.359.000|4 quartos | 323m² |R$ 0 | 4 vagas|Lagoa
+R$ 368.000|2 quartos | 61m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 180.000|1 quarto | 16m²| | |Liberdade
+R$ 200.000|2 quartos | 179m² |R$ 0 | 2 vagas|Aponiã
+R$ 680.000|3 quartos | 122m² |R$ 700 | 2 vagas|Olaria
+R$ 430.000|4 quartos | 200m² | | 2 vagas|São João Bosco
+R$ 290.000|3 quartos | 89m² |R$ 600 | 2 vagas|Agenor de Carvalho
+R$ 99.999|2 quartos | 41m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 300.000|3 quartos | 500m² |R$ 0 | 4 vagas|Aponiã
+R$ 139.900|2 quartos | 52m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 229.000|3 quartos | 150m² | | 2 vagas|Jardim Santana
+R$ 380.000|3 quartos | 144m² |R$ 0 | 3 vagas|Aponiã
+R$ 1.300.000|3 quartos | 376m² |R$ 0 | 3 vagas|Olaria
+R$ 287.900|2 quartos | 58m² |R$ 0 | 1 vaga|Embratel
+R$ 320.000|3 quartos | 86m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 1.400.000|3 quartos | 305m² | | 4 vagas|Igarapé
+R$ 690.000|3 quartos | 160m² |R$ 550 | 2 vagas|Tiradentes
+R$ 2.000.000|4 quartos | 320m² |R$ 1.100 | 4 vagas|Industrial
+R$ 195.000|2 quartos | 55m² | | 1 vaga|Aponiã
+R$ 240.000|3 quartos | |R$ 165 | 3 vagas|Esperança da Comunidade
+R$ 172.000|2 quartos | 51m² |R$ 0 | 1 vaga|Planalto
+R$ 1.000.000|3 quartos | 215m² |R$ 0 | 4 vagas|Cidade Jardim
+R$ 350.000|2 quartos | 720m² |R$ 0 | 2 vagas|Teixeirão
+R$ 0|2 quartos | | | 2 vagas|Mariana
+R$ 30.000|1 quarto| | | |Maringá
+R$ 670.000|2 quartos | 97m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 680.000|3 quartos | 250m² |R$ 0 | 3 vagas|Agenor de Carvalho
+R$ 150.000|2 quartos | 48m² |R$ 200 | 1 vaga|Aeroclube
+R$ 138.000|2 quartos | 44m² |R$ 0 | 1 vaga|Lagoinha
+R$ 150.000|2 quartos | 65m² |R$ 465 | 1 vaga|Rio Madeira
+R$ 36.000|2 quartos | 9m²| | |Maringá
+R$ 220.000|3 quartos | 90m² |R$ 200 | 2 vagas|Bairro Novo
+R$ 130.000|3 quartos | | | 3 vagas|Aponiã
+R$ 2.700.000|4 quartos | 517m² |R$ 800 | 5 ou mais vagas|Aponiã
+R$ 80.000|1 quarto | 250m² | | 1 vaga|Castanheira
+R$ 360.000|3 quartos | 128m² |R$ 0 | 2 vagas|Lagoinha
+R$ 15.000|2 quartos| | | |São Sebastião
+R$ 150.000|3 quartos | 150m² | | 4 vagas|Nacional
+R$ 250.000|2 quartos | 80m² | | 3 vagas|Castanheira
+R$ 650.000|5 ou mais quartos | 300m² |R$ 0 | 3 vagas|Cuniã
+R$ 175.000|2 quartos | | | 2 vagas|Novo Horizonte
+R$ 180.000|3 quartos | | | 2 vagas|Cohab
+R$ 250.000|3 quartos | 900m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 780.000|4 quartos | 143m² |R$ 0 | 2 vagas|Igarapé
+R$ 330.000|3 quartos | 76m² | | 1 vaga|Liberdade
+R$ 437.700|3 quartos | 114m² | | 4 vagas|Aeroclube
+R$ 235.000|2 quartos | 52m²| | |Igarapé
+R$ 330.000|2 quartos | 83m² |R$ 430 | 2 vagas|Rio Madeira
+R$ 800.000|4 quartos| | | |Eletronorte
+R$ 2.300.000|5 ou mais quartos | 600m² | | 5 ou mais vagas|Centro
+R$ 155.000|3 quartos | 145m² |R$ 181 | 2 vagas|Bairro Novo
+R$ 2.800.000|4 quartos | 401m² | | 2 vagas|Rio Madeira
+R$ 1.300.000|4 quartos| | | |São Cristóvão
+R$ 345.000|3 quartos | 112m² | | 1 vaga|Nova Floresta
+R$ 450.000|3 quartos | 140m² | | 1 vaga|São João Bosco
+R$ 200.000|5 ou mais quartos | 300m² | | 2 vagas|Três Marias
+R$ 165.000|2 quartos | 65m² |R$ 250 | 1 vaga|Nova Esperança
+R$ 120.000|2 quartos | 45m² |R$ 200 | 1 vaga|Bairro Novo
+R$ 1.500.000|3 quartos | 302m² |R$ 450 | 2 vagas|Triângulo
+R$ 65.000|2 quartos| | | |São Francisco
+R$ 670.000|5 ou mais quartos | 425m² |R$ 0 | 5 ou mais vagas|Agenor de Carvalho
+R$ 230.000|3 quartos | 179m² |R$ 0 | 3 vagas|Agenor de Carvalho
+R$ 530.000|4 quartos | 220m² |R$ 0 | 1 vaga|São Cristóvão
+R$ 580.000|4 quartos | 270m² |R$ 0 | 5 ou mais vagas|Castanheira
+R$ 1.300.000|4 quartos | 1m² | | 2 vagas|São Cristóvão
+R$ 100.000|4 quartos | 300m² | | 2 vagas|Tancredo Neves
+R$ 50.000|1 quarto| | | |Novo Horizonte
+R$ 690.000|3 quartos | 144m² | | 2 vagas|Nova Porto Velho
+R$ 22.000|2 quartos | | | 1 vaga|Castanheira
+R$ 199.999|2 quartos | 58m² |R$ 500 | 1 vaga|Nova Porto Velho
+R$ 270.000|2 quartos | 50m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 200.000|4 quartos | 300m² |R$ 0 | 2 vagas|Lagoa
+R$ 120.000|2 quartos | | | 2 vagas|Área Rural de Porto Velho
+R$ 470.000|3 quartos | 292m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 2.300.000|4 quartos | 443m² |R$ 900 | 4 vagas|Cidade Jardim
+R$ 450.000|3 quartos | 84m² |R$ 850 | 2 vagas|Pedrinhas
+R$ 975.000|3 quartos | 152m² | | 2 vagas|Nova Porto Velho
+R$ 247.695|2 quartos | 66m² | | 1 vaga|Lagoa
+R$ 287.000|2 quartos | 58m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 260.000|2 quartos | 53m² | | 1 vaga|Igarapé
+R$ 40.000|2 quartos | 0m² |R$ 0 | 1 vaga|Nova Porto Velho
+R$ 750.000|4 quartos | 250m² |R$ 450| |Aeroclube
+R$ 282.148|2 quartos | 68m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 520.000|4 quartos | 232m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 560.000|2 quartos | 127m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 255.000|2 quartos | 89m² |R$ 150 | 2 vagas|Agenor de Carvalho
+R$ 1.400.000|4 quartos | 295m² |R$ 400 | 4 vagas|Aeroclube
+R$ 1.300.000|3 quartos | 22848m² |R$ 350 | 2 vagas|Aponiã
+R$ 55.000|2 quartos| | | |Planalto
+R$ 300.000|3 quartos | 75m² | | 1 vaga|Eldorado
+R$ 135.000|2 quartos | 55m² |R$ 0 | 1 vaga|Teixeirão
+R$ 480.000|3 quartos | 170m² | | 4 vagas|Rio Madeira
+R$ 280.000|3 quartos | 85m² |R$ 400 | 2 vagas|Nova Esperança
+R$ 1.890.000|3 quartos | 250m² |R$ 800 | 4 vagas|Rio Madeira
+R$ 890.000|3 quartos | 162m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 189.999|2 quartos | 58m² |R$ 0 | 1 vaga|Nova Porto Velho
+R$ 680.000|4 quartos | 340m² |R$ 0 | 3 vagas|Liberdade
+R$ 800.000|4 quartos | | | 3 vagas|São João Bosco
+R$ 1.400.000|3 quartos | 210m² |R$ 0 | 2 vagas|Cidade Jardim
+R$ 400.000|3 quartos | 143m² |R$ 400 | 2 vagas|Lagoa
+R$ 400.000|4 quartos | 450m² |R$ 0 | 2 vagas|Caladinho
+R$ 350.000|3 quartos | 75m² |R$ 440 | 1 vaga|Industrial
+R$ 750.000|2 quartos | 230m² |R$ 0 | 5 ou mais vagas|Cohab
+R$ 340.000|2 quartos | 64m² |R$ 380 | 1 vaga|Embratel
+R$ 40.000|1 quarto| | | |Igarapé
+R$ 370.000|3 quartos | 98m² |R$ 545 | 1 vaga|Costa e Silva
+R$ 310.000|3 quartos | 94m² |R$ 467 | 1 vaga|Lagoa
+R$ 720.000|3 quartos | 147m² |R$ 1.100 | 2 vagas|Nova Porto Velho
+R$ 215.000|3 quartos | 48m² |R$ 0 | 1 vaga|Planalto
+R$ 200.000|3 quartos | | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 650.000|4 quartos | 242m² | | 3 vagas|São Cristóvão
+R$ 220.000|3 quartos | 48m² |R$ 0 | 1 vaga|Nova Floresta
+R$ 499.000|3 quartos | 450m² | | 5 ou mais vagas|Cuniã
+R$ 150.000|2 quartos | 45m² | | 1 vaga|Aeroclube
+R$ 55.000|2 quartos | 120m² |R$ 0 | 2 vagas|Teixeirão
+R$ 330.000|3 quartos | 84m² |R$ 500 | 1 vaga|Rio Madeira
+R$ 380.000|3 quartos | 144m² |R$ 0 | 3 vagas|Aponiã
+R$ 520.000|1 quarto| | | |Pedrinhas
+R$ 169.000|3 quartos | | | 2 vagas|Castanheira
+R$ 350.000|3 quartos | 160m² |R$ 100| |Escola de Polícia
+R$ 75.000|2 quartos | 100m²| | |Nacional
+R$ 1.250.000|4 quartos | 300m² |R$ 0 | 4 vagas|Cidade Jardim
+R$ 50.000|1 quarto | 30m² | | 1 vaga|Marcos Freire
+R$ 150.000|2 quartos | 84m² | | 1 vaga|Caladinho
+R$ 320.000|3 quartos | |R$ 550 | 2 vagas|Agenor de Carvalho
+R$ 200.000|1 quarto | 55m² |R$ 0| |São João Bosco
+R$ 491.548|3 quartos | 80m² |R$ 0| |Rio Madeira
+R$ 300.000|3 quartos | 120m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 330.000|3 quartos | 85m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 990.000|3 quartos | 185m² |R$ 1.400 | 4 vagas|Lagoa
+R$ 1.500.000|3 quartos | 245m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 20.000| |0m²| | |Mariana
+R$ 65.000|2 quartos | | | 1 vaga|Tancredo Neves
+R$ 450.000|3 quartos | 95m² |R$ 540 | 2 vagas|Liberdade
+R$ 850.000|4 quartos | 600m² |R$ 0 | 2 vagas|Centro
+R$ 500.000|2 quartos | 143m² |R$ 0 | 2 vagas|Olaria
+R$ 100.000|3 quartos| | | |Planalto
+R$ 1.200.000|4 quartos | 300m² |R$ 0 | 5 ou mais vagas|Liberdade
+R$ 280.000|2 quartos | 80m² |R$ 600 | 1 vaga|Rio Madeira
+R$ 110.000|2 quartos | 75m² |R$ 0 | 3 vagas|Aponiã
+R$ 550.000|3 quartos | 100m² |R$ 750 | 2 vagas|Embratel
+R$ 300.000|3 quartos | 70m² | | 1 vaga|Agenor de Carvalho
+R$ 410.000|3 quartos | 215m² |R$ 0 | 2 vagas|Aponiã
+R$ 600.000|3 quartos | 400m² |R$ 0 | 5 ou mais vagas|Igarapé
+R$ 65.000|1 quarto| | | |Nossa Senhora das Graças
+R$ 250.000|3 quartos | 72m² |R$ 0 | 1 vaga|Aeroclube
+R$ 550.000|3 quartos | 210m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 300.000|3 quartos | 100m² |R$ 550 | 2 vagas|Embratel
+R$ 225.000|3 quartos | 47m² |R$ 0 | 2 vagas|Planalto
+R$ 350.000|3 quartos | 160m² | | 2 vagas|Igarapé
+R$ 350.000|3 quartos | 90m² |R$ 350 | 2 vagas|Nova Porto Velho
+R$ 239.000|2 quartos | 51m² |R$ 420 | 1 vaga|Igarapé
+R$ 155.000|2 quartos | 90m² |R$ 0 | 1 vaga|Bairro Novo
+R$ 20.000|2 quartos | 30m² |R$ 45 | 1 vaga|Floresta
+R$ 180.000|3 quartos | 60m² |R$ 130| |Bairro Novo
+R$ 39.990|2 quartos | 46m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 165.000|3 quartos | 80m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 175.000|3 quartos | 90m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 830.000|4 quartos | 300m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 900.000|4 quartos | 330m² |R$ 0 | 2 vagas|São João Bosco
+R$ 100.000|2 quartos | 46m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 375.000|3 quartos | 104m² |R$ 180 | 1 vaga|Lagoinha
+R$ 75.000|2 quartos | |R$ 100| |Socialista
+R$ 650.000|4 quartos | 235m² |R$ 0 | 4 vagas|Nossa Senhora das Graças
+R$ 850.000|3 quartos | 230m² |R$ 0 | 4 vagas|Panair
+R$ 460.000|3 quartos | 140m² |R$ 500 | 2 vagas|Aeroclube
+R$ 650.000|3 quartos | 160m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 70.000|2 quartos | 42m² |R$ 0 | 1 vaga|Bairro Novo
+R$ 330.000|3 quartos | 84m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 185.000|3 quartos | 110m² |R$ 0 | 5 ou mais vagas|Igarapé
+R$ 530.000|3 quartos | 110m² |R$ 0 | 2 vagas|Olaria
+R$ 650.000|3 quartos | 106m² |R$ 900 | 2 vagas|Olaria
+R$ 120.000|2 quartos | 120m² | | 2 vagas|Área Rural de Porto Velho
+R$ 135.000|2 quartos | 47m² |R$ 290 | 1 vaga|Rio Madeira
+R$ 180.000|2 quartos | 51m² |R$ 170 | 1 vaga|Areal
+R$ 75.000|2 quartos | |R$ 0 | 1 vaga|Cidade Nova
+R$ 180.000|2 quartos | 43m² | | 2 vagas|Três Marias
+R$ 0|2 quartos | 0m² |R$ 210 | 1 vaga|Planalto
+R$ 550.000|3 quartos | 127m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 660.000|3 quartos | 110m² |R$ 0 | 2 vagas|Olaria
+R$ 330.000|3 quartos | 75m² | | 2 vagas|Rio Madeira
+R$ 399.000|3 quartos | 93m² |R$ 850| |Pedrinhas
+R$ 792.078|3 quartos | 136m² |R$ 900 | 2 vagas|São João Bosco
+R$ 650.000|3 quartos | 185m² |R$ 0 | 2 vagas|São João Bosco
+R$ 565.000|5 ou mais quartos | 250m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 330.000|3 quartos | 76m² |R$ 0 | 1 vaga|Liberdade
+R$ 350.000|3 quartos | 160m² |R$ 0| |Escola de Polícia
+R$ 450.000|3 quartos | 360m² |R$ 0 | 1 vaga|São João Bosco
+R$ 225.000|3 quartos | 250m² |R$ 0 | 2 vagas|Aponiã
+R$ 550.000|4 quartos | 190m² |R$ 0 | 4 vagas|Castanheira
+R$ 230.000|3 quartos | 100m² | | 2 vagas|Embratel
+R$ 330.000|3 quartos | 75m² |R$ 460 | 1 vaga|Rio Madeira
+R$ 315.000|2 quartos | 60m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 150.000|2 quartos | 90m² |R$ 0 | 1 vaga|Marcos Freire
+R$ 2.145.000|4 quartos | 330m² |R$ 404 | 2 vagas|Bairro Novo
+R$ 60.000|3 quartos| | | |Mariana
+R$ 399.000|2 quartos | | | 2 vagas|Aponiã
+R$ 258.000|3 quartos | 142m² | | 2 vagas|Três Marias
+R$ 550.000|3 quartos | 210m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 780.000|2 quartos | 348m² |R$ 0 | 2 vagas|Aeroclube
+R$ 470.000|3 quartos | 84m² |R$ 450 | 2 vagas|Lagoa
+R$ 310.000|3 quartos | 267m² | | 2 vagas|São Cristóvão
+R$ 290.000|3 quartos | 180m² |R$ 0 | 2 vagas|Aponiã
+R$ 890.000|3 quartos | 164m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 208.000|3 quartos | 87m² |R$ 400 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 450.000|3 quartos | 200m² | | 2 vagas|Embratel
+R$ 3.200.000|3 quartos | 422m² |R$ 700| |Rio Madeira
+R$ 450.000|5 ou mais quartos | 170m² |R$ 0 | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 259.999|3 quartos | 90m² |R$ 200 | 2 vagas|Bairro Novo
+R$ 170.000|2 quartos | 70m² |R$ 0 | 2 vagas|Planalto
+R$ 230.000|1 quarto | 80m² |R$ 0 | 5 ou mais vagas|Ronaldo Aragão
+R$ 550.000|3 quartos | 108m² |R$ 0 | 2 vagas|Olaria
+R$ 499.000|3 quartos | 129m² |R$ 0 | 2 vagas|Agenor de Carvalho
+R$ 220.000|2 quartos | | | 3 vagas|Aponiã
+R$ 790.000|3 quartos | 143m² |R$ 550 | 2 vagas|Industrial
+R$ 215.000|2 quartos | 66m² |R$ 200 | 1 vaga|Industrial
+R$ 1.100.000|3 quartos | 255m² |R$ 2.080 | 3 vagas|Liberdade
+R$ 680.000|3 quartos | 200m² | | 2 vagas|Nova Esperança
+R$ 980.000|3 quartos | 205m² |R$ 450 | 2 vagas|Cidade Jardim
+R$ 1.000.000|5 ou mais quartos | 720m² |R$ 0 | 2 vagas|Escola de Polícia
+R$ 35.000|2 quartos | |R$ 35.000 | 1 vaga|Área Rural de Porto Velho
+R$ 360.000|2 quartos | 136m² | | 5 ou mais vagas|Aponiã
+R$ 145.000|2 quartos | 45m² |R$ 300 | 1 vaga|Aponiã
+R$ 315.000|3 quartos | |R$ 238| |Bairro Novo
+R$ 500.000|3 quartos | | | 2 vagas|São João Bosco
+R$ 190.000|2 quartos | 0m² | | 2 vagas|Aponiã
+R$ 280.000|2 quartos | 58m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 1.100.000|3 quartos | |R$ 750 | 2 vagas|Nova Esperança
+R$ 289.000|3 quartos | |R$ 450 | 1 vaga|Agenor de Carvalho
+R$ 315.000|3 quartos | |R$ 238 | 2 vagas|Bairro Novo
+R$ 990.000|3 quartos | 154m² |R$ 0 | 2 vagas|Embratel
+R$ 580.000|2 quartos | 210m² |R$ 0 | 2 vagas|Liberdade
+R$ 120.000|3 quartos| | | |Cidade Nova
+R$ 0|3 quartos | 202m² |R$ 1.138 | 2 vagas|Agenor de Carvalho
+R$ 650.000|3 quartos | 110m² |R$ 0 | 2 vagas|Olaria
+R$ 80.000|2 quartos | 72000m² |R$ 0 | 2 vagas|Tiradentes
+R$ 180.000|3 quartos | 180m² |R$ 0| |Baixa União
+R$ 85.000|2 quartos | | | 2 vagas|Conceição
+R$ 195.000|2 quartos | 108m² |R$ 0 | 1 vaga|Lagoinha
+R$ 1.287.000|4 quartos | 306m² |R$ 1.400 | 4 vagas|Lagoa
+R$ 300.000|3 quartos | 70m² |R$ 400 | 1 vaga|Agenor de Carvalho
+R$ 600.000|3 quartos | 96m² | | 2 vagas|São João Bosco
+R$ 850.000|4 quartos | 290m² |R$ 500 | 2 vagas|Liberdade
+R$ 380.000|2 quartos | | | 3 vagas|Agenor de Carvalho
+R$ 220.000|2 quartos | 150m² |R$ 0| |Juscelino Kubitschek
+R$ 1.350.000|4 quartos | 330m² |R$ 1.400 | 4 vagas|Lagoa
+R$ 630.000|3 quartos | 120m² |R$ 0 | 3 vagas|Industrial
+R$ 220.000|2 quartos | 68m² |R$ 0 | 1 vaga|Embratel
+R$ 395.000|3 quartos | 250m² |R$ 0| |Conceição
+R$ 450.000|3 quartos | 274m² |R$ 0 | 2 vagas|Embratel
+R$ 180.000|3 quartos | 250m² |R$ 0| |Cohab
+R$ 400.000|3 quartos | 193m² |R$ 0 | 1 vaga|Cohab
+R$ 170.000|2 quartos | 56m² |R$ 0 | 1 vaga|Triângulo
+R$ 330.000|3 quartos | 74m² |R$ 450 | 1 vaga|Floresta
+R$ 400.000|2 quartos | 74m² |R$ 550 | 1 vaga|Nova Porto Velho
+R$ 45.000|2 quartos | |R$ 55 | 2 vagas|Nova Porto Velho
+R$ 210.000|3 quartos | | | 1 vaga|Conceição
+R$ 300.000|3 quartos | 75m²| | |Triângulo
+R$ 1.250.000|4 quartos | 0m² | | 4 vagas|Aeroclube
+R$ 180.000|2 quartos | | | 2 vagas|Novo Horizonte
+R$ 275.000|4 quartos | 0m² | | 5 ou mais vagas|Floresta
+R$ 2.400.000|3 quartos | 400m² | | 3 vagas|Aponiã
+R$ 55.500|1 quarto | 0m²| | |Jardim Santana
+R$ 380.000|3 quartos | 78m² |R$ 600 | 1 vaga|Rio Madeira
+R$ 250.000|3 quartos | 108m² |R$ 250 | 2 vagas|Nossa Senhora das Graças
+R$ 230.000|4 quartos | 120m² |R$ 0 | 2 vagas|Aponiã
+R$ 550.000|3 quartos | 118m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 180.000|2 quartos | 110m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 1.590.000|4 quartos | 210m² |R$ 0 | 4 vagas|Aponiã
+R$ 490.000|1 quarto | 0m² |R$ 0| |Caladinho
+R$ 180.000|3 quartos | 90m² |R$ 0 | 2 vagas|Tancredo Neves
+R$ 330.000|3 quartos | 76m² |R$ 532 | 2 vagas|Rio Madeira
+R$ 150.000|1 quarto | 80m² |R$ 0 | 2 vagas|Aponiã
+R$ 400.000|3 quartos | 41m²| | |Flodoaldo Pontes Pinto
+R$ 980.000|3 quartos | 204m² |R$ 0 | 2 vagas|Cidade Jardim
+R$ 65.000|3 quartos| | | |Aeroclube
+R$ 750.000|3 quartos | 400m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 169.073|2 quartos | 52m² |R$ 0 | 1 vaga|Esperança da Comunidade
+R$ 1.420.000|3 quartos | 219m² |R$ 0 | 2 vagas|Igarapé
+R$ 15.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 130.000|3 quartos | 140m² |R$ 0 | 3 vagas|Nova Esperança
+R$ 550.000|3 quartos | 200m² | | 2 vagas|Planalto
+R$ 450.000|3 quartos | 220m² | | 4 vagas|Igarapé
+R$ 60.000|2 quartos| | | |Nova Porto Velho
+R$ 85.000|3 quartos | 61m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 360.000|3 quartos | 85m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 850.000|3 quartos | 159m² |R$ 303 | 4 vagas|Aponiã
+R$ 155.000|2 quartos | 250m² |R$ 0 | 2 vagas|Aponiã
+R$ 550.000|2 quartos | 300m² |R$ 0 | 2 vagas|Aponiã
+R$ 560.000|3 quartos | 120m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 260.000|2 quartos | 140m² |R$ 160 | 2 vagas|Novo Horizonte
+R$ 415.000|3 quartos | 85m² |R$ 0 | 2 vagas|Liberdade
+R$ 1.250.000|3 quartos | 206m² |R$ 0 | 3 vagas|Embratel
+R$ 350.000|4 quartos | 383m² | | 5 ou mais vagas|Nova Porto Velho
+R$ 200.000|5 ou mais quartos | 253m² | | 4 vagas|Conceição
+R$ 390.000|5 ou mais quartos | 431m² | | 3 vagas|Caladinho
+R$ 349.900|5 ou mais quartos | 294m² | | 3 vagas|Nacional
+R$ 597.000|2 quartos | 104m² |R$ 600| |Embratel
+R$ 400.000|3 quartos | 229m²| | |Flodoaldo Pontes Pinto
+R$ 650.000|2 quartos | 150m² |R$ 0 | 5 ou mais vagas|Lagoinha
+R$ 70.000|2 quartos | |R$ 164 | 1 vaga|Triângulo
+R$ 570.000|3 quartos | 130m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 650.000|3 quartos | 160m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 330.000|3 quartos | 89m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 459.000|3 quartos | 104m² |R$ 0 | 1 vaga|Aeroclube
+R$ 170|2 quartos | 41m² | | 2 vagas|Bairro Novo
+R$ 300.000|3 quartos | 201m² | | 4 vagas|Eldorado
+R$ 95.000|2 quartos| | | |São Cristóvão
+R$ 480.000|3 quartos | 0m² |R$ 300| |Rio Madeira
+R$ 1.050.000|3 quartos | 211m² |R$ 0 | 2 vagas|Embratel
+R$ 950.000|3 quartos | 204m² | | 2 vagas|Nova Porto Velho
+R$ 1.500.000| |0m²| | |Aponiã
+R$ 150.000|1 quarto| | | |Nossa Senhora das Graças
+R$ 450.000|5 ou mais quartos | 250m² |R$ 0 | 4 vagas|Planalto
+R$ 380.000|3 quartos | 100m² | | 1 vaga|Nossa Senhora das Graças
+R$ 395.000|1 quarto | 150m² |R$ 0 | 3 vagas|Nova Esperança
+R$ 195.000|3 quartos | 0m² | | 2 vagas|Aponiã
+R$ 330.000|3 quartos | 85m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 300.000|2 quartos | 200m² |R$ 0 | 3 vagas|Caladinho
+R$ 230.000|2 quartos | 58m² | | 1 vaga|Aponiã
+R$ 161.500|2 quartos| | | |Centro
+R$ 500.000|3 quartos | 0m² | | 3 vagas|Olaria
+R$ 1.350.000|4 quartos | 148m² |R$ 1.250 | 2 vagas|Pedrinhas
+R$ 670.000|3 quartos | 116m² |R$ 850 | 2 vagas|São João Bosco
+R$ 50.000|2 quartos| | | |Nova Floresta
+R$ 280.000|3 quartos | | | 1 vaga|Centro
+R$ 280.000|3 quartos | 74m² |R$ 520 | 1 vaga|Liberdade
+R$ 650|3 quartos | 100m² | | 2 vagas|Embratel
+R$ 1.990.000|5 ou mais quartos | 340m² |R$ 1.750 | 3 vagas|Nossa Senhora das Graças
+R$ 370.000|3 quartos | 210m² |R$ 0 | 3 vagas|Aponiã
+R$ 30.000|1 quarto | | | 1 vaga|Igarapé
+R$ 160.000|4 quartos | 0m²| | |Cohab
+R$ 1.000.000|3 quartos | 220m² |R$ 0 | 2 vagas|Aponiã
+R$ 550.000|3 quartos | 130m² | | 2 vagas|Igarapé
+R$ 449.000|3 quartos | 150m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 560.000|2 quartos | 115m² |R$ 0 | 3 vagas|Lagoa
+R$ 100.000|2 quartos | 100m² |R$ 0| |Centro
+R$ 225.000|3 quartos | 74m² |R$ 340| |Rio Madeira
+R$ 95.000|2 quartos | 63m² |R$ 0| |Área Rural de Porto Velho
+R$ 240.000|2 quartos | |R$ 224 | 2 vagas|Novo Horizonte
+R$ 380.000|3 quartos | 84m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 1.100.000|5 ou mais quartos | 350m² |R$ 880 | 4 vagas|Costa e Silva
+R$ 40.000|1 quarto| | | |Lagoinha
+R$ 250.000|3 quartos | 170m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 149.999|2 quartos | 70m² | | 2 vagas|Bairro Novo
+R$ 600.000|4 quartos | 129m² |R$ 0 | 2 vagas|Santa Bárbara
+R$ 670.000|5 ou mais quartos | 425m² |R$ 0 | 5 ou mais vagas|Agenor de Carvalho
+R$ 20.000|2 quartos | | | 2 vagas|Aeroclube
+R$ 80.000|1 quarto | 60m² |R$ 0 | 4 vagas|Cascalheira
+R$ 300.000|3 quartos | | | 2 vagas|Aponiã
+R$ 1.450.000|3 quartos | 220m² | | 2 vagas|Olaria
+R$ 560.000|3 quartos | 84m² | | 2 vagas|Lagoa
+R$ 40.000|2 quartos | 54m²| | |Cidade Jardim
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 215.000|3 quartos | 90m² |R$ 450 | 1 vaga|Rio Madeira
+R$ 300.000|3 quartos | 201m² |R$ 0 | 4 vagas|Eldorado
+R$ 1.800.000|4 quartos | 550m² |R$ 1.000 | 3 vagas|Pedrinhas
+R$ 850.000|3 quartos | 159m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 161.000|2 quartos | 52m² |R$ 0 | 1 vaga|Esperança da Comunidade
+R$ 1.400.000|4 quartos | 280m² |R$ 1.500 | 3 vagas|Baixa União
+R$ 850.000|3 quartos | 168m² |R$ 990 | 2 vagas|Nossa Senhora das Graças
+R$ 60.000|1 quarto | 92m² | | 3 vagas|Planalto
+R$ 1.280.000|5 ou mais quartos | 330m² |R$ 550 | 5 ou mais vagas|Nova Porto Velho
+R$ 650.000|2 quartos | 107m² |R$ 812 | 2 vagas|Olaria
+R$ 620.000|3 quartos | 154m² |R$ 1.139 | 3 vagas|Agenor de Carvalho
+R$ 300.000|2 quartos | 150m² |R$ 0 | 3 vagas|Aponiã
+R$ 1.100.000|4 quartos | 0m² | | 2 vagas|Nova Porto Velho
+R$ 110.000|3 quartos | 140m² |R$ 0| |Ulisses Guimarães
+R$ 500.000|3 quartos | 480m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 54.000|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 325.000|3 quartos | 74m² | | 2 vagas|Liberdade
+R$ 100.000|3 quartos | | | 2 vagas|Juscelino Kubitschek
+R$ 186.000|3 quartos | |R$ 0 | 2 vagas|Bairro Novo
+R$ 60.000|2 quartos| | | |Cohab
+R$ 660.000|3 quartos | 110m² | | 2 vagas|Olaria
+R$ 350.000|3 quartos | 350m² |R$ 0 | 3 vagas|Eldorado
+R$ 1.200.000|3 quartos | 216m² |R$ 400 | 4 vagas|Cidade Jardim
+R$ 385.000|3 quartos | 90m² |R$ 770 | 1 vaga|Triângulo
+R$ 290.000|3 quartos | 220m² | | 2 vagas|Aponiã
+R$ 900.000|3 quartos | 300m² | | 3 vagas|Panair
+R$ 360.000|2 quartos | 300m² | | 3 vagas|Aponiã
+R$ 550.000|3 quartos | 130m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 1.050.000|3 quartos | 211m² |R$ 760 | 2 vagas|Cuniã
+R$ 870.000|3 quartos | 161m² |R$ 400| |Aponiã
+R$ 3.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 300.000|3 quartos | 85m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 220.000|3 quartos | 72m² |R$ 350 | 1 vaga|Nova Esperança
+R$ 580.000|2 quartos | 96m² |R$ 735 | 2 vagas|São João Bosco
+R$ 195.000|2 quartos | 87m² | | 2 vagas|Três Marias
+R$ 150.000|2 quartos | 65m² |R$ 465 | 1 vaga|Rio Madeira
+R$ 265.000|2 quartos | 52m² |R$ 0 | 1 vaga|Igarapé
+R$ 850.000|3 quartos | 236m² |R$ 400 | 2 vagas|Triângulo
+R$ 180.000|2 quartos | 54m² |R$ 0| |Bairro Novo
+R$ 1.090.000|4 quartos | 360m² |R$ 0| |Nova Porto Velho
+R$ 900.000|3 quartos | 1260m² |R$ 0| |Agenor de Carvalho
+R$ 500.000|3 quartos | 233m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 55.000|1 quarto| | | |Arigolândia
+R$ 820.000|3 quartos | 161m² |R$ 0 | 4 vagas|Aponiã
+R$ 370.000|4 quartos | 220m² |R$ 0 | 3 vagas|Aponiã
+R$ 290.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 160.000|2 quartos | 47m² |R$ 0 | 4 vagas|Aeroclube
+R$ 1.000.000|5 ou mais quartos | 464m² |R$ 900 | 2 vagas|Panair
+R$ 140.000|3 quartos | 61m²| | |Bairro Novo
+R$ 115.000|2 quartos | 42m² |R$ 250 | 1 vaga|Bairro Novo
+R$ 150.000|2 quartos | 61m² |R$ 250 | 1 vaga|Eletronorte
+R$ 230.000|2 quartos | 100m²| | |Três Marias
+R$ 450.000|2 quartos | 75m² |R$ 450 | 1 vaga|São João Bosco
+R$ 395.000|3 quartos | 250m² | | 2 vagas|Nova Floresta
+R$ 550.000|3 quartos | 12000m² |R$ 450 | 2 vagas|Pedrinhas
+R$ 180.000|1 quarto | 300m² | | 2 vagas|Castanheira
+R$ 210.000|2 quartos | 93m² |R$ 250 | 1 vaga|Embratel
+R$ 1.748.000| |2146m²| | |São Cristóvão
+R$ 750|2 quartos | 60m²| | |Bairro Novo
+R$ 161.000|2 quartos | 52m² |R$ 0 | 1 vaga|Esperança da Comunidade
+R$ 452.284|3 quartos | 75m² | | 2 vagas|Rio Madeira
+R$ 350.000|3 quartos | 160m² |R$ 0 | 2 vagas|Escola de Polícia
+R$ 440.000|2 quartos | 185m² |R$ 0 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 30.000|2 quartos | |R$ 30.000| |Aeroclube
+R$ 400.000|4 quartos | 400m² | | 2 vagas|Igarapé
+R$ 299.990|2 quartos | 875m² | | 5 ou mais vagas|Cohab
+R$ 60.000|2 quartos | 47m² |R$ 0 | 3 vagas|Aeroclube
+R$ 135.000|3 quartos | 80m² | | 2 vagas|Juscelino Kubitschek
+R$ 345.000|2 quartos | 100m² |R$ 0 | 2 vagas|Aponiã
+R$ 270.000|2 quartos | 110m² |R$ 250| |Lagoa
+R$ 570.000|3 quartos | 1020m² |R$ 0| |São Cristóvão
+R$ 140.000|2 quartos | 48m² |R$ 0| |Rio Madeira
+R$ 30.000| | | | |Areal
+R$ 235.000|2 quartos | 49m² | | 1 vaga|Igarapé
+R$ 65.000|2 quartos | 76m² | | 1 vaga|Aeroclube
+R$ 290.000|5 ou mais quartos | 360m² |R$ 0 | 2 vagas|Areal
+R$ 180.000|2 quartos | 45m² |R$ 0 | 1 vaga|Aeroclube
+R$ 65.000|2 quartos | | | 1 vaga|Três Marias
+R$ 599.000|3 quartos | 120m² |R$ 0 | 2 vagas|Olaria
+R$ 365.000|3 quartos | 85m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 1.000.000|4 quartos | 142m² |R$ 0 | 2 vagas|Olaria
+R$ 700.000|4 quartos | 476m² | | 4 vagas|Rio Madeira
+R$ 2.700.000|4 quartos | 537m² | | 3 vagas|Rio Madeira
+R$ 750.000|3 quartos | 144m² |R$ 1.000 | 2 vagas|Rio Madeira
+R$ 95.000|3 quartos | 0m² |R$ 0 | 2 vagas|Ulisses Guimarães
+R$ 41.000|1 quarto | 17m²| | |Jardim Santana
+R$ 65.000|4 quartos | | | 1 vaga|Três Marias
+R$ 460.000|3 quartos | 150m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 700.000|5 ou mais quartos | 500m²| | |Nova Porto Velho
+R$ 500.000|3 quartos | 84m² |R$ 460 | 2 vagas|Lagoa
+R$ 425.000| |0m²| | |Cohab
+R$ 1.200.000|3 quartos | 270m² |R$ 360 | 2 vagas|Nova Esperança
+R$ 299.000|3 quartos | 275m² |R$ 0 | 5 ou mais vagas|Marcos Freire
+R$ 175.000|2 quartos | |R$ 82| |Novo Horizonte
+R$ 550.000|3 quartos | 107m² |R$ 780 | 2 vagas|Olaria
+R$ 1.900.000|4 quartos | 182m² |R$ 0 | 5 ou mais vagas|Nova Esperança
+R$ 1.300.000|3 quartos | 360m² |R$ 450 | 4 vagas|Nova Esperança
+R$ 420.000|3 quartos | 90m² |R$ 450 | 1 vaga|Rio Madeira
+R$ 45.000|1 quarto | 200m² | | 1 vaga|Marcos Freire
+R$ 35.000| | |Condomínio: R$ 0| |Três Marias
+R$ 115.000|2 quartos | 41m² | | 1 vaga|Bairro Novo
+R$ 180.000|3 quartos | 100m² |R$ 0 | 3 vagas|Cohab
+R$ 45.000|3 quartos | |R$ 0| |Ulisses Guimarães
+R$ 300.000|3 quartos | 77m² |R$ 300 | 2 vagas|Agenor de Carvalho
+R$ 1.250.000|5 ou mais quartos | 314m² |R$ 1.250.000 | 3 vagas|Rio Madeira
+R$ 785.000|3 quartos | 140m² |R$ 450 | 2 vagas|Olaria
+R$ 450.000|5 ou mais quartos | 500m² |R$ 0| |Tancredo Neves
+R$ 50.000|1 quarto| | | |Tancredo Neves
+R$ 1.200.000|3 quartos | | | 3 vagas|Nova Esperança
+R$ 299.999|3 quartos | 110m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 90.000|1 quarto | 107008m² | | 1 vaga|São João Bosco
+R$ 115.000|2 quartos | 42m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 1.250.000|4 quartos | 285m² |R$ 0 | 2 vagas|Igarapé
+R$ 200.000|2 quartos | 58m² |R$ 620 | 1 vaga|Nova Esperança
+R$ 841.000|4 quartos | 173m² |R$ 0 | 2 vagas|Olaria
+R$ 320.000|3 quartos | 74m² |R$ 700 | 1 vaga|Agenor de Carvalho
+R$ 170.000|3 quartos | 150m² |R$ 0 | 2 vagas|Juscelino Kubitschek
+R$ 310.000|3 quartos | 90m² | | 2 vagas|Embratel
+R$ 350.000|3 quartos | 85m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 720.720|3 quartos | 136m² |R$ 730 | 2 vagas|São João Bosco
+R$ 560.000|2 quartos | 105m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 280.000|1 quarto | 250m² |R$ 0 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 29.000|3 quartos | 1028m² | | 2 vagas|Esperança da Comunidade
+R$ 847.000|4 quartos | |R$ 950 | 3 vagas|Nova Porto Velho
+R$ 400.000|3 quartos | 104m² |R$ 0 | 2 vagas|Embratel
+R$ 240.000|3 quartos | 77m² |R$ 0 | 2 vagas|Planalto
+R$ 350.000|3 quartos | 140m² |R$ 0 | 2 vagas|Aponiã
+R$ 1.500.000|4 quartos | 317m² |R$ 1.100 | 4 vagas|Lagoa
+R$ 680.000|3 quartos | 160m² |R$ 1.165 | 2 vagas|Olaria
+R$ 2.200.000|4 quartos | 368m² |R$ 0 | 2 vagas|Aponiã
+R$ 320.000|3 quartos | 200m² |R$ 0 | 2 vagas|Agenor de Carvalho
+R$ 338.000|4 quartos | 160m² |R$ 0 | 5 ou mais vagas|Eletronorte
+R$ 450.000|3 quartos | | | 3 vagas|Cuniã
+R$ 180.000|2 quartos | | | 1 vaga|Cuniã
+R$ 220.000|3 quartos | | | 2 vagas|Cuniã
+R$ 550.000|3 quartos | 105m² |R$ 0 | 2 vagas|Liberdade
+R$ 1.350.000|4 quartos | 214m² | | 2 vagas|Agenor de Carvalho
+R$ 190.000|2 quartos | 60m² |R$ 0| |Nova Esperança
+R$ 179.000|3 quartos | 200m² | | 3 vagas|Castanheira
+R$ 390.000|4 quartos | 264m² | | 2 vagas|São João Bosco
+R$ 1.150.000|4 quartos | 450m² |R$ 650 | 4 vagas|Nova Esperança
+R$ 700.000|5 ou mais quartos | 420m² |R$ 0 | 5 ou mais vagas|Agenor de Carvalho
+R$ 1.500.000|5 ou mais quartos| | | |Olaria
+R$ 1.780.000|4 quartos | 280m² |R$ 0| |Centro
+R$ 450.000|3 quartos | 200m² |R$ 180| |Rio Madeira
+R$ 475.000|3 quartos | 84m² |R$ 0 | 2 vagas|Lagoa
+R$ 550.000|3 quartos | |R$ 350 | 2 vagas|Pedrinhas
+R$ 80.000|2 quartos | | | 1 vaga|Ronaldo Aragão
+R$ 350.000|3 quartos | 74m² |R$ 440 | 1 vaga|Rio Madeira
+R$ 310.000|3 quartos | 72m² |R$ 450 | 1 vaga|Agenor de Carvalho
+R$ 580.000|3 quartos | 96m² |R$ 650 | 2 vagas|São João Bosco
+R$ 620.000|5 ou mais quartos | 438m² |R$ 0 | 4 vagas|Rio Madeira
+R$ 269.999|4 quartos | 250m² | | 5 ou mais vagas|Juscelino Kubitschek
+R$ 360.000|4 quartos | 250m² |R$ 0 | 2 vagas|Lagoinha
+R$ 280.000|2 quartos| | | |Agenor de Carvalho
+R$ 550.000|3 quartos | 84m² |R$ 0 | 2 vagas|Lagoa
+R$ 600.000|3 quartos | 220m² |R$ 500 | 4 vagas|Aeroclube
+R$ 1.200.000|5 ou mais quartos | | | 5 ou mais vagas|São João Bosco
+R$ 520.000|3 quartos | 90m² |R$ 600 | 2 vagas|Lagoa
+R$ 250.000|4 quartos | 200m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 900.000|4 quartos | 380m² | | 2 vagas|São João Bosco
+R$ 55.000|3 quartos| | | |Igarapé
+R$ 890.000|3 quartos | | | 5 ou mais vagas|Cuniã
+R$ 490.000|5 ou mais quartos | | | 5 ou mais vagas|Cuniã
+R$ 230|2 quartos | |R$ 200| |Novo Horizonte
+R$ 279.000|2 quartos | | | 3 vagas|Bairro Novo
+R$ 300.000|3 quartos | | | 2 vagas|Cuniã
+R$ 310.000|3 quartos | 70m² | | 1 vaga|Cuniã
+R$ 560.000|3 quartos | | | 2 vagas|Cuniã
+R$ 200.000|2 quartos | 94m² |R$ 186 | 2 vagas|Planalto
+R$ 420.000|3 quartos | 100m² | | 2 vagas|Embratel
+R$ 46.999|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 180.000|5 ou mais quartos | 0m² |R$ 0 | 2 vagas|São Sebastião
+R$ 330.000|3 quartos | 85m² |R$ 0 | 1 vaga|Floresta
+R$ 520.000|3 quartos | 120m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 1.290.000|4 quartos | 319m² |R$ 0 | 3 vagas|Igarapé
+R$ 260.000|3 quartos | 100m² | | 2 vagas|Aponiã
+R$ 560.000|3 quartos | 123m² | | 2 vagas|Santa Bárbara
+R$ 260.000|2 quartos | 52m² |R$ 0| |Igarapé
+R$ 160.000|2 quartos | 46m² |R$ 150 | 1 vaga|Aeroclube
+R$ 55.000|2 quartos | 2m²| | |Teixeirão
+R$ 1.200.000|3 quartos | | | 2 vagas|Cuniã
+R$ 300.000|2 quartos | 250m² |R$ 0| |Nova Floresta
+R$ 1.250.000|3 quartos | | | 2 vagas|Cuniã
+R$ 70.000|2 quartos | 250m²| | |Caladinho
+R$ 650.000|3 quartos | 160m² | | 2 vagas|Cuniã
+R$ 240.000|3 quartos | 0m² | | 4 vagas|Embratel
+R$ 200.000|3 quartos | 60m² |R$ 198 | 2 vagas|Bairro Novo
+R$ 350.000|3 quartos | 74m² | | 1 vaga|Rio Madeira
+R$ 350.000|3 quartos | 82m² |R$ 580 | 1 vaga|Rio Madeira
+R$ 1.500.000|3 quartos | 257m² |R$ 0 | 4 vagas|Triângulo
+R$ 330.000|3 quartos | 31381m²| | |Panair
+R$ 115.000|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 280.000|3 quartos | 210m²| | |Nova Floresta
+R$ 780.000|3 quartos | 143m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 350.000|3 quartos | 91m² |R$ 256 | 3 vagas|Triângulo
+R$ 250.000|2 quartos | 68m² |R$ 230 | 1 vaga|Nova Esperança
+R$ 25.000|2 quartos| | | |Mariana
+R$ 180.000|2 quartos | 52m² |R$ 170 | 1 vaga|Areal
+R$ 325.000|3 quartos | 41m² |R$ 187 | 2 vagas|Novo Horizonte
+R$ 340.000|3 quartos | 230m² | | 2 vagas|Aponiã
+R$ 840.000|3 quartos | 158m² |R$ 400 | 2 vagas|Aponiã
+R$ 700.000|3 quartos | 140m² |R$ 1.160 | 2 vagas|Olaria
+R$ 1.000.000|3 quartos | 148m² |R$ 1.200 | 2 vagas|Olaria
+R$ 1.750.000|4 quartos | 280m² |R$ 1.500 | 3 vagas|Baixa União
+R$ 1.550.000|3 quartos | 245m² |R$ 720 | 2 vagas|Aponiã
+R$ 108.000|2 quartos | 42m² |R$ 0 | 1 vaga|Bairro Novo
+R$ 250.000|3 quartos | 100m² | | 2 vagas|Aponiã
+R$ 330.000|3 quartos | 74m² |R$ 620 | 1 vaga|Liberdade
+R$ 4.500.000|5 ou mais quartos | 1631m² |R$ 0| |Nossa Senhora das Graças
+R$ 60.000|2 quartos | 112m² |R$ 0 | 3 vagas|Ronaldo Aragão
+R$ 240.000|3 quartos | 70m² | | 2 vagas|Juscelino Kubitschek
+R$ 160.000|2 quartos | 0m² | | 1 vaga|Aeroclube
+R$ 260.000|3 quartos | 110m² |R$ 0 | 5 ou mais vagas|Cohab
+R$ 2.700.000|4 quartos | 537m² |R$ 800 | 3 vagas|Aponiã
+R$ 130.000| | | | |Cascalheira
+R$ 250.000|2 quartos | 160m² |R$ 0 | 3 vagas|Conceição
+R$ 280.000|5 ou mais quartos | 280m²| | |Nova Floresta
+R$ 179.999|4 quartos | 250m² |R$ 0 | 4 vagas|Jardim Santana
+R$ 35.000|2 quartos | 50m² |R$ 130 | 1 vaga|Socialista
+R$ 330.000|2 quartos | 111m² |R$ 264 | 2 vagas|Jardim Santana
+R$ 550.000|3 quartos | 210m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 290.000|3 quartos | 150m² |R$ 0 | 2 vagas|Aponiã
+R$ 1.000.000|5 ou mais quartos | 250m² |R$ 0| |Nova Floresta
+R$ 1.000.000|3 quartos | 147m² |R$ 1.000 | 2 vagas|Nova Porto Velho
+R$ 180.000|2 quartos | 140m² |R$ 0 | 4 vagas|Nova Esperança
+R$ 160.000|5 ou mais quartos | 55m² | | 3 vagas|Cohab
+R$ 290.000|3 quartos | 80m² | | 2 vagas|Lagoa
+R$ 430.000|3 quartos | 182m² |R$ 0 | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 750.000|1 quarto | 45m² |R$ 0| |Nova Floresta
+R$ 550.000|5 ou mais quartos | 290m² |R$ 900 | 5 ou mais vagas|Lagoa
+R$ 300|2 quartos | | | 1 vaga|Agenor de Carvalho
+R$ 790.000|3 quartos | 161m² | | 2 vagas|Aponiã
+R$ 800.000|4 quartos | 176m² | | 2 vagas|Olaria
+R$ 27.000|2 quartos | 25m² | | 2 vagas|Marcos Freire
+R$ 350.000|3 quartos | 160m² |R$ 0 | 2 vagas|Escola de Polícia
+R$ 330.000|3 quartos | 87m² |R$ 0 | 1 vaga|Liberdade
+R$ 680|3 quartos | 0m² |R$ 290 | 2 vagas|Eletronorte
+R$ 330.000|3 quartos | 85m² | | 2 vagas|Rio Madeira
+R$ 900.000|3 quartos | 187m² |R$ 330 | 4 vagas|Aponiã
+R$ 380.000|3 quartos | 74m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 220.000|3 quartos | 84m² |R$ 280 | 1 vaga|Nova Esperança
+R$ 190.000|2 quartos | | | 2 vagas|São Cristóvão
+R$ 650.000|3 quartos | 143m² |R$ 1.100 | 2 vagas|Nossa Senhora das Graças
+R$ 25.000|2 quartos| | | |Aeroclube
+R$ 36.000|3 quartos | 200m² | | 2 vagas|Caiari
+R$ 390.000|3 quartos | 76m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 150.000|3 quartos | 350m² | | 2 vagas|Nova Esperança
+R$ 830.000|3 quartos | 143m² |R$ 0 | 2 vagas|Nossa Senhora das Graças
+R$ 1.150.000|5 ou mais quartos | 450m² |R$ 1.210 | 4 vagas|Nova Porto Velho
+R$ 80.000|2 quartos| | | |Castanheira
+R$ 600.000|3 quartos | 120m² | | 2 vagas|Nossa Senhora das Graças
+R$ 180.000|2 quartos | 70m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 400.000|3 quartos | 252m² | | 3 vagas|Agenor de Carvalho
+R$ 300.000|4 quartos | 230m² | | 2 vagas|Nova Floresta
+R$ 640.000|3 quartos | |R$ 228| |Nova Floresta
+R$ 100.000|2 quartos | 0m² |R$ 0 | 2 vagas|Nossa Senhora das Graças
+R$ 880.000|2 quartos | 200m² | | 5 ou mais vagas|Centro
+R$ 2.300|3 quartos | 120m² | | 1 vaga|Agenor de Carvalho
+R$ 350.000|3 quartos | 67m² |R$ 280 | 2 vagas|Planalto
+R$ 565.000|3 quartos | 130m² |R$ 350 | 4 vagas|Pedrinhas
+R$ 250.000|3 quartos| | | |Baixa União
+R$ 450.000|3 quartos | 98m² |R$ 180 | 2 vagas|Rio Madeira
+R$ 130.000|1 quarto | | | 2 vagas|Nova Esperança
+R$ 220.000|4 quartos | 250m² | | 2 vagas|Aponiã
+R$ 125.000|3 quartos | 90m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 180.000|2 quartos | 42m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 120.000|2 quartos | 0m²| | |Lagoinha
+R$ 120.000|2 quartos | 0m²| | |Floresta
+R$ 230.000|2 quartos | 0m² | | 2 vagas|Caladinho
+R$ 459.000|3 quartos | 104m² |R$ 0 | 2 vagas|Castanheira
+R$ 1.750.000|4 quartos | 256m² |R$ 1.500 | 3 vagas|Centro
+R$ 295.000|4 quartos | 230m² |R$ 0 | 5 ou mais vagas|Floresta
+R$ 149.999|3 quartos | 80m²| | |Aponiã
+R$ 140.000|2 quartos | 64m² |R$ 250 | 1 vaga|Novo Horizonte
+R$ 315.000|3 quartos | 85m² |R$ 590 | 2 vagas|Rio Madeira
+R$ 98.000|2 quartos | 70m² |R$ 0| |Caladinho
+R$ 360.000|3 quartos | 67m² |R$ 0| |Lagoa
+R$ 360.000|3 quartos | 90m² |R$ 540 | 2 vagas|Costa e Silva
+R$ 150.000|2 quartos | 56m² |R$ 300 | 1 vaga|Rio Madeira
+R$ 60.000|2 quartos | | | 1 vaga|Ulisses Guimarães
+R$ 100.000|3 quartos | | | 2 vagas|Juscelino Kubitschek
+R$ 310.000|3 quartos | 120m² | | 2 vagas|Cuniã
+R$ 1.000.000|3 quartos | 165m² |R$ 350 | 2 vagas|Aponiã
+R$ 950.000|3 quartos | 395m² | | 4 vagas|Nova Porto Velho
+R$ 490.000|5 ou mais quartos | 510m² |R$ 0 | 3 vagas|Areal
+R$ 390.000|3 quartos | 74m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 850.000|3 quartos | 238m² | | 4 vagas|São João Bosco
+R$ 850.000|4 quartos | 200m² |R$ 550 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 1.400.000|4 quartos | 270m² | | 3 vagas|São João Bosco
+R$ 890.000|3 quartos | 213m² |R$ 1.200 | 2 vagas|Nova Porto Velho
+R$ 1.200.000|3 quartos | 302m² |R$ 2.200 | 3 vagas|Panair
+R$ 120.000|2 quartos | 70m² | | 4 vagas|Lagoinha
+R$ 60.000|2 quartos | 250m² |R$ 0 | 1 vaga|Castanheira
+R$ 45.000|2 quartos | |R$ 65.000| |Três Marias
+R$ 459.000|3 quartos | 104m² |R$ 450 | 4 vagas|Aeroclube
+R$ 260.000|2 quartos | 146m² |R$ 0 | 2 vagas|Novo Horizonte
+R$ 865.000|3 quartos | 202m² |R$ 1.138| |Agenor de Carvalho
+R$ 490.000|3 quartos | 400m²| | |Aponiã
+R$ 265.000|2 quartos | 136m² | | 2 vagas|Liberdade
+R$ 379.999|3 quartos | 140m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 350.000|3 quartos | 74m² |R$ 440 | 1 vaga|Rio Madeira
+R$ 1.500.000|4 quartos | 950m² |R$ 900 | 4 vagas|Panair
+R$ 782.700|2 quartos | 169m² |R$ 988 | 2 vagas|Nossa Senhora das Graças
+R$ 500.000|2 quartos | 10m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 45.000|2 quartos | 46m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 250.000|2 quartos | 72m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 190.000|1 quarto | 43m² |R$ 0| |Caladinho
+R$ 19.000|1 quarto | 15m²| | |Aeroclube
+R$ 400.000|3 quartos | 143m² |R$ 400 | 2 vagas|Lagoa
+R$ 100.000|3 quartos | 30m² | | 1 vaga|São Sebastião
+R$ 65.000|2 quartos | | | 1 vaga|Ronaldo Aragão
+R$ 70.000|2 quartos | | | 2 vagas|Caladinho
+R$ 220.000|3 quartos | 100m² |R$ 190 | 2 vagas|Bairro Novo
+R$ 380.000|3 quartos | 250m² | | 3 vagas|Aponiã
+R$ 0|3 quartos | 84m²| | |Liberdade
+R$ 700.000|3 quartos | 117m² |R$ 800 | 2 vagas|São João Bosco
+R$ 295.000|3 quartos | 78m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 850.000|3 quartos | |R$ 800 | 2 vagas|Rio Madeira
+R$ 25.000|2 quartos | | | 2 vagas|Cohab
+R$ 0|2 quartos | 0m² |R$ 0 | 1 vaga|Centro
+R$ 180.000|2 quartos | | | 2 vagas|Castanheira
+R$ 225.000|3 quartos | 250m² |R$ 0 | 2 vagas|Aponiã
+R$ 450.000|4 quartos | 200m² |R$ 0 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 60.000|2 quartos | | | 2 vagas|Maringá
+R$ 580.000|3 quartos | 120m² | | 2 vagas|Industrial
+R$ 1.950.000|3 quartos | 450m² |R$ 1.000 | 4 vagas|Panair
+R$ 310.000|3 quartos | 300m² |R$ 0 | 3 vagas|Aponiã
+R$ 50.000|1 quarto| | | |Mariana
+R$ 180.000|3 quartos | 50m² | | 2 vagas|Liberdade
+R$ 85.000|2 quartos | | | 2 vagas|Conceição
+R$ 35.000|2 quartos | 300m²| | |Bairro Novo
+R$ 650.000|4 quartos | 150m² |R$ 0 | 4 vagas|Embratel
+R$ 310.000|3 quartos | 70m² | | 1 vaga|Agenor de Carvalho
+R$ 750.000|3 quartos | 250m² |R$ 450 | 4 vagas|Castanheira
+R$ 320.000|3 quartos | 72m² |R$ 450 | 1 vaga|Agenor de Carvalho
+R$ 750.000|4 quartos | | | 2 vagas|Aponiã
+R$ 600.000|3 quartos | | | 2 vagas|Rio Madeira
+R$ 290.000|2 quartos | 123m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 350| |2m² |R$ 2| |Ulisses Guimarães
+R$ 18.000|2 quartos| | | |Caladinho
+R$ 280.000|2 quartos | 150m² | | 2 vagas|Lagoa
+R$ 275.000|2 quartos | 122m² | | 2 vagas|Aponiã
+R$ 400.000|2 quartos | | | 2 vagas|Esperança da Comunidade
+R$ 600.000|5 ou mais quartos | 350m² |R$ 0 | 4 vagas|Agenor de Carvalho
+R$ 150.000|2 quartos | 90m² |R$ 0| |Esperança da Comunidade
+R$ 450.000| |0m²| | |Eldorado
+R$ 350.000|4 quartos | 215m² |R$ 0 | 2 vagas|Embratel
+R$ 250.000|2 quartos | 94m² |R$ 250 | 1 vaga|Aeroclube
+R$ 155.000|3 quartos | 1157m² | | 2 vagas|Nacional
+R$ 190.800|2 quartos | 42m² |R$ 165 | 2 vagas|Bairro Novo
+R$ 890.000|3 quartos | 0m² |R$ 0 | 2 vagas|Aponiã
+R$ 240.000|3 quartos | 107m² |R$ 0 | 2 vagas|Cuniã
+R$ 160.000|2 quartos | 42m² |R$ 0| |Bairro Novo
+R$ 291.000|2 quartos | 58m² |R$ 400 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 0|2 quartos | 52m² | | 2 vagas|Planalto
+R$ 250.000|3 quartos | 102m² |R$ 0 | 2 vagas|Cuniã
+R$ 500.000|3 quartos | 136m² | | 2 vagas|Nova Porto Velho
+R$ 0|3 quartos | 60m² | | 2 vagas|Rio Madeira
+R$ 235.900|2 quartos | 66m² | | 1 vaga|Lagoa
+R$ 260.000|2 quartos | 50m² |R$ 0 | 1 vaga|Igarapé
+R$ 0|3 quartos | 70m² | | 2 vagas|Rio Madeira
+R$ 0| |52m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 210.000|2 quartos | 220m² | | 1 vaga|Castanheira
+R$ 190.000|3 quartos | 120m² | | 2 vagas|Eletronorte
+R$ 150.000|2 quartos | 300m² |R$ 0 | 2 vagas|Aponiã
+R$ 172.000|2 quartos | 50m² |R$ 0 | 1 vaga|Planalto
+R$ 400.000|4 quartos | 143m² |R$ 0| |Lagoa
+R$ 150.000|2 quartos | | | 2 vagas|Esperança da Comunidade
+R$ 550.000|3 quartos | 110m² | | 2 vagas|Embratel
+R$ 650.000|3 quartos | 290m² |R$ 0 | 2 vagas|Olaria
+R$ 320.000|3 quartos | | | 2 vagas|Embratel
+R$ 305.000|3 quartos | 72m² | | 2 vagas|Aponiã
+R$ 1.100.000|3 quartos | 198m² |R$ 400 | 2 vagas|Cidade Jardim
+R$ 550.000|3 quartos | 100m² |R$ 500 | 2 vagas|Industrial
+R$ 1.350.000|3 quartos | 256m² | | 2 vagas|Aponiã
+R$ 350.000|4 quartos | 180m² | | 2 vagas|Aponiã
+R$ 350.000|3 quartos | 91m² |R$ 0 | 2 vagas|Triângulo
+R$ 130.000|2 quartos | 250m² |R$ 0 | 5 ou mais vagas|Novo Horizonte
+R$ 560.000|3 quartos | 146m² |R$ 1.300 | 2 vagas|Embratel
+R$ 330.000|2 quartos | 55m² |R$ 0 | 1 vaga|Nossa Senhora das Graças
+R$ 0|3 quartos | | | 2 vagas|Conceição
+R$ 980.000|4 quartos | 305m² |R$ 0| |Panair
+R$ 220.000|3 quartos | 140m² |R$ 0 | 3 vagas|Aponiã
+R$ 80.000|2 quartos | 80m² |R$ 0| |Teixeirão
+R$ 890.000|5 ou mais quartos | 550m² |R$ 0 | 2 vagas|Arigolândia
+R$ 450.000|4 quartos | 250m² |R$ 0 | 2 vagas|Baixa União
+R$ 350.000|3 quartos | 190m² |R$ 0 | 2 vagas|Aponiã
+R$ 260.000|3 quartos | 80m² |R$ 400| |Cuniã
+R$ 1.100.000|3 quartos | 152m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 950.000|3 quartos | 152m² |R$ 1.000 | 2 vagas|Embratel
+R$ 480.000|3 quartos | 84m² | | 2 vagas|Pedrinhas
+R$ 20.000|2 quartos | |R$ 44 | 1 vaga|São Francisco
+R$ 890.000|3 quartos | | | 3 vagas|Aponiã
+R$ 110.000|2 quartos | 80m² |R$ 0 | 1 vaga|Aeroclube
+R$ 1.250.000|3 quartos | 240m² |R$ 400 | 2 vagas|Triângulo
+R$ 1.400.000|5 ou mais quartos | 530m² |R$ 0 | 5 ou mais vagas|Nova Esperança
+R$ 900.000|4 quartos | 235m² |R$ 1.260 | 4 vagas|Olaria
+R$ 750.000|3 quartos | 244m² |R$ 0 | 2 vagas|Aponiã
+R$ 550.000|3 quartos | 130m² | | 2 vagas|Pedrinhas
+R$ 1.450.000|3 quartos | 258m² |R$ 1.500 | 3 vagas|Olaria
+R$ 380.000|3 quartos | 250m² |R$ 0| |Flodoaldo Pontes Pinto
+R$ 250.000|2 quartos | 68m² |R$ 170 | 2 vagas|Bairro Novo
+R$ 210.000|2 quartos | 70m² | | 2 vagas|Aponiã
+R$ 300.000|3 quartos | 140m² |R$ 0 | 3 vagas|Aponiã
+R$ 170.000|2 quartos | 52m² |R$ 325 | 1 vaga|Rio Madeira
+R$ 300.000|3 quartos | 150m² |R$ 0 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 29.000|1 quarto | 290m² |R$ 0| |Teixeirão
+R$ 280.000|3 quartos | 440m² |R$ 0 | 2 vagas|Agenor de Carvalho
+R$ 180.000|2 quartos | 51m² |R$ 0 | 2 vagas|Planalto
+R$ 280.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 195.000|2 quartos | 58m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 960.000|3 quartos | 0m² |R$ 900 | 2 vagas|Nova Porto Velho
+R$ 290.000|3 quartos | 193m² |R$ 0 | 4 vagas|Agenor de Carvalho
+R$ 90.000|3 quartos| | | |Nova Esperança
+R$ 449.999|3 quartos | 95m² |R$ 0 | 2 vagas|Aponiã
+R$ 265.000|4 quartos | 200m² |R$ 0 | 3 vagas|Lagoinha
+R$ 700.000|3 quartos | 115m² |R$ 850 | 2 vagas|Olaria
+R$ 195.000|3 quartos | 61m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 300.000|4 quartos | 150m² |R$ 0 | 3 vagas|Tiradentes
+R$ 30.000|2 quartos | 250m² |R$ 0| |Cohab
+R$ 319.000|2 quartos | 100m² |R$ 370 | 1 vaga|Lagoa
+R$ 1.000.000|3 quartos | 500m² | | 5 ou mais vagas|Centro
+R$ 415.000| |0m²| | |Cuniã
+R$ 480.000|3 quartos | 573m² |R$ 0 | 2 vagas|Liberdade
+R$ 62.000|2 quartos | 45m² | | 1 vaga|Aeroclube
+R$ 400.000|3 quartos | 0m² | | 3 vagas|Três Marias
+R$ 400.000|2 quartos | 0m² | | 4 vagas|Floresta
+R$ 650.000|3 quartos | 212m² | | 2 vagas|Industrial
+R$ 550.000|3 quartos | 120m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 240.000|3 quartos | 90m² |R$ 340 | 1 vaga|Aeroclube
+R$ 1.200.000|4 quartos | 0m² | | 2 vagas|Lagoa
+R$ 3.200.000|4 quartos | 422m² |R$ 0 | 4 vagas|Aponiã
+R$ 100.000|2 quartos | 300m² | | 3 vagas|Cohab
+R$ 200.000|3 quartos | 74m² | | 2 vagas|Lagoinha
+R$ 259.800|3 quartos | 67m² |R$ 260 | 2 vagas|Planalto
+R$ 360.000|3 quartos | 196m² |R$ 0 | 2 vagas|Embratel
+R$ 850.000|3 quartos | 230m² | | 5 ou mais vagas|Pedrinhas
+R$ 350.000|2 quartos | 460m² | | 5 ou mais vagas|Liberdade
+R$ 160.000|2 quartos| | | |Escola de Polícia
+R$ 670.000|2 quartos | 97m² | | 2 vagas|Nova Porto Velho
+R$ 890.000|3 quartos | 164m² | | 2 vagas|Aponiã
+R$ 520.000|4 quartos | 250m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 1.500.000|4 quartos | 256m² |R$ 400 | 4 vagas|Cidade Jardim
+R$ 178.000|2 quartos | 70m² |R$ 0 | 2 vagas|Caladinho
+R$ 400.000|3 quartos | 143m² |R$ 400 | 2 vagas|Lagoa
+R$ 331.669|2 quartos | 60m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 55.000|2 quartos| | | |São Cristóvão
+R$ 243.495|2 quartos | 67m² |R$ 0 | 1 vaga|Lagoa
+|3 quartos | 0m² |R$ 375 | 2 vagas|Nova Esperança
+R$ 165.000|2 quartos | 65m² |R$ 150 | 1 vaga|Centro
+R$ 45.000|2 quartos | 46m² |R$ 0 | 1 vaga|Bairro Novo
+R$ 720.720|3 quartos | 135m² |R$ 0 | 2 vagas|Olaria
+R$ 500.000|2 quartos | 117m² |R$ 1.150 | 2 vagas|Olaria
+R$ 305.000|3 quartos | 72m² | | 2 vagas|Aponiã
+R$ 350.000|4 quartos | 150m² |R$ 0 | 4 vagas|Nova Esperança
+R$ 260.000|2 quartos | 72m² |R$ 0| |Cuniã
+R$ 690.000|3 quartos | 144m² | | 1 vaga|Nova Esperança
+R$ 2.200.000|4 quartos | 368m² | | 3 vagas|Rio Madeira
+R$ 325.000|3 quartos | 72m² |R$ 550 | 1 vaga|Nova Porto Velho
+R$ 1.060.000|3 quartos | 310m² |R$ 420 | 2 vagas|Triângulo
+R$ 155.000|3 quartos | 100m² |R$ 0 | 5 ou mais vagas|Bairro Novo
+R$ 89.999|2 quartos | 260m² |R$ 0 | 3 vagas|Lagoinha
+R$ 160.000|1 quarto | 128m² | | 1 vaga|Cuniã
+R$ 170.000|2 quartos | | | 2 vagas|Três Marias
+R$ 1.600.000|4 quartos | 416m² |R$ 0 | 4 vagas|Nova Esperança
+R$ 580.000|3 quartos | 83m² |R$ 550 | 2 vagas|Lagoa
+R$ 350.000|3 quartos | 210m² |R$ 0| |Floresta
+R$ 300.000|3 quartos | 180m² |R$ 0 | 3 vagas|Aponiã
+R$ 100.000|4 quartos| | | |Ronaldo Aragão
+R$ 1.250.000|4 quartos | 293m² |R$ 0 | 4 vagas|Mariana
+R$ 1.000.000|5 ou mais quartos | 430m² |R$ 0 | 5 ou mais vagas|Tucumanzal
+R$ 350.000|4 quartos | 230m² |R$ 0 | 2 vagas|Agenor de Carvalho
+R$ 342.200|2 quartos | 68m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 380.000|2 quartos | 180m² |R$ 0 | 5 ou mais vagas|Agenor de Carvalho
+R$ 150.000|2 quartos | 60m² |R$ 0 | 3 vagas|Jardim Santana
+R$ 119.999|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 135.000|2 quartos | 0m² |R$ 0 | 1 vaga|Costa e Silva
+R$ 140.000|2 quartos | | | 5 ou mais vagas|Três Marias
+R$ 195.000|2 quartos | 57m² | | 1 vaga|Nova Esperança
+R$ 30.000|2 quartos | 30m² |R$ 45 | 1 vaga|Aeroclube
+R$ 50.000|2 quartos | 180m² |R$ 0| |São Cristóvão
+R$ 110.000|2 quartos | 49m² |R$ 0 | 1 vaga|Bairro Novo
+R$ 903.990|3 quartos | 160m² |R$ 0 | 2 vagas|Aponiã
+R$ 90.000|2 quartos | 44m² |R$ 0 | 1 vaga|Aeroclube
+R$ 378.990|2 quartos | 98m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 550.000|2 quartos | 98m² |R$ 900 | 2 vagas|Costa e Silva
+R$ 450.000|3 quartos | 98m² |R$ 0 | 2 vagas|Aponiã
+R$ 100.000|3 quartos | | | 2 vagas|Triângulo
+R$ 585.000|3 quartos | 132m² |R$ 730 | 2 vagas|Olaria
+R$ 285.000|2 quartos | 58m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 675.000|3 quartos | 154m² | | 3 vagas|Agenor de Carvalho
+R$ 368.000|2 quartos | 61m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 243.495|2 quartos | 66m² |R$ 0 | 2 vagas|Lagoa
+R$ 520.000|3 quartos | 135m² |R$ 850 | 2 vagas|Olaria
+R$ 350.000|3 quartos | 74m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 490.000|3 quartos | 120m² |R$ 0 | 2 vagas|São Cristóvão
+R$ 35.000|3 quartos| | | |Ulisses Guimarães
+R$ 65.000|2 quartos| | | |Planalto
+R$ 450.000|3 quartos | 84m² |R$ 850| |Pedrinhas
+R$ 250.000|2 quartos | 0m² | | 1 vaga|Areal
+R$ 400.000|3 quartos | |R$ 550 | 2 vagas|Rio Madeira
+R$ 172.000|2 quartos | 52m² |R$ 150 | 2 vagas|Planalto
+R$ 70.000|1 quarto | | | 1 vaga|Nova Floresta
+R$ 450.000|4 quartos | 360m² |R$ 500 | 4 vagas|Aeroclube
+R$ 260.000|3 quartos | | | 3 vagas|Lagoinha
+R$ 380.000|3 quartos | 74m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 135.000|2 quartos | 50m² | | 3 vagas|Aponiã
+R$ 680.000|3 quartos | 450m² | | 2 vagas|Agenor de Carvalho
+R$ 14.000|2 quartos | | | 2 vagas|Eldorado
+R$ 650.000|3 quartos | 160m² | | 2 vagas|Rio Madeira
+R$ 890.000|3 quartos | 161m² |R$ 340 | 2 vagas|Nova Esperança
+R$ 130.000|3 quartos | | | 3 vagas|São Francisco
+R$ 1.850.000|4 quartos | 362m² | | 4 vagas|Rio Madeira
+R$ 175.000|2 quartos | 65m² |R$ 300 | 2 vagas|Aeroclube
+R$ 270.000|3 quartos | 196m² | | 2 vagas|Aeroclube
+R$ 250.000|3 quartos | 200m² | | 2 vagas|Aeroclube
+R$ 375.000|2 quartos | 95m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 1.600.000|3 quartos | 374m² |R$ 360 | 5 ou mais vagas|Liberdade
+R$ 480.000|3 quartos | 245m² | | 2 vagas|Pedrinhas
+R$ 580.000|3 quartos | 120m² |R$ 350 | 2 vagas|Industrial
+R$ 280.000|2 quartos | 200m² | | 2 vagas|Tancredo Neves
+R$ 670.000|2 quartos | 107m² | | 2 vagas|São João Bosco
+R$ 230.000|3 quartos | 150m² | | 3 vagas|Aeroclube
+R$ 500.000|4 quartos | 200m² |R$ 0 | 3 vagas|Cuniã
+R$ 1.250.000|3 quartos | 251m² |R$ 450 | 4 vagas|Aeroclube
+R$ 480.000|4 quartos | 286m² |R$ 0 | 4 vagas|Nova Esperança
+R$ 1.500.000|4 quartos | 327m² |R$ 0 | 3 vagas|Olaria
+R$ 1.790.000|3 quartos | 220m² |R$ 830 | 2 vagas|Liberdade
+R$ 249.999|3 quartos | 120m² | | 3 vagas|Conceição
+R$ 650.000|2 quartos | 107m² |R$ 812 | 2 vagas|São João Bosco
+R$ 120.000|2 quartos | 45m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 243.495|2 quartos | 67m² |R$ 0| |Lagoa
+R$ 600.000|3 quartos | 180m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 550.000|4 quartos | 130m² |R$ 0| |Olaria
+R$ 850.000|3 quartos | |R$ 180 | 3 vagas|Rio Madeira
+R$ 270.000|3 quartos | 85m² |R$ 580 | 1 vaga|Rio Madeira
+R$ 840.000|5 ou mais quartos | 450m² |R$ 0 | 5 ou mais vagas|KM 1
+R$ 330.000|5 ou mais quartos | 174m² |R$ 0 | 2 vagas|Embratel
+R$ 975.000|3 quartos | 152m² |R$ 1.000 | 2 vagas|Nova Porto Velho
+R$ 800.000|3 quartos | 108m² |R$ 800.000 | 2 vagas|Olaria
+R$ 940.000|3 quartos | 152m² | | 2 vagas|Agenor de Carvalho
+R$ 180.000|3 quartos | 160m² |R$ 0| |Castanheira
+R$ 300.000|3 quartos | 240m² |R$ 0| |Juscelino Kubitschek
+R$ 280.000|3 quartos | |R$ 450 | 2 vagas|Floresta
+R$ 680.000|2 quartos | 90m² |R$ 600 | 2 vagas|Lagoa
+R$ 568.199|2 quartos | 130m² |R$ 1.088 | 2 vagas|Pedrinhas
+R$ 580.000|3 quartos | 122m² |R$ 600 | 2 vagas|Olaria
+R$ 75.000|2 quartos | | | 1 vaga|Marcos Freire
+R$ 100.000|2 quartos| | | |Planalto
+R$ 2.500.000|5 ou mais quartos | 1000m² |R$ 0 | 2 vagas|Lagoa
+R$ 1.850.000|4 quartos | 362m² |R$ 720 | 2 vagas|Aponiã
+R$ 370.000|3 quartos | 200m² |R$ 0 | 1 vaga|Cohab
+R$ 390.000|2 quartos | 65m² |R$ 0 | 1 vaga|Cuniã
+R$ 180.000|3 quartos | 130m² |R$ 0 | 3 vagas|Nova Esperança
+R$ 550.000|3 quartos | 130m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 340.000|2 quartos | 190m² |R$ 0| |Nova Porto Velho
+R$ 260.000|3 quartos | 74m² |R$ 0 | 1 vaga|Cuniã
+R$ 440.000|3 quartos | 84m² |R$ 0 | 2 vagas|Lagoa
+R$ 550.000|3 quartos | 210m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 650.000|3 quartos | 110m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 310.000|3 quartos | 110m² |R$ 0| |Embratel
+R$ 515.000|4 quartos | 250m² |R$ 0 | 3 vagas|São João Bosco
+R$ 250.000|3 quartos | 90m² | | 1 vaga|Nova Esperança
+R$ 370.000|3 quartos | 90m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 1.250.000|5 ou mais quartos | 150m² |R$ 0| |Costa e Silva
+R$ 450.000|3 quartos | 440m² | | 2 vagas|Embratel
+R$ 170.000|4 quartos | 25000m² |R$ 0 | 2 vagas|Mariana
+R$ 380.000|3 quartos | 73m² |R$ 580| |Rio Madeira
+R$ 100.000|2 quartos | 0m² |R$ 0 | 2 vagas|Nossa Senhora das Graças
+R$ 80.000|2 quartos | 360m² | | 3 vagas|Nova Esperança
+R$ 820.000|3 quartos | 159m² |R$ 270| |Aponiã
+R$ 320.000|3 quartos | 84m² |R$ 580 | 1 vaga|Agenor de Carvalho
+R$ 630.000|3 quartos | 175m² |R$ 0 | 1 vaga|Cohab
+R$ 185.000|2 quartos| | | |Eletronorte
+R$ 260.000|2 quartos | 49m² |R$ 0 | 1 vaga|Igarapé
+R$ 48.000|2 quartos | 42m² |R$ 0 | 2 vagas|Industrial
+R$ 65.000|2 quartos| | | |Nacional
+R$ 340.000|4 quartos | 120m² | | 2 vagas|Nova Floresta
+R$ 315.000|3 quartos | 72m² |R$ 400 | 1 vaga|Agenor de Carvalho
+R$ 1.280.000|3 quartos | 222m² |R$ 0 | 4 vagas|Aeroclube
+R$ 40.000|2 quartos| | | |Igarapé
+R$ 580.000|2 quartos | 96m² | | 2 vagas|São João Bosco
+R$ 375.000|3 quartos | 84m² | | 2 vagas|Lagoa
+R$ 300.000|1 quarto| | | |Agenor de Carvalho
+R$ 195.000|2 quartos | 52m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 700.000|3 quartos | 200m² |R$ 0| |Mato Grosso
+R$ 230|2 quartos | 380m² | | 1 vaga|Socialista
+R$ 60.000|1 quarto | 54m² |R$ 0 | 1 vaga|Ronaldo Aragão
+R$ 60.000|3 quartos | 0m² | | 2 vagas|Socialista
+R$ 100.000|3 quartos | 250m² | | 3 vagas|Aeroclube
+R$ 65.000|2 quartos | 70m² | | 2 vagas|Castanheira
+R$ 40.000|2 quartos | 0m² |R$ 0| |Costa e Silva
+R$ 950.000|3 quartos | 187m² |R$ 0 | 2 vagas|Aponiã
+R$ 60.000|2 quartos | 42m² |R$ 160 | 1 vaga|Bairro Novo
+R$ 194.811|3 quartos | 92m² |R$ 186 | 1 vaga|Planalto
+R$ 90.000|2 quartos | | | 1 vaga|Ronaldo Aragão
+R$ 400.000|2 quartos | | | 5 ou mais vagas|Floresta
+R$ 440.000|3 quartos | 105m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 40.000|1 quarto | 400m²| | |Jardim Santana
+R$ 230.000|3 quartos | | | 3 vagas|Aponiã
+R$ 885.000|3 quartos | 158m² |R$ 0 | 4 vagas|Aponiã
+R$ 350.000|3 quartos | 200m² | | 2 vagas|Tancredo Neves
+R$ 70.000|1 quarto | 600m² | | 1 vaga|Conceição
+R$ 800.000|3 quartos | 160m² |R$ 1.300 | 2 vagas|Pedrinhas
+R$ 149.999|2 quartos | 42m² |R$ 190 | 2 vagas|Bairro Novo
+R$ 25.000|1 quarto | 10m²| | |Floresta
+R$ 580.000|3 quartos | 120m² |R$ 550 | 2 vagas|Pedrinhas
+R$ 540.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 170.000|3 quartos | 100m² |R$ 0 | 5 ou mais vagas|Mocambo
+R$ 350.000|3 quartos | 80m² | | 1 vaga|Rio Madeira
+R$ 750.000|1 quarto | 500m² |R$ 0| |Nova Floresta
+R$ 360.000|2 quartos | 173m² | | 2 vagas|Aponiã
+R$ 110.000|2 quartos | 42m² |R$ 0 | 1 vaga|Floresta
+R$ 390.000|3 quartos | 200m² | | 2 vagas|São João Bosco
+R$ 525.000|2 quartos | 142m² |R$ 550.000 | 2 vagas|Olaria
+R$ 40.000|2 quartos | 250m² | | 1 vaga|Socialista
+R$ 47.000| | | | |Teixeirão
+R$ 50.000|2 quartos | | | 3 vagas|Maringá
+R$ 50.000|2 quartos| | | |Área Rural de Porto Velho
+R$ 620.000|2 quartos | 7000m² | | 5 ou mais vagas|Aponiã
+R$ 250.000|3 quartos | | | 3 vagas|Tancredo Neves
+R$ 210.000|3 quartos | 100m² |R$ 290 | 2 vagas|Lagoinha
+R$ 150.000|3 quartos| | | |Castanheira
+R$ 330.000|3 quartos | 76m² |R$ 620 | 2 vagas|Liberdade
+R$ 250.000|2 quartos | 300m² |R$ 0| |Planalto
+R$ 400.000|3 quartos | 309m² |R$ 0 | 3 vagas|Rio Madeira
+R$ 350.000|3 quartos | 260m² |R$ 0| |Nova Esperança
+R$ 35.000|1 quarto | 13m² |R$ 23 | 2 vagas|Lagoa
+R$ 30.000|2 quartos | |R$ 45 | 1 vaga|Cohab
+R$ 280.000|4 quartos | 72m² |R$ 0 | 1 vaga|Aeroclube
+R$ 20.000|2 quartos | | | 1 vaga|Aeroclube
+R$ 1.600.000|4 quartos | 376m² | | 4 vagas|Centro
+R$ 130.000|3 quartos | | | 2 vagas|Nacional
+R$ 580.000|3 quartos | 120m² |R$ 350 | 2 vagas|Industrial
+R$ 50.000|2 quartos | |R$ 46 | 1 vaga|Aeroclube
+R$ 100.000|2 quartos| | | |Castanheira
+R$ 1.600.000|4 quartos | 410m² |R$ 0| |Nova Esperança
+R$ 235.000|2 quartos | 49m² |R$ 0 | 1 vaga|Igarapé
+R$ 180.000|4 quartos | 360m² |R$ 0| |Planalto
+R$ 380.000|4 quartos | 280m² | | 2 vagas|Costa e Silva
+R$ 135.000|2 quartos | 45m² | | 1 vaga|Lagoinha
+R$ 342.000|2 quartos | 68m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 260.000|2 quartos | 70m² | | 2 vagas|Nova Esperança
+R$ 820.000|3 quartos | 300m² | | 3 vagas|Cuniã
+R$ 850.000|4 quartos | 307m² | | 4 vagas|Nova Porto Velho
+R$ 450.000|2 quartos | 75m² |R$ 380 | 1 vaga|Liberdade
+R$ 450.000|4 quartos | 200m² | | 4 vagas|Conceição
+R$ 650.000|3 quartos | 450m² | | 4 vagas|Agenor de Carvalho
+R$ 100|1 quarto | | | 4 vagas|Novo Horizonte
+R$ 380.000|3 quartos | 164m² |R$ 0| |Nova Porto Velho
+R$ 800.000|3 quartos | 150m² |R$ 550 | 2 vagas|Industrial
+R$ 800.000|2 quartos| | | |Caladinho
+R$ 70.000|2 quartos | 1m² | | 1 vaga|Aeroclube
+R$ 140.000|3 quartos | 100m² | | 1 vaga|Cohab
+R$ 180.000|5 ou mais quartos | 157m² | | 1 vaga|Cohab
+R$ 150.000|3 quartos | 140m² | | 2 vagas|Igarapé
+R$ 65.000|4 quartos | 10m² | | 3 vagas|Mariana
+R$ 325.000|2 quartos | 75m² |R$ 375 | 2 vagas|Triângulo
+R$ 260.000|2 quartos | 49m² |R$ 350 | 1 vaga|Igarapé
+R$ 210.000|2 quartos| | | |Tupy
+R$ 720.720|3 quartos | 135m² | | 2 vagas|Olaria
+R$ 345.000|2 quartos | 100m² |R$ 0 | 2 vagas|Aponiã
+R$ 109.999|3 quartos | 90m² |R$ 160 | 2 vagas|Bairro Novo
+R$ 287.451|2 quartos | 58m² |R$ 500 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 720.000|3 quartos | 151m² |R$ 500 | 2 vagas|Industrial
+R$ 150.000|3 quartos | 250m² |R$ 0| |Conceição
+R$ 220.000|4 quartos | 144m² |R$ 0 | 5 ou mais vagas|Mato Grosso
+R$ 280.000|3 quartos | 92m² |R$ 600 | 3 vagas|São Cristóvão
+R$ 150.000|2 quartos | 144m² |R$ 0 | 2 vagas|Mato Grosso
+R$ 155.000|3 quartos | 380m² |R$ 0 | 1 vaga|Cuniã
+R$ 200.000|2 quartos | 200m² |R$ 0 | 1 vaga|Novo Horizonte
+R$ 35.000|2 quartos | 96m² | | 1 vaga|Aponiã
+R$ 19.000|1 quarto| | | |Rio Madeira
+R$ 0|2 quartos | |R$ 0 | 2 vagas|Esperança da Comunidade
+R$ 70.000|2 quartos | | | 3 vagas|Novo Horizonte
+R$ 455.000|3 quartos | 84m² |R$ 450 | 2 vagas|Lagoa
+R$ 587.000|3 quartos | 126m² |R$ 600 | 2 vagas|Nova Porto Velho
+R$ 1.400.000|3 quartos | 177m² |R$ 0 | 3 vagas|Embratel
+R$ 250.000|3 quartos | 600m² |R$ 0| |Teixeirão
+R$ 180.000|2 quartos | | | 1 vaga|Centro
+R$ 300.000|3 quartos | 150m² |R$ 0 | 2 vagas|Juscelino Kubitschek
+R$ 68.000|2 quartos | 42m² |R$ 0| |Bairro Novo
+R$ 160.000|4 quartos | 250m² |R$ 0 | 2 vagas|Castanheira
+R$ 459.000|3 quartos | 348m² |R$ 0| |Aeroclube
+R$ 170.000|2 quartos | 110m² |R$ 0| |Nova Esperança
+R$ 80.000|2 quartos | 12m² |R$ 0| |Novo Horizonte
+R$ 195.000|2 quartos | 0m² | | 1 vaga|Planalto
+R$ 300.000|3 quartos | 0m² | | 3 vagas|Eldorado
+R$ 485.000|3 quartos | 0m² | | 2 vagas|Industrial
+R$ 270.000|3 quartos | 0m²| | |Três Marias
+R$ 330.000|3 quartos | 0m² | | 3 vagas|Aponiã
+R$ 350.000|3 quartos | 200m² | | 4 vagas|Aponiã
+R$ 120.000|2 quartos | | | 4 vagas|Nova Esperança
+R$ 60.000|2 quartos| | | |Conceição
+R$ 1.060.000|3 quartos | 500m² | | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 120.000|2 quartos | 50m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 260.000|3 quartos | 90m² |R$ 600 | 2 vagas|São Cristóvão
+R$ 60.000|2 quartos | | | 2 vagas|Mariana
+R$ 1.200.000|3 quartos | 237m² |R$ 1.400 | 4 vagas|Lagoa
+R$ 1.500.000|3 quartos | 302m² |R$ 450 | 2 vagas|Triângulo
+R$ 1.200.000|3 quartos | | | 2 vagas|Cohab
+R$ 660.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 170|2 quartos | |R$ 0 | 2 vagas|Cidade Nova
+R$ 120.000|3 quartos | 260m² | | 4 vagas|Castanheira
+R$ 20.000|2 quartos | | | 1 vaga|Juscelino Kubitschek
+R$ 190.000|3 quartos| | | |Esperança da Comunidade
+R$ 280.000|3 quartos | 74m² |R$ 374 | 2 vagas|Triângulo
+R$ 45.000|2 quartos | |R$ 100| |Socialista
+R$ 1.850.000|4 quartos | 500m² |R$ 1.050 | 3 vagas|São João Bosco
+R$ 280.000|3 quartos| | | |São Sebastião
+R$ 99.999|2 quartos | 60m² |R$ 0 | 1 vaga|Igarapé
+R$ 230.000|3 quartos | 75m² |R$ 300 | 1 vaga|Aeroclube
+R$ 310.000|3 quartos | | | 4 vagas|Mato Grosso
+R$ 310.000|3 quartos | 115m²| | |Rio Madeira
+R$ 130.000|2 quartos| | | |Esperança da Comunidade
+R$ 130.000|2 quartos | 0m² | | 4 vagas|Cidade Nova
+R$ 152.000|3 quartos | 66m² |R$ 0| |Nova Floresta
+R$ 250.000|2 quartos| | | |Tancredo Neves
+R$ 0|3 quartos | 104m² | | 2 vagas|Aeroclube
+R$ 200.000|2 quartos| | | |Pedrinhas
+R$ 370.000|3 quartos | 98m² |R$ 545.000 | 1 vaga|Costa e Silva
+R$ 150|1 quarto| | | |Aponiã
+R$ 250.000|2 quartos | 150m² |R$ 0 | 4 vagas|Três Marias
+R$ 600.000|4 quartos | 129m² | | 2 vagas|Santa Bárbara
+R$ 520.000|3 quartos | | | 2 vagas|São João Bosco
+R$ 300.000|3 quartos | 250m² | | 3 vagas|Cohab
+R$ 420.000|3 quartos | 10m² | | 2 vagas|Aeroclube
+R$ 22.000|2 quartos | |R$ 22 | 1 vaga|São Cristóvão
+R$ 235.000|2 quartos | 93m² | | 1 vaga|Embratel
+R$ 300.000|3 quartos | 250m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 450.000|3 quartos | 225m² |R$ 0| |Embratel
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 1.890.000|3 quartos | 259m² | | 2 vagas|Aponiã
+R$ 500.000|4 quartos | 250m² |R$ 0| |Cohab
+R$ 520.000|4 quartos | 250m² |R$ 0| |Igarapé
+R$ 300.000|1 quarto | 65m² |R$ 430 | 1 vaga|Nova Porto Velho
+R$ 50.000|2 quartos | 300m²| | |Novo Horizonte
+R$ 330.000|2 quartos | 69m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 226.000|2 quartos | 66m² |R$ 0| |Lagoa
+R$ 140.000|2 quartos | 250m² |R$ 0 | 2 vagas|Tancredo Neves
+R$ 230.000|3 quartos | 75m² | | 1 vaga|Aeroclube
+R$ 170.000|2 quartos | | | 2 vagas|Nova Porto Velho
+R$ 350.000|3 quartos | 11m²| | |Conceição
+R$ 350.000|2 quartos | 110m² |R$ 250| |Lagoa
+R$ 240.000|3 quartos | |R$ 153 | 2 vagas|Esperança da Comunidade
+R$ 70.000|2 quartos | |R$ 0 | 1 vaga|Cascalheira
+R$ 180.000|2 quartos | 44m² |R$ 180 | 1 vaga|Aeroclube
+R$ 350.000|3 quartos | | | 2 vagas|São Cristóvão
+R$ 160.000|2 quartos | | | 1 vaga|Caladinho
+R$ 200.000|4 quartos | 78m² | | 2 vagas|Centro
+R$ 1.290.000|3 quartos | 222m² |R$ 0 | 4 vagas|São João Bosco
+R$ 390.000| | | | |Pedrinhas
+R$ 530.000|3 quartos | 140m² |R$ 0 | 2 vagas|Olaria
+R$ 70.000|2 quartos | | | 2 vagas|Mariana
+R$ 80.000|3 quartos | 28m² | | 1 vaga|Castanheira
+R$ 287.900|2 quartos | 58m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 120.000|1 quarto | 68m² |R$ 0| |Planalto
+R$ 400.000|3 quartos | 143m² |R$ 400 | 2 vagas|Lagoa
+R$ 390.000|3 quartos | 84m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 650.000|3 quartos | 160m² |R$ 540.000 | 2 vagas|Nossa Senhora das Graças
+R$ 195.000|2 quartos | 52m² | | 1 vaga|Nova Esperança
+R$ 70.000|2 quartos | 65m² |R$ 0 | 2 vagas|Centro
+R$ 300.000|3 quartos | |R$ 194 | 2 vagas|Novo Horizonte
+R$ 70.000|2 quartos | |R$ 0 | 1 vaga|Centro
+R$ 70.000|2 quartos | 65m² |R$ 0 | 2 vagas|Centro
+R$ 450.000|3 quartos | | | 5 ou mais vagas|Agenor de Carvalho
+R$ 230|1 quarto | | | 3 vagas|Ronaldo Aragão
+R$ 110.000|2 quartos| | | |Pantanal
+R$ 180.000|3 quartos | 240m² |R$ 165 | 3 vagas|Esperança da Comunidade
+R$ 260.000|2 quartos | 49m² | | 1 vaga|Igarapé
+R$ 680.000|3 quartos | 450m² | | 3 vagas|Agenor de Carvalho
+R$ 375.000|3 quartos | 90m² |R$ 540 | 2 vagas|Costa e Silva
+R$ 550.000|3 quartos | 100m² | | 3 vagas|Embratel
+R$ 879.000|3 quartos | 205m² |R$ 400 | 2 vagas|Floresta
+R$ 4.500.000|5 ou mais quartos | 720m² |R$ 1.600 | 4 vagas|Olaria
+R$ 1.290.000|4 quartos | | | 2 vagas|Nova Porto Velho
+R$ 450.000|3 quartos | 76m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 265.000|2 quartos | 52m² | | 1 vaga|Igarapé
+R$ 440.000|2 quartos | 123m² |R$ 1.450 | 2 vagas|Centro
+R$ 180.000|2 quartos | 290m² |R$ 0 | 4 vagas|Aponiã
+R$ 459.000|3 quartos | 216m² | | 2 vagas|Cuniã
+R$ 890.000|3 quartos | 161m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 230.000|3 quartos | 448m² | | 4 vagas|Agenor de Carvalho
+R$ 760.000|3 quartos | 108m² | | 2 vagas|Olaria
+R$ 17.500| |0m² |R$ 0| |Mariana
+R$ 150.000|2 quartos | 250m² | | 5 ou mais vagas|Cidade do Lobo
+R$ 400.000|2 quartos | 74m² | | 1 vaga|Nova Porto Velho
+R$ 820.000|4 quartos | 535m² |R$ 560 | 2 vagas|Arigolândia
+R$ 360.000|3 quartos | 75m² |R$ 480 | 1 vaga|Rio Madeira
+R$ 200.000| | |Condomínio: R$ 0| |Centro
+R$ 690.000|4 quartos | 220m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 285.000|2 quartos | 58m² | | 1 vaga|Rio Madeira
+R$ 190.000|3 quartos | 73m² |R$ 365 | 1 vaga|Rio Madeira
+R$ 250.000|2 quartos | | | 3 vagas|Jardim Santana
+R$ 140.000|3 quartos | 12m²| | |Tancredo Neves
+R$ 500.000|3 quartos | 0m² | | 2 vagas|São João Bosco
+R$ 40.000|1 quarto | | | 1 vaga|Área Rural de Porto Velho
+R$ 2.650.000|4 quartos | 401m² |R$ 790 | 2 vagas|Rio Madeira
+R$ 135.000|2 quartos | 0m² |R$ 0| |Rio Madeira
+R$ 1.300.000|3 quartos | 376m² |R$ 600 | 3 vagas|Olaria
+R$ 400|2 quartos| | | |Ronaldo Aragão
+R$ 160.000|2 quartos | 86m² | | 2 vagas|Nova Esperança
+R$ 850.000|5 ou mais quartos | 460m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 70.000|2 quartos | 400m²| | |Castanheira
+R$ 125.000|3 quartos| | | |Nacional
+R$ 1.800.000|3 quartos | 375m² |R$ 0| |Industrial
+R$ 260.000|2 quartos | 53m² | | 1 vaga|Igarapé
+R$ 300.000|3 quartos | 249m² |R$ 0| |Três Marias
+R$ 0|3 quartos | 250m² |R$ 390 | 2 vagas|Triângulo
+R$ 0|4 quartos | 290m² |R$ 500 | 2 vagas|Nova Esperança
+R$ 0|3 quartos | 170m² |R$ 1.130 | 2 vagas|Agenor de Carvalho
+R$ 770.000|3 quartos | 270m² | | 1 vaga|Pedrinhas
+R$ 185.000|2 quartos | |R$ 360 | 1 vaga|Aponiã
+R$ 0|3 quartos | 143m² |R$ 800 | 2 vagas|Embratel
+R$ 210.000|2 quartos | 197m² | | 1 vaga|Aponiã
+R$ 75.000|2 quartos| | | |Nova Porto Velho
+R$ 2.000.000|3 quartos | |R$ 450 | 3 vagas|Cidade Jardim
+R$ 100.000|2 quartos | | | 1 vaga|Teixeirão
+R$ 0|3 quartos | 236m² |R$ 270 | 2 vagas|Aponiã
+R$ 75.000|2 quartos | 63m² |R$ 160 | 1 vaga|Rio Madeira
+R$ 220.000|3 quartos | | | 3 vagas|Castanheira
+R$ 0|3 quartos | |R$ 0| |Nossa Senhora das Graças
+R$ 280.000|4 quartos | 0m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 161.000|2 quartos | 46m² |R$ 0 | 1 vaga|Esperança da Comunidade
+R$ 160.000|3 quartos | | | 5 ou mais vagas|Triângulo
+R$ 470.000|2 quartos | 83m² | | 2 vagas|Lagoa
+R$ 85.000|3 quartos | 300m² | | 2 vagas|Aponiã
+R$ 450.000|2 quartos | 75m² | | 1 vaga|Liberdade
+R$ 690.000|2 quartos | 107m² | | 2 vagas|Olaria
+R$ 550.000|3 quartos | 96m² | | 2 vagas|Industrial
+R$ 549.000|2 quartos | 120m² | | 2 vagas|Lagoa
+R$ 342.200|2 quartos | 68m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 37.000|1 quarto | 0m² | | 2 vagas|Área Rural de Porto Velho
+R$ 1.300.000|3 quartos | 268m² |R$ 500 | 3 vagas|Tiradentes
+R$ 12.000|1 quarto| | | |Jardim Santana
+R$ 550.000|3 quartos | 200m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 510.000|3 quartos | | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 8.000|2 quartos | |R$ 50 | 1 vaga|Jardim Santana
+R$ 155.000|3 quartos | 96m² |R$ 0| |Ronaldo Aragão
+R$ 480.000|3 quartos | 72m² |R$ 0 | 2 vagas|Panair
+R$ 14.000|2 quartos | | | 1 vaga|Lagoinha
+R$ 65.000|2 quartos | 25m²| | |Tancredo Neves
+R$ 110.000|2 quartos | 100m² | | 5 ou mais vagas|Maringá
+R$ 850.000|3 quartos | 170m² |R$ 1.000 | 3 vagas|Agenor de Carvalho
+R$ 35.000|2 quartos | |R$ 45.000| |Novo Horizonte
+R$ 45.000|2 quartos | 48m²| | |Aponiã
+R$ 50.000|2 quartos | 42m² |R$ 100 | 1 vaga|Socialista
+R$ 50.000|2 quartos | 42m² |R$ 100 | 1 vaga|Socialista
+R$ 30.000| | | | |Três Marias
+R$ 365.000|3 quartos | 94m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 80.000|2 quartos | 95m²| | |São Sebastião
+R$ 295.000|3 quartos | 154m² | | 3 vagas|Conceição
+R$ 1.290.000|3 quartos | 265m² |R$ 380 | 2 vagas|Embratel
+R$ 390.000|5 ou mais quartos | 294m² | | 2 vagas|Nacional
+R$ 160.000|2 quartos | 100m² |R$ 0 | 3 vagas|Três Marias
+R$ 300.000|3 quartos| | | |São Cristóvão
+R$ 35.000|3 quartos | | | 2 vagas|Planalto
+R$ 950| | | | |Tiradentes
+R$ 170.000|2 quartos | 0m² | | 2 vagas|Costa e Silva
+R$ 300.000|2 quartos | 70m² |R$ 0 | 1 vaga|Lagoinha
+R$ 390.000|2 quartos | 500m² | | 4 vagas|Rio Madeira
+R$ 0|3 quartos | 264m² |R$ 390 | 2 vagas|Liberdade
+R$ 93.000|2 quartos | 0m² | | 2 vagas|Caladinho
+R$ 500.000|3 quartos | | | 2 vagas|Pedrinhas
+R$ 300.000|3 quartos | 10m² |R$ 300.000 | 1 vaga|Tancredo Neves
+R$ 170.000|2 quartos | | | 5 ou mais vagas|Esperança da Comunidade
+R$ 300.000|3 quartos | 0m² | | 2 vagas|Santa Bárbara
+R$ 900.000|4 quartos | 360m² | | 2 vagas|Costa e Silva
+R$ 375.000|3 quartos | 250m² |R$ 0| |Juscelino Kubitschek
+R$ 280.000|3 quartos | 240m² |R$ 0| |Nova Floresta
+R$ 330.000|3 quartos | 76m² |R$ 532 | 2 vagas|Rio Madeira
+R$ 100.000|2 quartos | 0m² |R$ 0 | 2 vagas|Castanheira
+R$ 45.000|2 quartos | 0m²| | |Nova Esperança
+R$ 150.000|3 quartos| | | |Nova Floresta
+R$ 550.000|4 quartos | 0m² | | 3 vagas|Nossa Senhora das Graças
+R$ 0| |0m²| | |Flodoaldo Pontes Pinto
+R$ 670.000|2 quartos | 97m² | | 2 vagas|Nova Porto Velho
+R$ 300.000|4 quartos | 0m² | | 3 vagas|Centro
+R$ 460.000|3 quartos | 0m² | | 2 vagas|Igarapé
+R$ 60.000|2 quartos| | | |Nova Porto Velho
+R$ 700.000|3 quartos | 220m² |R$ 0| |Flodoaldo Pontes Pinto
+R$ 520.000|4 quartos | 232m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 580.000|2 quartos | 295m² | | 2 vagas|São João Bosco
+R$ 60.000|2 quartos | | | 1 vaga|Planalto
+R$ 85.000|2 quartos | | | 1 vaga|Cuniã
+R$ 640.000|4 quartos | 290m² | | 2 vagas|Agenor de Carvalho
+R$ 640.000|3 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 390.000|3 quartos | 74m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 260.000|2 quartos | |R$ 600 | 1 vaga|Liberdade
+R$ 310.000|3 quartos | 74m² |R$ 390 | 2 vagas|Floresta
+R$ 200.000|2 quartos | 70m² |R$ 150 | 2 vagas|Novo Horizonte
+R$ 115.000|2 quartos | 45m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 205.000|4 quartos | 15m²| | |Ronaldo Aragão
+R$ 65.000|2 quartos | 250m² | | 1 vaga|Castanheira
+R$ 145.000| | | | |Nova Porto Velho
+R$ 150.000|2 quartos | | | 5 ou mais vagas|Cohab
+R$ 90.000|3 quartos | 169m² |R$ 0 | 2 vagas|Mariana
+R$ 480.000|3 quartos | 140m² |R$ 700 | 2 vagas|Nova Porto Velho
+R$ 599.000|3 quartos | 135m²| | |Centro
+R$ 130.000|3 quartos | 100m² | | 2 vagas|Três Marias
+R$ 195.000|2 quartos | 78m² |R$ 570 | 2 vagas|Três Marias
+R$ 450.000|3 quartos | 205m² | | 4 vagas|Agenor de Carvalho
+R$ 700.000|2 quartos | 105m² |R$ 0 | 1 vaga|Jardim Santana
+R$ 50.000|1 quarto | 25m² | | 1 vaga|Mariana
+R$ 360.000|3 quartos | 93m² |R$ 460 | 2 vagas|Lagoa
+R$ 985.000|3 quartos | 172m² |R$ 1.000| |Nova Porto Velho
+R$ 120.000|2 quartos| | | |Planalto
+R$ 200.000|3 quartos | | | 2 vagas|Costa e Silva
+R$ 18.000|2 quartos| | | |Aeroclube
+R$ 630.000|3 quartos | 0m² | | 2 vagas|São João Bosco
+R$ 585.000|3 quartos | 132m² |R$ 730 | 2 vagas|Olaria
+R$ 172.000|2 quartos | 51m² | | 1 vaga|Planalto
+R$ 400.000|4 quartos | 450m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 330.000|2 quartos | 65m² |R$ 380 | 1 vaga|Rio Madeira
+R$ 3.200.000|3 quartos | 422m² |R$ 700 | 4 vagas|Aponiã
+R$ 290.000|2 quartos | 300m² | | 2 vagas|Rio Madeira
+R$ 900.000|3 quartos | 710m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 2.250.000|4 quartos | 448m² |R$ 390 | 3 vagas|Liberdade
+R$ 265.000|2 quartos | 250m² | | 2 vagas|Escola de Polícia
+R$ 1.100.000|3 quartos | 230m² |R$ 390 | 2 vagas|Liberdade
+R$ 1.550.000|4 quartos | 416m² |R$ 1.200 | 2 vagas|Liberdade
+R$ 330.000|2 quartos | 300m² | | 5 ou mais vagas|Liberdade
+R$ 1.500.000|4 quartos | 307m² |R$ 0 | 4 vagas|Lagoa
+R$ 160.000|2 quartos | 79m²| | |Agenor de Carvalho
+R$ 200.000| |0m²| | |Agenor de Carvalho
+R$ 670.000|4 quartos | 624m² | | 2 vagas|Agenor de Carvalho
+R$ 260.000|3 quartos | 145m² | | 3 vagas|Aponiã
+R$ 160.000|2 quartos | | | 2 vagas|Bairro Novo
+R$ 750.000|2 quartos | | | 1 vaga|Embratel
+R$ 735.000|3 quartos | 2000m² |R$ 850 | 2 vagas|Embratel
+R$ 595.000|2 quartos | 350m² | | 2 vagas|Liberdade
+R$ 190.000|2 quartos | | | 1 vaga|Areal
+R$ 140.000|2 quartos | 51m² |R$ 160 | 1 vaga|Novo Horizonte
+R$ 450.000|5 ou mais quartos | 250m² | | 4 vagas|Areal
+R$ 800.000|3 quartos | 1271m²| | |Nova Porto Velho
+R$ 370.000|3 quartos | 380m²| | |São Cristóvão
+R$ 550.000|4 quartos | 480m² | | 2 vagas|Rio Madeira
+R$ 110.000|4 quartos | | | 1 vaga|Baixa União
+R$ 120.000|2 quartos | | | 1 vaga|Cidade Nova
+R$ 34.000| | | |2 vagas|Castanheira
+R$ 110.000|2 quartos | | | 1 vaga|Santa Bárbara
+R$ 100.000|2 quartos | 70m² | | 1 vaga|Ulisses Guimarães
+R$ 199.800|2 quartos | 43m² |R$ 180 | 2 vagas|Planalto
+R$ 110.000|2 quartos | 30m² | | 4 vagas|Pantanal
+R$ 12.000|2 quartos | | | 1 vaga|Mariana
+R$ 180.000|2 quartos | 85m² |R$ 0| |Caladinho
+R$ 250.000|2 quartos | 63m² | | 1 vaga|Liberdade
+R$ 130.000|2 quartos | 260m² |R$ 0| |Pantanal
+R$ 300.000|3 quartos | 180m² |R$ 468 | 2 vagas|Aponiã
+R$ 750.000|4 quartos | 143m² | | 2 vagas|Cuniã
+R$ 740.000|2 quartos | 96m² |R$ 735 | 2 vagas|São João Bosco
+R$ 550.000|3 quartos | 0m² | | 3 vagas|Cohab
+R$ 545.000|3 quartos | 103m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 485.000|3 quartos | | | 2 vagas|Industrial
+R$ 70.000|2 quartos | 64m² |R$ 1 | 2 vagas|Caiari
+R$ 295.000|2 quartos | 72m² | | 2 vagas|Rio Madeira
+R$ 235.000|3 quartos | 300m² | | 3 vagas|Três Marias
+R$ 225.000|3 quartos | 104m² | | 2 vagas|Rio Madeira
+R$ 897.000|4 quartos | | | 3 vagas|São João Bosco
+R$ 280.000|2 quartos | 160m² | | 1 vaga|Eletronorte
+R$ 140.000|2 quartos | 255m² |R$ 0| |Três Marias
+R$ 350.000|3 quartos | 74m² |R$ 500 | 2 vagas|Floresta
+R$ 90.000|2 quartos | 44m² |R$ 170 | 1 vaga|Aeroclube
+R$ 550.000|3 quartos | 130m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 650.000|3 quartos | 220m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 175.000|3 quartos | 300m² | | 2 vagas|Escola de Polícia
+R$ 290.000|3 quartos | 85m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 3.000.000|5 ou mais quartos | 530m² |R$ 0 | 4 vagas|São Cristóvão
+R$ 120.000|2 quartos | 42m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 330.000|3 quartos | 76m² |R$ 532 | 2 vagas|Rio Madeira
+R$ 35.000|1 quarto | 300m²| | |Ronaldo Aragão
+R$ 750.000|3 quartos | 350m² |R$ 300 | 4 vagas|Aponiã
+R$ 492.817|2 quartos | 62m² | | 1 vaga|Centro
+R$ 110.000|2 quartos | | | 1 vaga|Santa Bárbara
+R$ 28.000|1 quarto| | | |Ulisses Guimarães
+R$ 172.000|2 quartos | 0m² | | 2 vagas|Planalto
+R$ 380.000|4 quartos | 1875m² | | 2 vagas|Nacional
+R$ 110.000|2 quartos | 250m² |R$ 0 | 1 vaga|Mariana
+R$ 145.000|3 quartos | 300m² |R$ 0 | 3 vagas|Juscelino Kubitschek
+R$ 330.000|2 quartos | 68m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 600.000|4 quartos | 0m² | | 4 vagas|Juscelino Kubitschek
+R$ 1.250.000|4 quartos | | | 2 vagas|Cuniã
+R$ 310.000|3 quartos | 72m² | | 2 vagas|Cuniã
+R$ 1.200.000|3 quartos | 171m² | | 2 vagas|Embratel
+R$ 225.000|3 quartos | 100m² |R$ 350 | 2 vagas|Lagoinha
+R$ 780.000|5 ou mais quartos | 400m² | | 4 vagas|Agenor de Carvalho
+R$ 190.000|2 quartos | 56m² |R$ 350 | 2 vagas|Triângulo
+R$ 445.000|3 quartos | 180m² | | 2 vagas|Rio Madeira
+R$ 1.290.000|3 quartos | 225m² |R$ 350 | 4 vagas|Aeroclube
+R$ 600.000|5 ou mais quartos | 525000m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 345.990|3 quartos | 85m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 420.000|2 quartos | 76m² |R$ 490 | 1 vaga|Liberdade
+R$ 400.000|3 quartos | 10m² | | 1 vaga|Aponiã
+R$ 1.600.000|4 quartos | |R$ 0 | 1 vaga|Costa e Silva
+R$ 185.000|2 quartos| | | |Caladinho
+R$ 750.000|4 quartos | |R$ 550 | 4 vagas|Eletronorte
+R$ 70.000|2 quartos | 20m² |R$ 0 | 2 vagas|Maringá
+R$ 155.000|3 quartos | 270m² |R$ 0| |Nova Esperança
+R$ 172.000|2 quartos | 51m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 180.000|4 quartos | 300m² | | 3 vagas|Liberdade
+R$ 680.000|3 quartos | | | 2 vagas|Nossa Senhora das Graças
+R$ 30.000| |220m²| | |Esperança da Comunidade
+R$ 1.150.000|3 quartos | 270m² |R$ 2.000 | 3 vagas|São João Bosco
+R$ 160.000|2 quartos | 46m² |R$ 170 | 1 vaga|Novo Horizonte
+R$ 990.000|3 quartos | |R$ 300 | 2 vagas|Aponiã
+R$ 30.000|2 quartos | 10m² | | 1 vaga|Jardim Santana
+R$ 330.000|2 quartos | 250m² |R$ 0 | 3 vagas|Nova Floresta
+R$ 19.000|1 quarto | 0m² |R$ 0 | 1 vaga|Jardim Santana
+R$ 190.000|2 quartos | 42m² | | 1 vaga|Planalto
+R$ 900.000|5 ou mais quartos | 7501m² | | 5 ou mais vagas|Panair
+R$ 350.000|3 quartos | 74m² | | 1 vaga|Embratel
+R$ 120.000|3 quartos | 126m² | | 1 vaga|Areia Branca
+R$ 315.000|3 quartos | 75m² |R$ 0 | 2 vagas|Aponiã
+R$ 250.000|3 quartos| | | |Aponiã
+R$ 220.000|2 quartos| | | |Bairro Novo
+R$ 270.000|5 ou mais quartos | 12m² | | 3 vagas|Embratel
+R$ 25.000|1 quarto | 0m²| | |Novo Horizonte
+R$ 100.000|3 quartos | | | 1 vaga|Nova Floresta
+R$ 0|3 quartos | 0m² | | 5 ou mais vagas|Igarapé
+R$ 75.000|1 quarto | | | 2 vagas|Lagoinha
+R$ 400.000|3 quartos | 600m² |R$ 0 | 4 vagas|Cuniã
+R$ 890.000|3 quartos | 158m² |R$ 270 | 2 vagas|Aponiã
+R$ 0|2 quartos | 143m² |R$ 800 | 2 vagas|Embratel
+R$ 150.000|2 quartos | 0m² |R$ 0 | 2 vagas|Novo Horizonte
+R$ 0|4 quartos | 320m² |R$ 700 | 2 vagas|Aponiã
+R$ 295.000|2 quartos | 122m² | | 2 vagas|Centro
+R$ 350.000|4 quartos | 500m² | | 4 vagas|Pedrinhas
+R$ 280.000|3 quartos | 200m² |R$ 0| |Castanheira
+R$ 260.000|3 quartos | 80m² |R$ 400| |Cuniã
+R$ 260.000|3 quartos| | | |Areal
+R$ 335.000|3 quartos | 85m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 80.000|4 quartos | | | 1 vaga|Nacional
+R$ 270.000|1 quarto | 34m² |R$ 97 | 1 vaga|Centro
+R$ 130.000|4 quartos | | | 2 vagas|Tancredo Neves
+R$ 750.000|3 quartos | | | 4 vagas|Cohab
+R$ 55.000|2 quartos | 0m² |R$ 0| |Nacional
+R$ 380.000|4 quartos | 200m² | | 2 vagas|Igarapé
+R$ 180.000|3 quartos | | | 4 vagas|Floresta
+R$ 185.000|3 quartos | | | 3 vagas|Aeroclube
+R$ 520.000|3 quartos | 192m² |R$ 0 | 3 vagas|Liberdade
+R$ 780.000|3 quartos | 185m² |R$ 0| |Aeroclube
+R$ 450.000|3 quartos | 180m² |R$ 180 | 2 vagas|Aponiã
+R$ 1.300.000|5 ou mais quartos | 400m² |R$ 1.000 | 3 vagas|Panair
+R$ 0|3 quartos | 79m²| | |Aponiã
+R$ 200.000|3 quartos | | | 3 vagas|Juscelino Kubitschek
+R$ 155.000|3 quartos | 220m² | | 4 vagas|São Francisco
+R$ 270.000|3 quartos | 0m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 350.000|3 quartos | 75m² | | 2 vagas|Rio Madeira
+R$ 0|3 quartos | 0m²| | |Mato Grosso
+R$ 375.000|3 quartos | 95m² | | 2 vagas|Costa e Silva
+R$ 180|1 quarto| | | |Cascalheira
+R$ 230.000|3 quartos | 120m² | | 2 vagas|Aponiã
+R$ 350.000|3 quartos | 81m² |R$ 525 | 2 vagas|Rio Madeira
+R$ 75.000|3 quartos | 110m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 45.000|2 quartos | 25m² |R$ 125 | 1 vaga|Socialista
+R$ 500.000|3 quartos | 89m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 250.000|4 quartos | 250m² | | 2 vagas|Igarapé
+R$ 430.000|3 quartos | 187m² | | 2 vagas|Embratel
+R$ 350.000|3 quartos | 90m² |R$ 205 | 2 vagas|Bairro Novo
+R$ 40.000|2 quartos | 72m²| | |Ulisses Guimarães
+R$ 290.000|3 quartos | 150m² | | 2 vagas|Eletronorte
+R$ 460.000|2 quartos | 256m² | | 5 ou mais vagas|Santa Bárbara
+R$ 220.000|3 quartos | 1025m²| | |Embratel
+R$ 150.000| | | | |Centro
+R$ 15.000|2 quartos | |R$ 40 | 1 vaga|Aeroclube
+R$ 189.800|2 quartos | 52m² |R$ 0 | 2 vagas|Planalto
+R$ 90.000|3 quartos | 300m² | | 2 vagas|São Sebastião
+R$ 280.000|3 quartos | 120m² |R$ 0 | 2 vagas|Floresta
+R$ 320.000|2 quartos | | | 4 vagas|Eldorado
+R$ 2.680.000|3 quartos | 422m² |R$ 0 | 4 vagas|Aponiã
+R$ 600.000|3 quartos | 0m²| | |Centro
+R$ 390.000|3 quartos | 74m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 280.000|2 quartos | 120m² |R$ 250 | 2 vagas|Eletronorte
+R$ 680.000|3 quartos | 250m² | | 3 vagas|Agenor de Carvalho
+R$ 30.000|2 quartos| | | |Mariana
+R$ 260.000|2 quartos | | | 1 vaga|Embratel
+R$ 50.000|2 quartos | 2m² | | 1 vaga|Três Marias
+R$ 70.000|2 quartos | | | 2 vagas|Área Rural de Porto Velho
+R$ 380.000|3 quartos | | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 390.000|3 quartos | 270m² | | 4 vagas|Igarapé
+R$ 0|2 quartos | | | 2 vagas|Teixeirão
+R$ 660.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 150|3 quartos | 380m² | | 2 vagas|Cuniã
+R$ 52.000|1 quarto | 0m² |R$ 0 | 2 vagas|Areia Branca
+R$ 280.000|2 quartos | 94m² |R$ 225 | 2 vagas|Cuniã
+R$ 50.000|3 quartos| | | |Mariana
+R$ 130.000|2 quartos | 145m² |R$ 0 | 2 vagas|Nova Floresta
+R$ 230.000|2 quartos | 480m² | | 5 ou mais vagas|Liberdade
+R$ 17.000|2 quartos | | | 1 vaga|Marcos Freire
+R$ 80.000|2 quartos | 3050m² | | 1 vaga|Socialista
+R$ 320.000|3 quartos | 400m²| | |Agenor de Carvalho
+R$ 260.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 50.000|2 quartos | 1m² | | 1 vaga|Teixeirão
+R$ 450.000|5 ou mais quartos | 250m² | | 4 vagas|Planalto
+R$ 100.000|2 quartos | 0m² |R$ 0 | 2 vagas|Nossa Senhora das Graças
+R$ 450.000|5 ou mais quartos | 300m² | | 5 ou mais vagas|Nova Porto Velho
+R$ 200.000|5 ou mais quartos | 3000m²| | |Tancredo Neves
+R$ 180.000|3 quartos | 0m² |R$ 165 | 2 vagas|Esperança da Comunidade
+R$ 575.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 400.000|3 quartos | 74m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 75.000|3 quartos | 250000m² | | 2 vagas|Ulisses Guimarães
+R$ 18.000|2 quartos| | | |Aeroclube
+R$ 830.000|3 quartos | 136m² | | 2 vagas|Olaria
+R$ 250.000|2 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 330.000|3 quartos | 95397m² | | 2 vagas|Embratel
+R$ 9.000|1 quarto | 31m² | | 1 vaga|Caladinho
+R$ 80.000|2 quartos | | | 2 vagas|Embratel
+R$ 45.000|2 quartos | 30m² | | 1 vaga|Área Rural de Porto Velho
+R$ 35.000|2 quartos | | | 1 vaga|Área Rural de Porto Velho
+R$ 50.000|1 quarto | 35m² | | 1 vaga|Tancredo Neves
+R$ 120.000|2 quartos | 10m² | | 2 vagas|Lagoa
+R$ 580.000|3 quartos | 100m² |R$ 550 | 2 vagas|Embratel
+R$ 260.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 160|1 quarto | 50m² | | 1 vaga|Centro
+R$ 890.000|3 quartos | 158m² |R$ 400 | 2 vagas|Aponiã
+R$ 35.000|1 quarto | 1m² |R$ 0 | 1 vaga|Centro
+R$ 0|2 quartos| | | |Área Rural de Porto Velho
+R$ 750.000|3 quartos | 400m² | | 4 vagas|Rio Madeira
+R$ 225.000|3 quartos | | | 1 vaga|Rio Madeira
+R$ 100.000|2 quartos | 0m² |R$ 0 | 2 vagas|Nossa Senhora das Graças
+R$ 15.000|1 quarto| | | |Jardim Santana
+R$ 199.800|2 quartos | 52m² |R$ 212 | 2 vagas|Planalto
+R$ 295.000|4 quartos | 250m² | | 2 vagas|Aponiã
+R$ 300.000|2 quartos | 10m² |R$ 0| |Areia Branca
+R$ 200.000|4 quartos | 600m² | | 4 vagas|São Sebastião
+R$ 55.000|1 quarto | 0m² |R$ 0| |Aponiã
+R$ 600.000|3 quartos | 112m² |R$ 850 | 2 vagas|Olaria
+R$ 180.000|1 quarto | 47m² | | 2 vagas|Caladinho
+R$ 95.000|2 quartos | 140m² | | 2 vagas|Aeroclube
+R$ 45.000|3 quartos | | | 2 vagas|Jardim Santana
+R$ 90.000|3 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 22.000|2 quartos | 49m² |R$ 30 | 1 vaga|Jardim Santana
+R$ 450.000|3 quartos | 84m² |R$ 0 | 2 vagas|Lagoa
+R$ 360.000|3 quartos | 680m² |R$ 0 | 1 vaga|Aeroclube
+R$ 25.000|2 quartos | 70m²| | |Área Rural de Porto Velho
+R$ 250.000|3 quartos | 157m² |R$ 0 | 2 vagas|Tupy
+R$ 150.000|3 quartos | 300m² |R$ 0 | 2 vagas|Três Marias
+R$ 35.000|1 quarto | 0m²| | |Bairro Novo
+R$ 20.000|2 quartos | |R$ 0 | 5 ou mais vagas|Aeroclube
+R$ 980.000|3 quartos | 217m² |R$ 400 | 2 vagas|Cidade Jardim
+R$ 480.000|3 quartos | 0m²| | |Arigolândia
+R$ 20.000|2 quartos | 10m² |R$ 0 | 1 vaga|Castanheira
+R$ 300.000|4 quartos | 230m² | | 2 vagas|Nova Floresta
+R$ 125.000|2 quartos | | | 2 vagas|Tancredo Neves
+R$ 140.000|3 quartos | 300m² | | 2 vagas|Aponiã
+R$ 25.000|2 quartos | | | 1 vaga|Ulisses Guimarães
+R$ 331.699|3 quartos | 81m² | | 2 vagas|Rio Madeira
+R$ 900.000|3 quartos | 190m² |R$ 0 | 3 vagas|Lagoa
+R$ 350.000|3 quartos | 160m² |R$ 100 | 2 vagas|Escola de Polícia
+R$ 352.000|2 quartos | 68m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 750.000|3 quartos | 260m² | | 1 vaga|Rio Madeira
+R$ 1.290.000|3 quartos | 222m² | | 4 vagas|Cidade Jardim
+R$ 870.000|3 quartos | 142m² | | 3 vagas|Olaria
+R$ 900.000|3 quartos | 187m² | | 3 vagas|Aponiã
+R$ 900.000|3 quartos | 190m² | | 3 vagas|Eldorado
+R$ 900.000|3 quartos | 191m² | | 3 vagas|Nova Floresta
+R$ 713.000|3 quartos | 135m² | | 3 vagas|São João Bosco
+R$ 300.000|4 quartos | | | 2 vagas|Bairro Novo
+R$ 620.000|5 ou mais quartos | 438m² | | 4 vagas|Rio Madeira
+R$ 180.000|2 quartos | 0m² | | 1 vaga|Castanheira
+R$ 180.000|2 quartos | 140m² |R$ 200 | 2 vagas|Esperança da Comunidade
+R$ 900.000|3 quartos | 420m² |R$ 450 | 4 vagas|Eldorado
+R$ 260.000|2 quartos | 0m² | | 4 vagas|Cuniã
+R$ 850.000|3 quartos | 159m² | | 2 vagas|Rio Madeira
+R$ 150.000|2 quartos | 50000m² | | 2 vagas|Centro
+R$ 325.000|3 quartos | 125m² |R$ 0| |Novo Horizonte
+R$ 360.000|3 quartos | 93m² |R$ 460 | 2 vagas|Lagoinha
+R$ 450.000|3 quartos | |R$ 180 | 2 vagas|Aponiã
+R$ 460.000|3 quartos | 216m² | | 4 vagas|Aponiã
+R$ 100.000|2 quartos | 210m² |R$ 0 | 2 vagas|Castanheira
+R$ 200.000|3 quartos | 0m² |R$ 0 | 4 vagas|Esperança da Comunidade
+R$ 48.000|1 quarto| | | |Conceição
+R$ 580.000|2 quartos | 295m² |R$ 0 | 2 vagas|São João Bosco
+R$ 1.350.000|4 quartos | 690m² | | 4 vagas|Centro
+R$ 130.000|2 quartos | 0m² | | 1 vaga|Novo Horizonte
+R$ 950.000|4 quartos | 400m² |R$ 0 | 4 vagas|Nova Esperança
+R$ 360.000|3 quartos | 93m² |R$ 0 | 1 vaga|Lagoa
+R$ 890.000|3 quartos | 158m² |R$ 344 | 4 vagas|Rio Madeira
+R$ 10.000|2 quartos | | | 1 vaga|Três Marias
+R$ 280.000|3 quartos | 84m² | | 2 vagas|Agenor de Carvalho
+R$ 55.000|2 quartos | 0m² |R$ 126 | 1 vaga|Roque
+R$ 700.000|4 quartos | 430m² |R$ 0 | 4 vagas|Embratel
+R$ 55.000|2 quartos| | | |Socialista
+R$ 355.000|4 quartos | 250m² | | 3 vagas|Conceição
+R$ 374.497|3 quartos | 75m² | | 2 vagas|Rio Madeira
+R$ 250.000|3 quartos | 0m²| | |Flodoaldo Pontes Pinto
+R$ 150.000|2 quartos | 0m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 740.000|4 quartos | 500m² | | 3 vagas|São Cristóvão
+R$ 1.250.000|4 quartos | 300m² |R$ 400 | 4 vagas|Cidade Jardim
+R$ 600.000| |273m² | | 5 ou mais vagas|Nova Floresta
+R$ 1.490.000|4 quartos | 326m² |R$ 500 | 5 ou mais vagas|Embratel
+R$ 1.200.000|3 quartos | 238m² |R$ 500 | 2 vagas|Cidade Jardim
+R$ 890.000|3 quartos | 170m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 90.000|3 quartos | | | 2 vagas|São Francisco
+R$ 285.000|5 ou mais quartos | 0m² | | 5 ou mais vagas|Nova Porto Velho
+R$ 320.000|3 quartos | 76m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 368.000|2 quartos | 89m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 550.000|3 quartos | 250m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 800.000|3 quartos | 0m² | | 2 vagas|Industrial
+R$ 790.000|3 quartos | 143m² | | 2 vagas|Industrial
+R$ 195.000|2 quartos | 78m² | | 2 vagas|São Francisco
+R$ 800.000|3 quartos | 150m² |R$ 550 | 2 vagas|Industrial
+R$ 199.800|2 quartos | 52m² |R$ 212 | 2 vagas|Planalto
+R$ 45.000|3 quartos | 1025m² | | 1 vaga|Mariana
+R$ 355.000|4 quartos | 250m² |R$ 0 | 3 vagas|Conceição
+|3 quartos | 12m² |R$ 70| |Marcos Freire
+R$ 350.000|5 ou mais quartos | 294m² | | 2 vagas|Nacional
+R$ 170.000|2 quartos | 96m² | | 2 vagas|Centro
+R$ 140.000|4 quartos | | | 2 vagas|Militar
+R$ 100.000|2 quartos | 120m² | | 1 vaga|São Francisco
+R$ 165.000|3 quartos | 140m² | | 2 vagas|Igarapé
+R$ 79.900|2 quartos | 95m²| | |São Sebastião
+R$ 319.900|3 quartos | 154m² | | 3 vagas|Conceição
+R$ 70.000|2 quartos | 20m² |R$ 0 | 2 vagas|Teixeirão
+R$ 15.000|5 ou mais quartos| | | |São Francisco
+R$ 1.200.000|3 quartos | 301m² |R$ 0| |Triângulo
+R$ 300.000|3 quartos | 84m² |R$ 550 | 2 vagas|Agenor de Carvalho
+R$ 550.000|3 quartos | 134m² |R$ 680 | 2 vagas|Militar
+R$ 35.000|2 quartos | | | 2 vagas|Área Rural de Porto Velho
+R$ 285.000|3 quartos | 0m² | | 2 vagas|Rio Madeira
+R$ 1.200.000|3 quartos | 238m² | | 2 vagas|Eldorado
+R$ 260.000|3 quartos | 73m² | | 1 vaga|Cuniã
+R$ 300.000|4 quartos | 250m² | | 2 vagas|Três Marias
+R$ 549.000|3 quartos | 120m² | | 2 vagas|Lagoa
+R$ 650.000|3 quartos | 250m² |R$ 0 | 4 vagas|Agenor de Carvalho
+R$ 600.000|2 quartos | 273m² |R$ 0 | 5 ou mais vagas|Nova Floresta
+R$ 550.000|3 quartos | 210m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 300.000|1 quarto | 65m² |R$ 430 | 1 vaga|Nova Porto Velho
+R$ 300.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 243.495|2 quartos | 84m² | | 1 vaga|Lagoa
+R$ 220.000|3 quartos | | | 3 vagas|Castanheira
+R$ 35.000|2 quartos | 25m² |R$ 0 | 5 ou mais vagas|Jardim Santana
+R$ 220.000|3 quartos | 180m² | | 3 vagas|Igarapé
+R$ 1.290.000|3 quartos | 256m² |R$ 400 | 4 vagas|Cidade Jardim
+R$ 1.500.000|4 quartos | 307m² |R$ 0 | 4 vagas|Lagoa
+R$ 325.000|2 quartos | 251m² |R$ 194 | 2 vagas|Novo Horizonte
+R$ 820.000|4 quartos | 535m² |R$ 0 | 2 vagas|Arigolândia
+R$ 782.700|3 quartos | 168m² |R$ 988 | 2 vagas|Nossa Senhora das Graças
+R$ 450.000|2 quartos | 75m² |R$ 380 | 1 vaga|Liberdade
+R$ 549.000|3 quartos | 120m² |R$ 0 | 2 vagas|Lagoa
+R$ 323.000|2 quartos | 160m² |R$ 70 | 2 vagas|Novo Horizonte
+R$ 400.000|3 quartos | 250m² | | 3 vagas|Cohab
+R$ 172.000|2 quartos | 51m² |R$ 0 | 1 vaga|Planalto
+R$ 200.000|2 quartos | 84m² |R$ 150 | 2 vagas|Novo Horizonte
+R$ 300.000|3 quartos | 154m² |R$ 230 | 4 vagas|Areia Branca
+R$ 185.000|2 quartos | 78m² |R$ 0 | 2 vagas|São Francisco
+R$ 350.000|2 quartos | 70m² | | 2 vagas|Embratel
+R$ 335.000|3 quartos | 0m² | | 1 vaga|Nova Esperança
+R$ 50.000|2 quartos | 56m² | | 2 vagas|Socialista
+R$ 400.000|3 quartos | 230m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 490.000|4 quartos | 218m² |R$ 0 | 2 vagas|KM 1
+R$ 120.000|2 quartos| | | |São Francisco
+R$ 225.000|3 quartos | 70m² | | 1 vaga|Nova Esperança
+R$ 670.000|3 quartos | 185m² |R$ 0 | 3 vagas|Liberdade
+R$ 750.000|3 quartos | 360m² |R$ 0 | 4 vagas|Embratel
+R$ 172.000|2 quartos | 144m² |R$ 0 | 2 vagas|Planalto
+R$ 325.000|2 quartos | 74m² |R$ 375 | 2 vagas|Triângulo
+R$ 110.000|2 quartos | 46m² |R$ 187 | 1 vaga|Floresta
+R$ 70.000|2 quartos | | | 1 vaga|Teixeirão
+R$ 1.380.000|1 quarto | 300m² | | 1 vaga|Rio Madeira
+R$ 380.000|3 quartos | 200m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 287.451|2 quartos | 58m² | | 2 vagas|Aponiã
+R$ 90.000|3 quartos | | | 2 vagas|Mariana
+R$ 680.000|3 quartos | 450m² | | 3 vagas|Agenor de Carvalho
+R$ 700.000|4 quartos | 300m² | | 4 vagas|Rio Madeira
+R$ 280|4 quartos | 200m² |R$ 1 | 2 vagas|Caladinho
+R$ 109.900|3 quartos | 180m² | | 2 vagas|Três Marias
+R$ 230.000|2 quartos | 420m² | | 1 vaga|Centro
+R$ 380.000|3 quartos | 0m² | | 2 vagas|Novo Horizonte
+R$ 850.000|3 quartos | 185m² | | 2 vagas|Rio Madeira
+R$ 243.495|2 quartos | 84m² |R$ 0 | 1 vaga|Lagoa
+R$ 40.000|2 quartos | 6m²| | |Mariana
+R$ 350.000|3 quartos | 10m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 580.000|2 quartos | 96m² |R$ 735 | 2 vagas|São João Bosco
+R$ 550.000|3 quartos | 300m² | | 2 vagas|Aponiã
+R$ 410.000|3 quartos | 215m² | | 2 vagas|Aponiã
+R$ 200.000|3 quartos | 220m² | | 2 vagas|Jardim Santana
+R$ 120.000|3 quartos | | | 1 vaga|Lagoinha
+R$ 1.500.000|3 quartos | 246m² |R$ 350 | 5 ou mais vagas|Rio Madeira
+R$ 460.000|3 quartos | 216m² |R$ 0 | 4 vagas|Aponiã
+R$ 28.000|1 quarto | | | 1 vaga|Cuniã
+R$ 450.000|3 quartos | 205m² |R$ 0 | 4 vagas|Agenor de Carvalho
+R$ 280.000|3 quartos | 104m² |R$ 150 | 3 vagas|Agenor de Carvalho
+R$ 330.000|3 quartos | 76m² |R$ 620 | 1 vaga|Liberdade
+R$ 230.000|3 quartos | 92m² | | 1 vaga|Rio Madeira
+R$ 0|3 quartos | 0m² |R$ 0 | 5 ou mais vagas|Castanheira
+R$ 230.000|2 quartos | 50m² |R$ 350 | 1 vaga|Aponiã
+R$ 1.290.000|3 quartos | |R$ 450 | 4 vagas|Cidade Jardim
+R$ 185.000|2 quartos | 95m² | | 2 vagas|Aponiã
+R$ 280|4 quartos | 200m² |R$ 1 | 2 vagas|Caladinho
+R$ 358.000|3 quartos | 84m² |R$ 500 | 2 vagas|Novo Horizonte
+R$ 180.000|2 quartos | 52m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 430.000|3 quartos | 0m² | | 2 vagas|Lagoa
+R$ 120.000|2 quartos | | | 1 vaga|Nova Esperança
+R$ 110.000|3 quartos | | | 3 vagas|Castanheira
+R$ 3.000.000|3 quartos | 400m² | | 4 vagas|Embratel
+R$ 374.497|3 quartos | 75m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 850.000|3 quartos | 120m² |R$ 812 | 2 vagas|Olaria
+R$ 120.000|3 quartos | 150m² | | 2 vagas|Ulisses Guimarães
+R$ 220.000|3 quartos| | | |Embratel
+R$ 150.000|2 quartos | 500m² | | 4 vagas|Tucumanzal
+R$ 28.000|2 quartos | 58m² |R$ 0| |Esperança da Comunidade
+R$ 55.000|1 quarto | 5m²| | |Castanheira
+R$ 172.000|2 quartos | 51m² | | 1 vaga|Cuniã
+R$ 670.000|3 quartos | 185m² | | 3 vagas|Liberdade
+R$ 50.000|1 quarto | | | 1 vaga|Três Marias
+R$ 1.950.000|4 quartos | 350m² |R$ 450 | 4 vagas|Nova Esperança
+R$ 150.000|3 quartos | |R$ 0 | 3 vagas|Castanheira
+R$ 38.000|1 quarto | |R$ 0| |Ronaldo Aragão
+R$ 240.000|2 quartos | 60m² |R$ 415 | 1 vaga|Industrial
+R$ 175.000|2 quartos | | | 3 vagas|Centro
+R$ 75.000|2 quartos| | | |Três Marias
+R$ 1.200.000|3 quartos | 171m² | | 2 vagas|Embratel
+R$ 630.000|3 quartos | 130m² | | 2 vagas|Rio Madeira
+R$ 550.000|3 quartos | 300m² |R$ 0 | 2 vagas|Aponiã
+R$ 350.000|3 quartos | 200m² | | 4 vagas|Aponiã
+R$ 90.000|2 quartos | | | 2 vagas|Eletronorte
+R$ 375.000|2 quartos | 97m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 397.000|3 quartos | 94m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 326.800|3 quartos | 75m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 155.000|2 quartos | 10m² | | 1 vaga|Bairro Novo
+R$ 397.000|3 quartos | 152m² | | 2 vagas|Lagoa
+R$ 315.000|3 quartos | 85m² |R$ 614 | 1 vaga|Rio Madeira
+R$ 40.000|2 quartos | 50m² |R$ 130 | 1 vaga|Jardim Santana
+R$ 890.000|3 quartos | 164m² | | 2 vagas|Rio Madeira
+R$ 70.000|2 quartos | 300m²| | |Nova Esperança
+R$ 850.000|3 quartos | 185m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 352.000|2 quartos | 68m² |R$ 0 | 1 vaga|Flodoaldo Pontes Pinto
+R$ 1.300.000|4 quartos | 214m² | | 2 vagas|Nova Porto Velho
+R$ 235.000|2 quartos | 105m² | | 1 vaga|Igarapé
+R$ 170.000|2 quartos | 56m² | | 2 vagas|Triângulo
+R$ 250.000|2 quartos | 75m² | | 1 vaga|Liberdade
+R$ 90.000|2 quartos | 1m² | | 1 vaga|Maringá
+R$ 25.000|1 quarto | |R$ 0 | 4 vagas|Ulisses Guimarães
+R$ 90.000|2 quartos | 0m² | | 2 vagas|São Francisco
+R$ 190.000|3 quartos | | | 4 vagas|Cidade Nova
+R$ 165.000|2 quartos | | | 4 vagas|Embratel
+R$ 700.000|4 quartos | 430m² | | 4 vagas|Embratel
+R$ 230.000|2 quartos | 60m² |R$ 340 | 1 vaga|Rio Madeira
+R$ 30.000|1 quarto| | | |Esperança da Comunidade
+R$ 150.000|3 quartos | 60m² | | 2 vagas|São Cristóvão
+R$ 70.000|2 quartos| | | |Floresta
+R$ 320|4 quartos | 200m² | | 4 vagas|Eletronorte
+R$ 520.000|3 quartos | 100m² | | 2 vagas|Industrial
+R$ 540.000|3 quartos | | | 2 vagas|Triângulo
+R$ 35.000|1 quarto | 4m² | | 1 vaga|Cidade Nova
+R$ 150.000|2 quartos| | | |Aponiã
+R$ 1.280.000|3 quartos | 222m² |R$ 335 | 4 vagas|Área Rural de Porto Velho
+R$ 188.000|3 quartos | 80m² |R$ 600 | 1 vaga|Agenor de Carvalho
+R$ 180.000|2 quartos | 600m² | | 5 ou mais vagas|Ronaldo Aragão
+R$ 90.000|2 quartos | 300m² | | 2 vagas|Ronaldo Aragão
+R$ 50.000|2 quartos | | | 2 vagas|Centro
+R$ 100.000|1 quarto | 50m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 380.000|3 quartos | 84m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 310.000|3 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 265.000|2 quartos | 51m² | | 1 vaga|Igarapé
+R$ 1.300.000|5 ou mais quartos | 400m² |R$ 1.000 | 3 vagas|Panair
+R$ 98.000|2 quartos | 150m² | | 2 vagas|Castanheira
+R$ 580.000|4 quartos | 116m² |R$ 900 | 2 vagas|Olaria
+R$ 140.000|1 quarto | 40m² |R$ 0 | 1 vaga|Tupy
+R$ 220.000|2 quartos | 51m² |R$ 350 | 1 vaga|Rio Madeira
+R$ 300.000|4 quartos | 250m² | | 3 vagas|Aponiã
+R$ 102.000|2 quartos | 10m² |R$ 0| |Nova Porto Velho
+R$ 2.500|3 quartos | 120m² | | 4 vagas|Bairro Novo
+R$ 250.000|1 quarto | 300m² | | 2 vagas|Aponiã
+R$ 580.000|3 quartos | 110m² | | 2 vagas|Olaria
+R$ 280.000|2 quartos | 64m² | | 1 vaga|Eldorado
+R$ 500.000|3 quartos | | | 3 vagas|Cuniã
+R$ 250.000|1 quarto | | | 1 vaga|São Francisco
+R$ 950.000|3 quartos | 187m² | | 2 vagas|Rio Madeira
+R$ 460.000|2 quartos | 300m² |R$ 0 | 3 vagas|Lagoinha
+R$ 550.000|4 quartos | 315m² |R$ 0 | 4 vagas|Olaria
+R$ 50.000|2 quartos | 300m² | | 5 ou mais vagas|Três Marias
+R$ 350.000|3 quartos | 75m² | | 1 vaga|Rio Madeira
+R$ 400.000|2 quartos | | | 5 ou mais vagas|Liberdade
+R$ 650.000|3 quartos | 110m² | | 2 vagas|Olaria
+R$ 850.000|3 quartos | |R$ 500 | 2 vagas|Nova Esperança
+R$ 255.000|3 quartos | 74m² |R$ 440 | 2 vagas|Floresta
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 150.000|2 quartos | 50m² |R$ 240 | 2 vagas|Centro
+R$ 45.000|1 quarto | 30m² | | 2 vagas|Igarapé
+R$ 100.000|3 quartos | 200000m²| | |Embratel
+R$ 35.000|2 quartos| | | |Mariana
+R$ 80.000|2 quartos | 56m² | | 1 vaga|Marcos Freire
+R$ 75.000|4 quartos | | | 1 vaga|Mariana
+R$ 160.000|2 quartos | 180m² |R$ 0 | 2 vagas|Tancredo Neves
+R$ 10.000|3 quartos | | | 3 vagas|Centro
+R$ 25.000|1 quarto | 30m² |R$ 0| |Centro
+R$ 75.000|2 quartos | | | 1 vaga|Centro
+R$ 1.950.000|4 quartos | 350m² |R$ 450 | 4 vagas|Nova Esperança
+R$ 100.000|3 quartos | | | 2 vagas|Centro
+R$ 75.000|2 quartos | | | 2 vagas|Floresta
+R$ 600.000|5 ou mais quartos | 420m² | | 2 vagas|Areal
+R$ 35.000|1 quarto| | | |Eldorado
+R$ 150.000|2 quartos | | | 2 vagas|São Francisco
+R$ 0|5 ou mais quartos | 0m² | | 2 vagas|Aponiã
+R$ 950.000|3 quartos | 187m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 330.000|2 quartos | | | 2 vagas|Nova Floresta
+R$ 240.000|2 quartos | 72m² |R$ 415 | 1 vaga|Industrial
+R$ 420.000|3 quartos | | | 2 vagas|Aeroclube
+R$ 230.000|3 quartos | 106m² | | 2 vagas|Aeroclube
+R$ 305.000|3 quartos | 139m² | | 2 vagas|Cascalheira
+R$ 950.000|4 quartos | 169m² |R$ 810 | 2 vagas|Lagoa
+R$ 50.000|2 quartos | 1000m² |R$ 126 | 1 vaga|Eldorado
+R$ 198.000|2 quartos | |R$ 194 | 3 vagas|Novo Horizonte
+R$ 900.000|3 quartos | 235m² |R$ 0 | 4 vagas|São João Bosco
+R$ 340.000|3 quartos | 0m² | | 2 vagas|Rio Madeira
+R$ 350.000|3 quartos | 0m² | | 2 vagas|São Cristóvão
+R$ 580.000|3 quartos | 84m² |R$ 420 | 2 vagas|Lagoa
+R$ 350.000|3 quartos | 76m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 500.000|2 quartos | 117m² |R$ 1.150 | 2 vagas|Olaria
+R$ 350.000|3 quartos | 10m² | | 4 vagas|Aponiã
+R$ 1.450.000|3 quartos | 248m² |R$ 400 | 2 vagas|Triângulo
+R$ 30.000|2 quartos | 500m² |R$ 30 | 1 vaga|Juscelino Kubitschek
+R$ 150.000|2 quartos | 46m² |R$ 157 | 1 vaga|Aeroclube
+R$ 1.490.000|4 quartos | 326m² |R$ 500 | 5 ou mais vagas|Embratel
+R$ 325.000|2 quartos | 251m² |R$ 194 | 2 vagas|Novo Horizonte
+R$ 0|2 quartos | |R$ 0 | 1 vaga|Jardim Santana
+R$ 260.000|3 quartos | 74m² |R$ 400 | 1 vaga|Cuniã
+R$ 1.100.000|3 quartos | 212m² |R$ 450 | 2 vagas|Cidade Jardim
+R$ 1.500.000|3 quartos | 246m² |R$ 350 | 5 ou mais vagas|Rio Madeira
+R$ 900.000|3 quartos | 235m² | | 4 vagas|São João Bosco
+R$ 990.000|3 quartos | 170m² |R$ 300 | 2 vagas|Rio Madeira
+R$ 200.000|2 quartos | 50m² | | 1 vaga|Planalto
+R$ 320.000|5 ou mais quartos | | | 1 vaga|Baixa União
+R$ 1.500.000|3 quartos | 250m² |R$ 360 | 2 vagas|Nova Esperança
+R$ 520.000|3 quartos | 100m² |R$ 0 | 2 vagas|Industrial
+R$ 65.000|2 quartos | 180m² | | 1 vaga|Área Rural de Porto Velho
+R$ 60.000|2 quartos | |R$ 170 | 2 vagas|Bairro Novo
+R$ 0|5 ou mais quartos | | | 1 vaga|Embratel
+R$ 35.000|1 quarto | 1025m² |R$ 35 | 1 vaga|Maringá
+R$ 15.000|2 quartos | |R$ 15.000 | 1 vaga|Jardim Santana
+R$ 70.000|2 quartos | | | 1 vaga|Ulisses Guimarães
+R$ 70.000|2 quartos | | | 2 vagas|Jardim Santana
+R$ 480.000|3 quartos | 180m² | | 2 vagas|Olaria
+R$ 310.000|3 quartos | 72m² |R$ 380 | 2 vagas|Floresta
+R$ 550.000|3 quartos | | | 2 vagas|Industrial
+R$ 0|3 quartos | 186m² |R$ 270 | 2 vagas|Aponiã
+R$ 230.000|2 quartos | 93m² |R$ 250 | 1 vaga|Embratel
+R$ 900.000|5 ou mais quartos | 420m² |R$ 700 | 4 vagas|Embratel
+R$ 235.000| |0m²| | |Militar
+R$ 172.000|2 quartos | 51m² |R$ 0 | 1 vaga|Planalto
+R$ 280.000|3 quartos | 104m² |R$ 150 | 3 vagas|Agenor de Carvalho
+R$ 445.000|3 quartos | 107m² |R$ 0 | 2 vagas|São Francisco
+R$ 250.000|4 quartos | 250m² |R$ 0 | 3 vagas|Aponiã
+R$ 350.000|3 quartos | 200m² |R$ 0 | 4 vagas|Aponiã
+R$ 300.000|2 quartos | 70m² |R$ 0 | 1 vaga|Lagoinha
+R$ 720.000|5 ou mais quartos | 300m² |R$ 380 | 2 vagas|Rio Madeira
+R$ 250.000|2 quartos | 50m² |R$ 190 | 2 vagas|Novo Horizonte
+R$ 70.000|2 quartos | |R$ 115 | 2 vagas|Lagoa
+R$ 295.000|3 quartos | 89m² | | 1 vaga|Rio Madeira
+R$ 180.000|2 quartos | | | 2 vagas|Tancredo Neves
+R$ 320.000|2 quartos | 70m² |R$ 480 | 1 vaga|Agenor de Carvalho
+R$ 43.000|2 quartos | 250m² |R$ 0 | 2 vagas|Areia Branca
+R$ 330.000|3 quartos | 76m² |R$ 620 | 1 vaga|Liberdade
+R$ 45.000|2 quartos| | | |Socialista
+R$ 110.000|2 quartos | 45m² |R$ 170 | 1 vaga|Aeroclube
+R$ 70.000|2 quartos | 45m² |R$ 170 | 1 vaga|Aeroclube
+R$ 390.000|3 quartos | 74m² |R$ 500 | 1 vaga|Industrial
+R$ 40.000|2 quartos | 300m²| | |Planalto
+R$ 36.000|2 quartos | | | 1 vaga|Cohab
+R$ 1.270.000|1 quarto | 2520m² |R$ 0| |Eldorado
+R$ 400.000|3 quartos | 230m² |R$ 0 | 5 ou mais vagas|Agenor de Carvalho
+R$ 218.000|2 quartos | 53m² | | 1 vaga|Igarapé
+R$ 160.000|2 quartos | 120m² | | 3 vagas|Castanheira
+R$ 130.000|2 quartos | 100m² | | 5 ou mais vagas|Lagoa
+R$ 260.000|2 quartos | 140m² |R$ 160 | 2 vagas|Novo Horizonte
+R$ 1.490.000|4 quartos | 326m² | | 4 vagas|Industrial
+R$ 195.000|2 quartos | 78m² |R$ 0 | 2 vagas|Três Marias
+R$ 890.000|3 quartos | 170m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 700.000|3 quartos | 117m² |R$ 800 | 2 vagas|Olaria
+R$ 295.000|3 quartos | 112m² |R$ 450 | 2 vagas|Nova Porto Velho
+R$ 160.000| |52m² |R$ 345| |Rio Madeira
+R$ 300.000|2 quartos | 70m² |R$ 395 | 1 vaga|Lagoinha
+R$ 225.000|3 quartos | 72m² |R$ 360 | 1 vaga|Rio Madeira
+R$ 320.000|3 quartos | 84m² |R$ 550 | 2 vagas|Rio Madeira
+R$ 55.000|1 quarto | 54m² |R$ 0 | 1 vaga|Ronaldo Aragão
+R$ 300.000|2 quartos | 70m² |R$ 395 | 1 vaga|Lagoinha
+R$ 60.000|2 quartos | | | 2 vagas|Teixeirão
+R$ 800.000|3 quartos | 150m² |R$ 550 | 2 vagas|Industrial
+R$ 1.200.000|3 quartos | 238m² |R$ 500 | 2 vagas|Cidade Jardim
+R$ 2.800.000|5 ou mais quartos | 3300m² |R$ 0 | 5 ou mais vagas|Lagoa
+R$ 1.500.000|3 quartos | 302m² |R$ 0 | 2 vagas|Triângulo
+R$ 320.000|3 quartos | 72m² |R$ 450 | 1 vaga|Agenor de Carvalho
+R$ 245.595|2 quartos | 66m² |R$ 350 | 1 vaga|Lagoa
+R$ 250.000|2 quartos | 58m² |R$ 500 | 1 vaga|Industrial
+R$ 355.000|3 quartos | 84m² |R$ 525 | 2 vagas|Rio Madeira
+R$ 50.000|2 quartos| | | |São Francisco
+R$ 140.000|4 quartos | |R$ 0 | 4 vagas|Nova Floresta
+R$ 375.000| |0m²| | |Rio Madeira
+R$ 30.000|2 quartos| | | |Aeroclube
+R$ 230.000|2 quartos | 86m² |R$ 200 | 1 vaga|Igarapé
+R$ 1.200.000|3 quartos | 171m² | | 2 vagas|Embratel
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Embratel
+R$ 860.000|3 quartos | | | 3 vagas|Olaria
+R$ 1.500.000|4 quartos | | | 3 vagas|Lagoa
+R$ 420.000|3 quartos | 150m² |R$ 160 | 2 vagas|Olaria
+R$ 220.000|3 quartos | | | 2 vagas|Cuniã
+R$ 470.000|3 quartos | 83m² | | 2 vagas|Lagoa
+R$ 210.000|2 quartos | 300m²| | |Aponiã
+R$ 137.000|3 quartos | 250m² | | 2 vagas|Aeroclube
+R$ 280.000|2 quartos | 0m²| | |Eldorado
+R$ 60.000|2 quartos | 10m² | | 1 vaga|Pantanal
+R$ 160.000|2 quartos | 46m² |R$ 150 | 1 vaga|Aeroclube
+R$ 900.000|3 quartos | 187m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 45.000| | | | |Centro
+R$ 950.000|4 quartos | 400m² | | 4 vagas|Nova Esperança
+R$ 1.270.000|1 quarto | 2520m² | | 3 vagas|Eldorado
+R$ 208.000|3 quartos | 87m² |R$ 400 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 80.000|2 quartos | 45m² |R$ 170 | 1 vaga|Aeroclube
+R$ 450.000|5 ou mais quartos | 585m² | | 3 vagas|Pedrinhas
+R$ 930.000|3 quartos | 220m² |R$ 550 | 3 vagas|Nova Esperança
+R$ 1.500.000|3 quartos | 241m² |R$ 11.000| |Rio Madeira
+R$ 150.000|2 quartos | 25m²| | |Floresta
+R$ 580.000|3 quartos | 100m² |R$ 550 | 2 vagas|Agenor de Carvalho
+R$ 80.000| | |Condomínio: R$ 0| |São Sebastião
+R$ 320.000|3 quartos | 0m² | | 2 vagas|Rio Madeira
+R$ 350.000|3 quartos | 74m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 17.000| | | | |Nacional
+R$ 900.000|3 quartos | 235m² |R$ 0 | 4 vagas|São João Bosco
+R$ 55.000|1 quarto | 300m² | | 3 vagas|Planalto
+R$ 1.000.000|5 ou mais quartos | 0m² | | 2 vagas|Nova Porto Velho
+R$ 650.000|3 quartos | 122m² | | 2 vagas|Olaria
+R$ 560.000|3 quartos | 120m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 650.000|3 quartos | 170m² | | 2 vagas|Rio Madeira
+R$ 295.000|3 quartos | 450m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 685.000|3 quartos | 120m² |R$ 650 | 2 vagas|Nova Porto Velho
+R$ 35|1 quarto| | | |Lagoinha
+R$ 65.000|2 quartos | | | 2 vagas|Bairro Novo
+R$ 150.000|3 quartos | |R$ 0 | 1 vaga|Centro
+R$ 70.000|2 quartos | 66m² |R$ 0 | 1 vaga|Eldorado
+R$ 400.000|3 quartos | 150m²| | |Olaria
+R$ 767.096|3 quartos | 134m² |R$ 750 | 2 vagas|Triângulo
+R$ 650.000|4 quartos | 240m² | | 3 vagas|Centro
+R$ 360.000|3 quartos | 110m² |R$ 467 | 2 vagas|Lagoinha
+R$ 80.000|2 quartos | 70m² | | 3 vagas|Aeroclube
+R$ 420.000|4 quartos | 200m² |R$ 0 | 2 vagas|Igarapé
+R$ 50.000|2 quartos | | | 3 vagas|Bairro Novo
+R$ 239.250|2 quartos | |R$ 440 | 1 vaga|Lagoinha
+R$ 35.000|2 quartos | |R$ 0| |Jardim Santana
+R$ 228.000|2 quartos | 67m² |R$ 440 | 1 vaga|Lagoinha
+R$ 1.500.000|3 quartos | 250m² |R$ 360 | 2 vagas|Nova Esperança
+R$ 0|3 quartos | 130m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 0|3 quartos | 170m² |R$ 270 | 2 vagas|Aponiã
+R$ 420.000|3 quartos | 150m² |R$ 160 | 2 vagas|Olaria
+R$ 380.000|3 quartos | 144m² | | 3 vagas|Aponiã
+R$ 110.000|3 quartos | |R$ 0 | 1 vaga|Caladinho
+R$ 230.000|2 quartos | 93m² |R$ 250 | 1 vaga|Embratel
+R$ 85.000|1 quarto | 300m² |R$ 0 | 2 vagas|Aponiã
+|2 quartos | 111m² |R$ 60| |Conceição
+R$ 25.000|3 quartos| | | |Três Marias
+R$ 55.000|1 quarto| | | |Lagoinha
+R$ 1.350.000|3 quartos | | | 2 vagas|Eletronorte
+R$ 400.000|4 quartos | 8889m² | | 2 vagas|Nova Esperança
+R$ 25.000|2 quartos| | | |Aeroclube
+R$ 375.000|3 quartos | 84m² |R$ 525 | 2 vagas|Rio Madeira
+R$ 900.000|3 quartos | 187m² | | 2 vagas|Rio Madeira
+R$ 240.000|3 quartos | | | 2 vagas|Juscelino Kubitschek
+R$ 45.000|2 quartos | 10m² | | 1 vaga|Área Rural de Porto Velho
+R$ 325.000|2 quartos | 57m² |R$ 439 | 1 vaga|Rio Madeira
+R$ 460.000|2 quartos | 235m² | | 5 ou mais vagas|Lagoinha
+R$ 90.000|2 quartos | 150m² | | 2 vagas|Tancredo Neves
+R$ 90.000|2 quartos | 150m² | | 2 vagas|Tancredo Neves
+R$ 1.100.000|3 quartos | 244m² |R$ 900 | 2 vagas|Pedrinhas
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 90.000|2 quartos | 250m² | | 1 vaga|Mariana
+R$ 40.000|1 quarto | | | 1 vaga|Ronaldo Aragão
+R$ 300.000|3 quartos | 180m² |R$ 0 | 2 vagas|Aponiã
+R$ 290.000|3 quartos | | | 1 vaga|Centro
+R$ 100.000| |0m² |R$ 0| |Centro
+R$ 65.000|2 quartos | 70m² | | 1 vaga|Aeroclube
+R$ 0|2 quartos | |R$ 0 | 2 vagas|Jardim Santana
+R$ 530.000|3 quartos | 0m² | | 2 vagas|Industrial
+R$ 850.000|3 quartos | 185m² |R$ 0| |Rio Madeira
+R$ 149.999|2 quartos | 100m² |R$ 100 | 2 vagas|Nova Esperança
+R$ 30.000|2 quartos | 1530m²| | |Área Rural de Porto Velho
+R$ 115.000|2 quartos | 300m² | | 2 vagas|Aeroclube
+R$ 80.000|1 quarto | | | 3 vagas|Mariana
+R$ 350.000|4 quartos | 225m² |R$ 0 | 2 vagas|Tiradentes
+R$ 220.000|3 quartos | 74m² |R$ 380 | 1 vaga|Nova Esperança
+R$ 55.000|2 quartos| | | |Cascalheira
+R$ 200.000|3 quartos | | | 2 vagas|Cascalheira
+R$ 150.000|3 quartos | 300m² | | 1 vaga|Lagoinha
+R$ 450|2 quartos | | | 1 vaga|Tiradentes
+R$ 160.000|2 quartos | 0m² | | 1 vaga|Triângulo
+R$ 170.000|2 quartos| | | |Maringá
+R$ 0|4 quartos | 0m² |R$ 0 | 2 vagas|Centro
+R$ 300.000|4 quartos | 250m² |R$ 0 | 2 vagas|Três Marias
+R$ 670.000|4 quartos | 624m² |R$ 0 | 2 vagas|Agenor de Carvalho
+R$ 600.000|3 quartos | 400m² | | 5 ou mais vagas|Igarapé
+R$ 900.000|5 ou mais quartos | 420m² |R$ 700 | 4 vagas|Embratel
+R$ 45.000|2 quartos | 4588m² |R$ 258 | 1 vaga|Área Rural de Porto Velho
+R$ 0|2 quartos | 54m² |R$ 300 | 1 vaga|Baixa União
+R$ 215.000|3 quartos | 48m² |R$ 0 | 1 vaga|Planalto
+R$ 350.000|4 quartos | 360m² | | 2 vagas|Industrial
+R$ 890.000|3 quartos | 170m² |R$ 380 | 2 vagas|Aponiã
+R$ 1.290.000|4 quartos | 285m² |R$ 400 | 2 vagas|Cidade Jardim
+R$ 1.500.000|4 quartos | 307m² | | 4 vagas|Lagoa
+R$ 135.000|2 quartos | 45m² | | 1 vaga|Lagoinha
+R$ 180.000|4 quartos | | | 2 vagas|Juscelino Kubitschek
+R$ 825.000|3 quartos | 175m² | | 2 vagas|Agenor de Carvalho
+R$ 55.000|2 quartos | 30m² |R$ 55.000 | 1 vaga|Nova Esperança
+R$ 11.000|2 quartos| | | |Jardim Santana
+R$ 75.000|2 quartos | | | 1 vaga|Cohab
+R$ 1.250.000|3 quartos | 210m² |R$ 400 | 2 vagas|Nova Esperança
+R$ 355.000|3 quartos | 84m² |R$ 525 | 2 vagas|Rio Madeira
+R$ 300.000|3 quartos | 350m² | | 3 vagas|Rio Madeira
+R$ 182.549|3 quartos | 100m² | | 1 vaga|Aeroclube
+R$ 580.000|3 quartos | 83m² |R$ 450 | 2 vagas|Lagoa
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 540.000|3 quartos | 130m² | | 2 vagas|Industrial
+R$ 180.000|3 quartos | 600m² | | 2 vagas|Lagoa
+R$ 600|1 quarto| | | |Agenor de Carvalho
+R$ 830.000|4 quartos | 300m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 300.000|2 quartos | 150m² | | 2 vagas|Nova Porto Velho
+R$ 195.000|2 quartos | 79m² |R$ 0 | 2 vagas|Três Marias
+R$ 430.000|3 quartos | 84m² |R$ 450| |Lagoa
+R$ 380.000|3 quartos | 74m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 75.000|3 quartos | 300m² | | 3 vagas|Mariana
+R$ 85.000|1 quarto | | | 1 vaga|Aponiã
+R$ 170.000|3 quartos | | | 2 vagas|Tancredo Neves
+R$ 500.000|3 quartos | 170m² | | 2 vagas|Rio Madeira
+R$ 650.000|3 quartos | 100m² | | 2 vagas|Embratel
+R$ 950.000|3 quartos | |R$ 300 | 2 vagas|Rio Madeira
+R$ 100.000|2 quartos | 350m² |R$ 0 | 4 vagas|São Francisco
+R$ 850.000|3 quartos | 0m² | | 2 vagas|Nova Porto Velho
+R$ 750.000|3 quartos | 250m² |R$ 450 | 4 vagas|Castanheira
+R$ 350.000|4 quartos | 300m² | | 2 vagas|Aponiã
+R$ 750.000|3 quartos | 230m² | | 5 ou mais vagas|Cohab
+R$ 550.000|3 quartos | 210m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 380.000|4 quartos | 0m² | | 3 vagas|São João Bosco
+R$ 850.000|3 quartos | 830m² | | 2 vagas|Arigolândia
+R$ 360.000|3 quartos | 84m² | | 1 vaga|Rio Madeira
+R$ 475.000|3 quartos | 450m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 550.000|3 quartos | 130m² |R$ 380 | 2 vagas|Pedrinhas
+R$ 291.025|2 quartos | 70m² | | 2 vagas|Rio Madeira
+R$ 710.000|3 quartos | 151m² |R$ 660 | 2 vagas|Nossa Senhora das Graças
+R$ 920.000|3 quartos | 202m² |R$ 302 | 4 vagas|Aponiã
+R$ 155.000|2 quartos | 46m² |R$ 181 | 2 vagas|Eletronorte
+R$ 385.000|3 quartos | 74m² | | 1 vaga|Rio Madeira
+R$ 420.000|3 quartos | 75m² |R$ 500 | 2 vagas|Industrial
+R$ 898.000|3 quartos | 176m² | | 2 vagas|Embratel
+R$ 100.000|3 quartos | | | 2 vagas|Castanheira
+R$ 520.000|3 quartos | 96m² |R$ 0 | 2 vagas|Industrial
+R$ 340.000|3 quartos | 110m² |R$ 300 | 2 vagas|Rio Madeira
+R$ 835.000|3 quartos | 86m² |R$ 0 | 2 vagas|Olaria
+R$ 580.000|3 quartos | 120m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 90.000|3 quartos | | | 3 vagas|Ulisses Guimarães
+R$ 460.000|3 quartos | 216m² |R$ 0 | 4 vagas|Aponiã
+R$ 580.000|3 quartos | 120m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 1.550.000|3 quartos | 240m² |R$ 720 | 4 vagas|Rio Madeira
+R$ 1.500.000|5 ou mais quartos | 400m² |R$ 0 | 4 vagas|Panair
+R$ 161.000|2 quartos | 52m² | | 1 vaga|Esperança da Comunidade
+R$ 1.280.000|3 quartos | 222m² |R$ 335 | 4 vagas|Área Rural de Porto Velho
+R$ 8.000|2 quartos | 0m² |R$ 0| |Jardim Santana
+R$ 600.000|4 quartos | | | 4 vagas|Aponiã
+|2 quartos | |R$ 130 | 1 vaga|Bairro Novo
+R$ 950|1 quarto | | | 1 vaga|Três Marias
+R$ 560.000|3 quartos | 108m² |R$ 0 | 2 vagas|São João Bosco
+R$ 90.000|2 quartos | | | 2 vagas|Igarapé
+R$ 280.000|2 quartos | 48m² | | 2 vagas|Tiradentes
+R$ 750.000|3 quartos | 230m² | | 5 ou mais vagas|Caladinho
+R$ 50.000|3 quartos | | | 3 vagas|Nova Floresta
+R$ 55.000|2 quartos| | | |Socialista
+R$ 230.000|2 quartos | 93m² |R$ 250 | 1 vaga|Embratel
+R$ 70.000|2 quartos| | | |Cidade Nova
+R$ 300.000|3 quartos | 180m² |R$ 0 | 2 vagas|Aponiã
+R$ 280.000|3 quartos | 120000m² |R$ 10 | 3 vagas|Área Rural de Porto Velho
+R$ 300.000|4 quartos | 324m² |R$ 0 | 4 vagas|Pedrinhas
+R$ 90.000|2 quartos | | | 2 vagas|São Sebastião
+R$ 70.000|2 quartos | |R$ 0 | 2 vagas|Nova Esperança
+R$ 35.000|1 quarto| | | |Mariana
+R$ 170.000|1 quarto | 150m² | | 5 ou mais vagas|Nova Esperança
+R$ 295.000|4 quartos | 250m² |R$ 0 | 2 vagas|Aponiã
+R$ 360.000|3 quartos | 93m² |R$ 460 | 2 vagas|Lagoinha
+R$ 650.000|3 quartos | 153m² | | 2 vagas|Agenor de Carvalho
+R$ 1.700|3 quartos | 250m² | | 2 vagas|Arigolândia
+R$ 70.000|2 quartos | 65m² | | 1 vaga|Esperança da Comunidade
+R$ 600.000|5 ou mais quartos | 330m² | | 5 ou mais vagas|Igarapé
+R$ 320.000|3 quartos | 0m² | | 2 vagas|Igarapé
+R$ 160.000|2 quartos | 46m² |R$ 150 | 1 vaga|Aeroclube
+R$ 280.000|3 quartos | 250m² | | 3 vagas|Juscelino Kubitschek
+R$ 90.000|2 quartos | | | 1 vaga|Juscelino Kubitschek
+R$ 200.000|3 quartos | 300m² |R$ 0 | 2 vagas|Cohab
+R$ 850.000|3 quartos | 159m² |R$ 0 | 4 vagas|Aponiã
+R$ 370.000|3 quartos | 148m² | | 2 vagas|Embratel
+R$ 45.000|1 quarto | | | 1 vaga|Jardim Santana
+R$ 300.000|2 quartos | 100m² | | 2 vagas|Centro
+R$ 70.000|3 quartos | | | 1 vaga|Nova Floresta
+R$ 200.000|2 quartos | 50m² | | 1 vaga|Cohab
+R$ 890.000|3 quartos | 164m² |R$ 0 | 2 vagas|Aponiã
+R$ 750.000|3 quartos | 450m² |R$ 1.200 | 2 vagas|Olaria
+R$ 550.000|3 quartos | 550m² |R$ 446 | 2 vagas|Nova Floresta
+R$ 130.000|3 quartos | | | 3 vagas|Lagoinha
+R$ 150.000|2 quartos | 55m² | | 1 vaga|Triângulo
+R$ 800.000|3 quartos | 200m² | | 2 vagas|Industrial
+R$ 420.000|4 quartos | 144m² | | 4 vagas|Embratel
+R$ 160.000|3 quartos | | | 2 vagas|Nova Floresta
+R$ 231.900|2 quartos | 66m² | | 2 vagas|Lagoa
+R$ 199.800|2 quartos | 52m² |R$ 200 | 2 vagas|Planalto
+R$ 280.000|2 quartos | 150m² | | 2 vagas|Lagoa
+R$ 60.000|1 quarto | 0m²| | |Teixeirão
+R$ 370.000|3 quartos | 98m² |R$ 545 | 1 vaga|Costa e Silva
+R$ 1.195.000|4 quartos | 314m² |R$ 1.150 | 4 vagas|Industrial
+R$ 580.000|3 quartos | 95m² |R$ 735 | 2 vagas|São João Bosco
+R$ 900.000|3 quartos | 190m² | | 3 vagas|Lagoa
+R$ 240.000|3 quartos | 120m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 50.000|3 quartos | | | 2 vagas|Olaria
+R$ 50.000|2 quartos | | | 1 vaga|Nacional
+R$ 70.000|2 quartos | 0m² | | 1 vaga|Três Marias
+R$ 160.000|2 quartos | 60m² |R$ 147 | 2 vagas|Novo Horizonte
+R$ 80.000|2 quartos | | | 1 vaga|Pantanal
+R$ 245.000|1 quarto | 300m² | | 2 vagas|Embratel
+R$ 245.000|3 quartos | 104m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 340.000|3 quartos | 89m² |R$ 0 | 2 vagas|Santa Bárbara
+R$ 540.000|3 quartos | 107m² |R$ 730 | 2 vagas|Olaria
+R$ 165.000|2 quartos | 200m² | | 2 vagas|Floresta
+R$ 290.000|3 quartos | 180m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 260.000|4 quartos | 200m² | | 2 vagas|Cohab
+R$ 247.000|2 quartos | 104m² |R$ 0 | 2 vagas|Flodoaldo Pontes Pinto
+R$ 545.000|3 quartos | 130m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 280.000|3 quartos | 180m² | | 2 vagas|São João Bosco
+R$ 1.250.000|4 quartos | 300m² |R$ 400 | 4 vagas|Cidade Jardim
+R$ 670.000|2 quartos | 97m² |R$ 630 | 2 vagas|Nova Porto Velho
+R$ 340.000|3 quartos | 70m² |R$ 450 | 2 vagas|Aponiã
+R$ 180.000|2 quartos | | | 1 vaga|Lagoinha
+R$ 90.000|3 quartos | 0m² |R$ 0 | 2 vagas|Nova Esperança
+R$ 600.000|3 quartos | 130m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 50.000|2 quartos | 100m² |R$ 1 | 1 vaga|Três Marias
+R$ 390.000|5 ou mais quartos | 600m² |R$ 10 | 5 ou mais vagas|Areal
+R$ 0|2 quartos | |R$ 0 | 1 vaga|Cohab
+R$ 700.000|4 quartos | 0m² | | 3 vagas|Rio Madeira
+R$ 50.000|1 quarto | 3m² | | 1 vaga|Socialista
+R$ 300.000|3 quartos | 201m² | | 4 vagas|Eldorado
+R$ 440.000|3 quartos | 162m² | | 2 vagas|Nova Porto Velho
+R$ 20.000|2 quartos| | | |Planalto
+R$ 460.000|2 quartos | | | 3 vagas|Lagoinha
+R$ 72.000|2 quartos | 0m² |R$ 0 | 1 vaga|Igarapé
+R$ 670.000|5 ou mais quartos | 425m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 470.000|3 quartos | 292m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 125.000|1 quarto | 10000m² |R$ 100| |São João Bosco
+R$ 95.000|3 quartos | 0m² |R$ 0| |Ulisses Guimarães
+R$ 165.000|3 quartos | 80m² | | 1 vaga|Nova Floresta
+R$ 50.000|3 quartos | 120m²| | |Marcos Freire
+R$ 1.500.000|3 quartos | 250m² |R$ 360 | 2 vagas|Nova Esperança
+R$ 585.000|3 quartos | 107m² |R$ 780 | 2 vagas|Olaria
+R$ 83.000|2 quartos | 1m² | | 2 vagas|Maringá
+R$ 60.000|2 quartos | | | 2 vagas|Lagoa
+R$ 1.100.000|3 quartos | 212m² |R$ 450 | 2 vagas|Cidade Jardim
+R$ 368.000|2 quartos | 89m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 890.000|3 quartos | 158m² |R$ 344 | 4 vagas|Rio Madeira
+R$ 70|2 quartos | 10027m² | | 4 vagas|Pedrinhas
+R$ 390.000|3 quartos | 300m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 280.000|3 quartos | 120m² |R$ 300 | 2 vagas|Floresta
+R$ 70.000|2 quartos | 95m² |R$ 10 | 2 vagas|Olaria
+R$ 1.000.000|3 quartos | 161m² |R$ 300 | 2 vagas|Aponiã
+R$ 160.000|3 quartos | 164m² | | 3 vagas|São Francisco
+R$ 350.000|3 quartos | 74m² |R$ 500 | 1 vaga|Rio Madeira
+R$ 50.000|2 quartos | 36m² | | 2 vagas|São Francisco
+R$ 50.000|2 quartos| | | |Nova Esperança
+R$ 350.000|3 quartos | 89m² | | 1 vaga|Rio Madeira
+R$ 750.000|3 quartos | 300m² | | 3 vagas|Agenor de Carvalho
+R$ 450.000|3 quartos | 129m² |R$ 1.088 | 2 vagas|Pedrinhas
+R$ 3.800|5 ou mais quartos | | | 4 vagas|Rio Madeira
+R$ 650.000|3 quartos | 384m² |R$ 460 | 3 vagas|Nova Esperança
+R$ 114.000|2 quartos | 0m² | | 4 vagas|Esperança da Comunidade
+R$ 700.000|3 quartos | 0m² | | 2 vagas|Nova Esperança
+R$ 40.000|1 quarto| | | |Juscelino Kubitschek
+R$ 280.000|3 quartos | 324m² | | 4 vagas|Esperança da Comunidade
+R$ 520.000|3 quartos | 210m² |R$ 0 | 3 vagas|Flodoaldo Pontes Pinto
+R$ 495.000|3 quartos | | | 4 vagas|São Cristóvão
+R$ 2.500.000|4 quartos | 320m² |R$ 720 | 2 vagas|Rio Madeira
+R$ 86.000|3 quartos | 120m²| | |Castanheira
+R$ 550.000|3 quartos | 450m² |R$ 0 | 4 vagas|Aponiã
+R$ 900.000|5 ou mais quartos | 464m² |R$ 900| |Panair
+R$ 850.000|3 quartos | | | 2 vagas|Triângulo
+R$ 400.000|3 quartos | 74m² |R$ 540 | 1 vaga|Rio Madeira
+R$ 0|3 quartos | 0m² |R$ 0 | 2 vagas|Lagoa
+R$ 360.000|3 quartos | 67m² |R$ 200 | 2 vagas|Planalto
+R$ 135.000|3 quartos | 555555m² |R$ 55.555.555 | 2 vagas|Cidade Nova
+R$ 298.000|3 quartos | 120m² |R$ 162 | 2 vagas|Novo Horizonte
+R$ 45.000|2 quartos | 240m² |R$ 0| |Cohab
+R$ 218.000|3 quartos | 65m² |R$ 200 | 2 vagas|Bairro Novo
+R$ 300.000|3 quartos | 360m² | | 3 vagas|Baixa União
+R$ 28.000|2 quartos| | | |Planalto
+R$ 75.000|2 quartos | | | 2 vagas|Marcos Freire
+R$ 160.000|4 quartos | 120m² |R$ 0 | 3 vagas|Três Marias
+R$ 170.000|2 quartos | 50m² | | 1 vaga|Conceição
+R$ 15.000|1 quarto| | | |Floresta
+R$ 1.100|3 quartos| | | |Pantanal
+R$ 75.000|2 quartos | 100m² | | 3 vagas|Tucumanzal
+R$ 780.000| |195m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 1.100.000|3 quartos | 300m² |R$ 1.900 | 3 vagas|Pedrinhas
+R$ 281.468|2 quartos | 70m² |R$ 0 | 1 vaga|Lagoinha
+R$ 267.992|2 quartos | 70m² |R$ 0 | 1 vaga|Lagoinha
+R$ 185.000|2 quartos | 300m²| | |Agenor de Carvalho
+R$ 310.000|3 quartos | 110m² |R$ 350 | 2 vagas|Rio Madeira
+R$ 25.000|2 quartos | | | 1 vaga|Caladinho
+R$ 10.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 22.000|1 quarto| | | |Planalto
+R$ 300.000|5 ou mais quartos | 0m² | | 2 vagas|Conceição
+R$ 350.000|3 quartos | 190m² | | 2 vagas|Aponiã
+R$ 60.000|2 quartos | 104m² | | 2 vagas|Teixeirão
+R$ 42.000|3 quartos| | | |Castanheira
+R$ 200.000|3 quartos | 72m² |R$ 158 | 1 vaga|Novo Horizonte
+R$ 1.100.000|3 quartos | 244m² |R$ 900 | 3 vagas|Pedrinhas
+R$ 650.000|4 quartos | 450m² |R$ 0| |Rio Madeira
+R$ 55.000|3 quartos| | | |Socialista
+R$ 699.000|3 quartos | 300m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 35.000|2 quartos | 74m² | | 4 vagas|Aponiã
+R$ 300.000|5 ou mais quartos | 680m² | | 3 vagas|Jardim Santana
+R$ 225|3 quartos | |R$ 340 | 1 vaga|Rio Madeira
+R$ 180.000|2 quartos | | | 1 vaga|Tucumanzal
+R$ 75.000|2 quartos | 32m² |R$ 0 | 5 ou mais vagas|Centro
+R$ 139.000|2 quartos | | | 1 vaga|Aeroclube
+R$ 100.000|3 quartos | 120m² | | 1 vaga|Aeroclube
+R$ 135.000|3 quartos | 600m² | | 5 ou mais vagas|Aeroclube
+R$ 70.000|2 quartos | 0m²| | |Nova Esperança
+R$ 320.000|3 quartos | 0m² |R$ 0 | 3 vagas|Embratel
+R$ 250.000|3 quartos | 0m² |R$ 0 | 3 vagas|Floresta
+R$ 220.000|3 quartos | 0m² |R$ 0 | 3 vagas|Jardim Santana
+R$ 200.000|3 quartos | 0m² | | 3 vagas|Castanheira
+R$ 12.000|2 quartos| | | |Socialista
+R$ 0|3 quartos | 206m² | | 3 vagas|Centro
+R$ 30.000|2 quartos | | | 2 vagas|Eletronorte
+R$ 480.000|3 quartos | 0m² | | 2 vagas|Pedrinhas
+R$ 100.000|4 quartos | | | 1 vaga|Centro
+R$ 180.000|2 quartos | 0m²| | |Três Marias
+R$ 48.000|3 quartos | 300m² |R$ 0 | 5 ou mais vagas|Marcos Freire
+R$ 1.600.000|4 quartos | 416m² |R$ 800 | 2 vagas|Nova Esperança
+R$ 560.000|3 quartos | 180m² | | 4 vagas|Eldorado
+R$ 267.992|2 quartos | 67m² |R$ 0 | 1 vaga|Lagoinha
+R$ 372.278|3 quartos | 94m² |R$ 0 | 1 vaga|Lagoinha
+R$ 267.992|2 quartos | 67m² |R$ 0 | 1 vaga|Lagoinha
+R$ 430.000|3 quartos | 84m² |R$ 450| |Lagoa
+R$ 300.000|3 quartos | 154m² |R$ 230 | 4 vagas|Areia Branca
+R$ 580.000|3 quartos | 83m² |R$ 450 | 2 vagas|Lagoa
+R$ 320.000|2 quartos | |R$ 200 | 2 vagas|Teixeirão
+R$ 650.000|3 quartos | 125m² |R$ 350 | 2 vagas|Industrial
+R$ 23.000|1 quarto| | | |Planalto
+R$ 170.000|3 quartos| | | |Mariana
+R$ 50.000|2 quartos | 264m² | | 3 vagas|Nova Porto Velho
+R$ 21.000|1 quarto| | | |Socialista
+R$ 20.000|2 quartos | |R$ 55| |Flodoaldo Pontes Pinto
+R$ 85.000|4 quartos| | | |Jardim Santana
+R$ 250.000|5 ou mais quartos | 360m² |R$ 0 | 3 vagas|Cohab
+R$ 170.000|3 quartos | 0m²| | |Esperança da Comunidade
+R$ 550.000|3 quartos | 120m² | | 2 vagas|Industrial
+R$ 90.000|2 quartos| | | |Marcos Freire
+R$ 270.000| | | | |São Francisco
+R$ 90.000|3 quartos | 320m² | | 3 vagas|Mariana
+R$ 220.000|3 quartos | 60m² |R$ 0 | 2 vagas|Centro
+R$ 700.000|3 quartos | 167m² |R$ 800 | 2 vagas|Olaria
+R$ 420.000|3 quartos | 251m² | | 2 vagas|Nova Floresta
+R$ 650.000|5 ou mais quartos | 300m² | | 3 vagas|Cuniã
+R$ 120.000|2 quartos | 300m² | | 2 vagas|Lagoinha
+R$ 28.000|2 quartos | 258m² |R$ 60 | 1 vaga|Centro
+R$ 230.000|2 quartos | | | 2 vagas|Centro
+R$ 390.000|3 quartos | 300m²| | |Lagoinha
+R$ 1.200.000|2 quartos | 158m² | | 4 vagas|Pedrinhas
+R$ 100|4 quartos | |R$ 100 | 3 vagas|Conceição
+R$ 310.000|3 quartos | 70m² |R$ 390 | 2 vagas|Cohab
+R$ 550.000|3 quartos | 96m² |R$ 500 | 2 vagas|Industrial
+R$ 450.000|3 quartos | 2000m² |R$ 736 | 1 vaga|Agenor de Carvalho
+R$ 140.000|2 quartos | 27400m² | | 3 vagas|Tucumanzal
+R$ 110.000|3 quartos | | | 1 vaga|Mariana
+R$ 110.000|2 quartos | |R$ 0 | 1 vaga|Nova Floresta
+R$ 70.000|1 quarto | 440m² | | 2 vagas|Cidade Nova
+R$ 320.000|2 quartos | 119m² |R$ 0 | 1 vaga|Industrial
+R$ 160.000|3 quartos | 380m² | | 1 vaga|Cuniã
+R$ 400.000| |0m²| | |Roque
+R$ 350.000|3 quartos | 0m² | | 3 vagas|Nova Floresta
+R$ 500.000|3 quartos | 450m² | | 3 vagas|Rio Madeira
+R$ 215.000|2 quartos | 66m² |R$ 200 | 1 vaga|Industrial
+R$ 450.000|3 quartos | 74m² |R$ 450 | 2 vagas|Rio Madeira
+R$ 850.000|3 quartos | 159m² |R$ 380 | 2 vagas|Aponiã
+R$ 35.000|2 quartos | 0m² |R$ 35.000 | 1 vaga|Aeroclube
+R$ 270.000|2 quartos | 0m² | | 3 vagas|Cohab
+R$ 110.000|3 quartos | 250m² | | 4 vagas|Castanheira
+R$ 110.000|3 quartos | 250m² | | 4 vagas|Castanheira
+R$ 490.000|4 quartos | 218m² | | 2 vagas|KM 1
+R$ 45.000|2 quartos | |R$ 125| |Socialista
+R$ 30.000|2 quartos| | | |Aeroclube
+R$ 35.000| |0m² |R$ 0| |Ulisses Guimarães
+R$ 130.000|3 quartos| | | |Juscelino Kubitschek
+R$ 100.000|2 quartos | | | 1 vaga|Castanheira
+R$ 450.000|3 quartos | 84m² | | 2 vagas|Pedrinhas
+R$ 100.000|1 quarto | 300m² | | 2 vagas|Esperança da Comunidade
+R$ 85.000|2 quartos| | | |Igarapé
+R$ 290.000|2 quartos | 122m² | | 2 vagas|Rio Madeira
+R$ 1.500.000| |495m² | | 3 vagas|Lagoa
+R$ 350.000|3 quartos | | | 5 ou mais vagas|Aponiã
+R$ 5.000|2 quartos | | | 1 vaga|São João Bosco
+R$ 40.000|2 quartos| | | |Panair
+R$ 450.000|3 quartos | | | 2 vagas|Nova Porto Velho
+R$ 75.000|1 quarto | 300000m² |R$ 0 | 3 vagas|São Francisco
+R$ 165.000|2 quartos | 46m² |R$ 155 | 1 vaga|Aeroclube
+R$ 135.000|2 quartos | 370m² |R$ 0| |Aponiã
+R$ 145.000|4 quartos | | | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 150.000|3 quartos | 250m² | | 2 vagas|Cidade Nova
+R$ 100.000|1 quarto | 1059m² |R$ 0 | 1 vaga|Eldorado
+R$ 100.000|2 quartos | | | 2 vagas|Cidade Nova
+R$ 150.000|2 quartos | 300m² | | 1 vaga|Aeroclube
+R$ 28.000|1 quarto | | | 1 vaga|Socialista
+R$ 110.000|2 quartos| | | |Castanheira
+R$ 25.000|2 quartos | 100m² |R$ 0| |Eldorado
+R$ 530.000|3 quartos | | | 2 vagas|Aponiã
+R$ 390.000|2 quartos | | | 1 vaga|Cidade Nova
+R$ 23.000|2 quartos| | | |Socialista
+R$ 36.000|2 quartos | 121111m² |R$ 1.111 | 1 vaga|Aponiã
+R$ 170.000|3 quartos | 11111m² |R$ 0 | 1 vaga|Eldorado
+R$ 700.000|3 quartos| | | |Embratel
+R$ 270.000|5 ou mais quartos | 600m² | | 5 ou mais vagas|Tucumanzal
+R$ 500.000|3 quartos | 0m² |R$ 0 | 3 vagas|Agenor de Carvalho
+R$ 400.000|3 quartos | 0m² | | 3 vagas|Castanheira
+R$ 300.000|3 quartos | | | 3 vagas|Agenor de Carvalho
+R$ 900.000|2 quartos | 143m² |R$ 800 | 2 vagas|Embratel
+R$ 120.000|2 quartos | 88m² | | 3 vagas|Caladinho
+R$ 400.000|3 quartos | 0m² | | 2 vagas|Agenor de Carvalho
+R$ 750.000|5 ou mais quartos | 573081m² | | 3 vagas|Liberdade
+R$ 50.000|2 quartos| | | |Jardim Santana
+R$ 600.000|3 quartos | 130m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 350.000|2 quartos | |R$ 330 | 3 vagas|Novo Horizonte
+R$ 315.000|3 quartos | 86m² |R$ 500 | 2 vagas|Rio Madeira
+R$ 70.000|2 quartos | 56m²| | |São Francisco
+R$ 1.750.000|3 quartos | 600m² | | 2 vagas|Olaria
+R$ 40.000|1 quarto | 150m² |R$ 0 | 1 vaga|Socialista
+R$ 580.000|2 quartos | 234m² | | 2 vagas|Liberdade
+R$ 185.000|2 quartos | 250m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 30.000|1 quarto| | | |Socialista
+R$ 60.000|2 quartos | 6m² |R$ 80| |Esperança da Comunidade
+R$ 50.000|2 quartos | 300m²| | |Nova Esperança
+R$ 70.000|1 quarto| | | |Marcos Freire
+R$ 150.000|2 quartos| | | |Juscelino Kubitschek
+R$ 40.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 298.000| |201m² |R$ 0| |Eldorado
+R$ 95.000|3 quartos | | | 4 vagas|Mariana
+R$ 220|3 quartos | | | 3 vagas|Cohab
+R$ 60.000|2 quartos | 300m² |R$ 0| |Caladinho
+R$ 1.100.000|3 quartos | 212m² |R$ 450 | 2 vagas|Nova Esperança
+R$ 150.000|2 quartos | 0m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 7.000|2 quartos | 5m² |R$ 0 | 1 vaga|Jardim Santana
+R$ 518.000|4 quartos | 218m² | | 2 vagas|Cuniã
+R$ 4.000|2 quartos| | | |Novo Horizonte
+R$ 48.000|1 quarto | 200m² |R$ 1 | 1 vaga|Maringá
+R$ 350.000|5 ou mais quartos | | | 2 vagas|Embratel
+R$ 100.000|2 quartos | 110m² | | 1 vaga|São Francisco
+R$ 70.000|2 quartos | | | 1 vaga|Socialista
+R$ 1.400.000|3 quartos | | | 3 vagas|Costa e Silva
+R$ 45.000|2 quartos | | | 1 vaga|Aeroclube
+R$ 200.000|2 quartos | 285m² | | 1 vaga|Tancredo Neves
+R$ 800.000|3 quartos | 143m² |R$ 980 | 2 vagas|Nossa Senhora das Graças
+R$ 250.000|2 quartos | 65m² |R$ 450 | 1 vaga|Costa e Silva
+R$ 1.500.000|3 quartos | 0m² | | 4 vagas|Pedrinhas
+R$ 400.000|4 quartos | 0m² | | 2 vagas|São Cristóvão
+R$ 295.000|3 quartos | 500m² |R$ 0 | 5 ou mais vagas|São João Bosco
+R$ 180.000|2 quartos | 52m² |R$ 460 | 1 vaga|Triângulo
+R$ 120.000|2 quartos| | | |Aponiã
+R$ 850.000|3 quartos | 130m² |R$ 980 | 2 vagas|Olaria
+R$ 60.000|1 quarto| | | |Lagoinha
+R$ 150.000|3 quartos | | | 2 vagas|Caladinho
+R$ 85.000|2 quartos | | | 5 ou mais vagas|Cidade Nova
+R$ 500.000|3 quartos | 0m² | | 2 vagas|Três Marias
+R$ 23.000|1 quarto | | | 1 vaga|Lagoa
+R$ 35.000|2 quartos | |R$ 0| |Eletronorte
+R$ 450.000|3 quartos | 0m²| | |Tancredo Neves
+R$ 160|2 quartos | 100m² |R$ 1 | 3 vagas|Aponiã
+R$ 180.000|2 quartos | | | 1 vaga|Lagoinha
+R$ 120.000|2 quartos | 46m² |R$ 333 | 1 vaga|Rio Madeira
+R$ 355.000|3 quartos | 200m² | | 2 vagas|Panair
+R$ 225.000|4 quartos | 390m² | | 3 vagas|Aponiã
+R$ 560.000|3 quartos | 173m² |R$ 470 | 1 vaga|Triângulo
+R$ 300.000|3 quartos | 197m² | | 2 vagas|Juscelino Kubitschek
+R$ 70.000|5 ou mais quartos| | | |Areal
+R$ 160.000|2 quartos | 120m² | | 2 vagas|Castanheira
+R$ 900.000|5 ou mais quartos | 420m² |R$ 0 | 3 vagas|Embratel
+R$ 250.000|3 quartos | 371m² |R$ 0| |Castanheira
+R$ 500.000|4 quartos | 250m² |R$ 0| |Conceição
+R$ 180.000|5 ou mais quartos | 300m² |R$ 0| |Caladinho
+R$ 400.000|2 quartos | 60m² |R$ 0| |Aeroclube
+R$ 1.100.000|3 quartos | 152m² | | 2 vagas|Nova Porto Velho
+R$ 550.000|3 quartos | | | 2 vagas|Olaria
+R$ 4.000|2 quartos | 0m² |R$ 0| |Jardim Santana
+R$ 300.000|3 quartos | | | 1 vaga|Nova Floresta
+R$ 199.900|5 ou mais quartos | 253m² | | 4 vagas|Conceição
+R$ 65.000|1 quarto | 162m² | | 1 vaga|Nacional
+R$ 239.000|2 quartos | 52m² | | 1 vaga|Cohab
+R$ 0|2 quartos | 0m² |R$ 0| |Planalto
+R$ 430.000|3 quartos | | | 2 vagas|Lagoa
+R$ 475.000|3 quartos | 112m² | | 2 vagas|Aeroclube
+R$ 77.000|2 quartos | 1050m² |R$ 1 | 1 vaga|Centro
+R$ 30.000|2 quartos | 0m² |R$ 55 | 1 vaga|Esperança da Comunidade
+R$ 600.000|3 quartos | | | 1 vaga|São Cristóvão
+R$ 100.000|3 quartos| | | |Mariana
+R$ 50.000|2 quartos| | | |Mariana
+R$ 65.000|2 quartos | | | 1 vaga|Mariana
+R$ 120.000|2 quartos | 99m² | | 2 vagas|Juscelino Kubitschek
+R$ 245.000|2 quartos | 112m² | | 3 vagas|Lagoinha
+R$ 50.000|2 quartos | 70m² | | 2 vagas|Conceição
+R$ 820.000|3 quartos | 165m² |R$ 340 | 4 vagas|Aponiã
+R$ 315.000|3 quartos | 110m² | | 2 vagas|Nova Porto Velho
+R$ 161.000|2 quartos | 64m² | | 1 vaga|Esperança da Comunidade
+R$ 50.000|1 quarto | 25m² | | 5 ou mais vagas|Área Rural de Porto Velho
+R$ 80.000|2 quartos | 51m² |R$ 0 | 2 vagas|Aponiã
+R$ 452.284|3 quartos | 80m² | | 2 vagas|Rio Madeira
+R$ 28.000|2 quartos | |R$ 100 | 3 vagas|Socialista
+R$ 550.000|3 quartos | 450m² | | 4 vagas|Aponiã
+R$ 120.000|3 quartos | 80m² | | 2 vagas|Lagoinha
+R$ 150.000|3 quartos | 400m² | | 1 vaga|Caladinho
+R$ 250.000|4 quartos | 100m² | | 3 vagas|Igarapé
+R$ 399.000|3 quartos | 105m² | | 4 vagas|Aponiã
+R$ 415.000|4 quartos | 165m² | | 2 vagas|Costa e Silva
+R$ 200.000|1 quarto | | | 1 vaga|Embratel
+R$ 180.000|5 ou mais quartos | 40m² | | 5 ou mais vagas|Nova Esperança
+R$ 350.000|3 quartos | 0m²| | |Nova Porto Velho
+R$ 260.000|3 quartos | 250m² | | 3 vagas|Aponiã
+R$ 0|2 quartos | 0m² |R$ 40 | 2 vagas|Marcos Freire
+R$ 120| | | | |Nova Porto Velho
+R$ 380.000|2 quartos | 0m² | | 1 vaga|Nova Porto Velho
+R$ 300.000|3 quartos | 70m² | | 1 vaga|Agenor de Carvalho
+R$ 860.000|3 quartos | 0m² |R$ 0 | 3 vagas|Novo Horizonte
+R$ 120.000|3 quartos | 300m² |R$ 0 | 3 vagas|Pantanal
+R$ 140.000|2 quartos | 50m² |R$ 395 | 1 vaga|Rio Madeira
+R$ 7.000|2 quartos | |R$ 0| |Socialista
+R$ 10.000|2 quartos | 0m² |R$ 0 | 2 vagas|Olaria
+R$ 1.400.000|3 quartos | 400m² |R$ 1.200 | 2 vagas|Nova Porto Velho
+R$ 105.000|2 quartos | 36m² | | 1 vaga|Cohab
+R$ 170.000|2 quartos | 52m² |R$ 325 | 1 vaga|Rio Madeira
+R$ 243.495|2 quartos | 0m²| | |Lagoa
+R$ 320.000|3 quartos | 0m² | | 1 vaga|Cuniã
+R$ 385.000|3 quartos | 0m² | | 3 vagas|São João Bosco
+R$ 170.000|2 quartos | |R$ 178 | 1 vaga|Novo Horizonte
+R$ 1.200.000|2 quartos | 57m² | | 1 vaga|Eldorado
+R$ 878.000|3 quartos | 205m² |R$ 0| |Cidade Jardim
+R$ 243.495|2 quartos | 66m² |R$ 0 | 2 vagas|Lagoa
+R$ 300.000|2 quartos | 0m² | | 3 vagas|Igarapé
+|3 quartos | 91m² |R$ 0 | 3 vagas|Triângulo
+R$ 290.000|3 quartos | 154m² | | 3 vagas|Conceição
+R$ 180.000|2 quartos | 105m² | | 2 vagas|Nova Esperança
+R$ 535.000|3 quartos | 110m² | | 2 vagas|Olaria
+R$ 40.000| |60m² |R$ 0| |Nacional
+R$ 80.000|2 quartos | 1225m²| | |Área Rural de Porto Velho
+R$ 180.000|1 quarto| | | |Socialista
+R$ 275.000|2 quartos | 68m² | | 2 vagas|Aponiã
+R$ 800|3 quartos| | | |Cuniã
+R$ 95.000|2 quartos | | | 1 vaga|São Cristóvão
+R$ 60.000|3 quartos | 12m²| | |Jardim Santana
+R$ 380.000|4 quartos | 300m² | | 3 vagas|Igarapé
+R$ 15.368|2 quartos | 100m² |R$ 0 | 1 vaga|Lagoinha
+R$ 200.000|2 quartos | 34m² | | 1 vaga|Novo Horizonte
+R$ 990.000|4 quartos | 211m² |R$ 800 | 2 vagas|Nova Esperança
+R$ 285.000|3 quartos | 95m² |R$ 500 | 2 vagas|Castanheira
+R$ 590.000|3 quartos | 110m² |R$ 880 | 2 vagas|Olaria
+R$ 70.000|2 quartos | 60m² | | 1 vaga|Centro
+R$ 670.000|2 quartos | 107m² |R$ 812 | 2 vagas|São João Bosco
+R$ 360.000|3 quartos | 180m² | | 2 vagas|Tucumanzal
+R$ 140.000|2 quartos | 42m² | | 2 vagas|Bairro Novo
+R$ 25.000|1 quarto| | | |Planalto
+R$ 50.000|2 quartos | |R$ 150 | 1 vaga|Socialista
+R$ 45.000|2 quartos | 57m² |R$ 115 | 1 vaga|Socialista
+R$ 210.000|2 quartos | | | 2 vagas|Eletronorte
+R$ 260.000|2 quartos | 130m² | | 2 vagas|Novo Horizonte
+R$ 180.000|2 quartos | 360m² | | 3 vagas|Igarapé
+R$ 280.000|3 quartos | 73m² |R$ 400 | 1 vaga|Cuniã
+R$ 200.000|3 quartos | | | 2 vagas|Areal
+R$ 160.000|3 quartos | | | 2 vagas|São Francisco
+R$ 410.000|3 quartos | 144m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 2.200.000|3 quartos | 380m² |R$ 780 | 2 vagas|Rio Madeira
+R$ 60.000|2 quartos | |R$ 126 | 1 vaga|Socialista
+R$ 230.000|3 quartos | | | 5 ou mais vagas|Agenor de Carvalho
+R$ 200.000|2 quartos | |R$ 0 | 2 vagas|Tancredo Neves
+R$ 38.000|1 quarto | | | 1 vaga|Nacional
+R$ 200.000|3 quartos | 270m² | | 4 vagas|São Francisco
+R$ 550.000|3 quartos | 0m² | | 2 vagas|Industrial
+R$ 0|3 quartos | 0m² | | 2 vagas|Rio Madeira
+R$ 550.000|3 quartos | 127m² | | 2 vagas|Rio Madeira
+R$ 270.000|3 quartos | 0m²| | |Floresta
+R$ 135.000|2 quartos | 0m² |R$ 150 | 1 vaga|Lagoinha
+R$ 345.000|2 quartos | 115m²| | |Embratel
+R$ 280.000|3 quartos | 0m² |R$ 600 | 1 vaga|Rio Madeira
+R$ 100.000|2 quartos | 48m² |R$ 0 | 1 vaga|Lagoinha
+R$ 180.000|2 quartos | 0m²| | |Caladinho
+R$ 580.000|3 quartos | 0m² | | 4 vagas|Nova Floresta
+R$ 35.000|1 quarto | 300m²| | |Esperança da Comunidade
+R$ 50.000|3 quartos| | | |Área Rural de Porto Velho
+R$ 250.000|2 quartos | 400m² | | 2 vagas|Nova Esperança
+R$ 85.000|4 quartos| | | |Área Rural de Porto Velho
+R$ 1.400.000|4 quartos | 228m² | | 2 vagas|Liberdade
+R$ 580.000|3 quartos | 125m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 350.000|3 quartos | 523m²| | |Triângulo
+R$ 240.000|2 quartos | 200m² | | 2 vagas|Tancredo Neves
+R$ 210.000| |0m²| | |Marcos Freire
+R$ 130.000|4 quartos | | | 4 vagas|Nova Esperança
+R$ 320.000|3 quartos | 100m² |R$ 550 | 2 vagas|Embratel
+R$ 300.000| |0m²| | |Três Marias
+R$ 155.000|2 quartos | 70m² |R$ 250 | 2 vagas|Bairro Novo
+R$ 500.000|3 quartos | | | 4 vagas|Areal
+R$ 230.000|2 quartos | |R$ 450 | 1 vaga|Industrial
+R$ 550.000|4 quartos | 150m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 110.000|2 quartos| | | |Jardim Santana
+R$ 80.000|2 quartos | 10030m² | | 2 vagas|Aeroclube
+R$ 900.000|4 quartos | 176m² |R$ 1.400 | 2 vagas|Olaria
+R$ 250.000|2 quartos | 250m² | | 2 vagas|São Cristóvão
+R$ 390.000|1 quarto | |R$ 0 | 3 vagas|Nova Porto Velho
+R$ 17.000| |400m² |R$ 0| |Jardim Santana
+R$ 890.000|3 quartos | 135m² |R$ 0 | 2 vagas|São João Bosco
+R$ 35.000|1 quarto| | | |Três Marias
+R$ 120.000|2 quartos | 0m² | | 2 vagas|Planalto
+R$ 260.000|2 quartos | 72m² |R$ 280 | 1 vaga|Agenor de Carvalho
+R$ 200.000|2 quartos | 300m² | | 5 ou mais vagas|Lagoa
+R$ 600.000|3 quartos | 200m² |R$ 450 | 2 vagas|Eletronorte
+R$ 340.000|3 quartos | 82m² |R$ 550 | 1 vaga|Rio Madeira
+R$ 780.000|3 quartos | | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 60.000|5 ou mais quartos | 324m² | | 5 ou mais vagas|Castanheira
+R$ 260|2 quartos| | | |Tiradentes
+R$ 100.000|3 quartos | | | 2 vagas|Cascalheira
+R$ 185.000|2 quartos | | | 2 vagas|Caladinho
+R$ 150.000|3 quartos | 300m² | | 1 vaga|Escola de Polícia
+R$ 540.000|3 quartos | 134m² |R$ 700 | 2 vagas|Triângulo
+R$ 420.000|3 quartos | 100m² | | 2 vagas|Embratel
+R$ 580.000|3 quartos | 110m² |R$ 800 | 2 vagas|Olaria
+R$ 800.000|3 quartos | | | 3 vagas|São João Bosco
+R$ 440.000|2 quartos | 360m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 180.000|5 ou mais quartos | 100m² | | 3 vagas|Nacional
+R$ 310.000|3 quartos | 76m² |R$ 0 | 2 vagas|Floresta
+R$ 1.300.000|4 quartos | 160m² | | 4 vagas|Pedrinhas
+R$ 250.000|2 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 250.000|3 quartos | 1894m² | | 3 vagas|Mariana
+R$ 140.000|2 quartos | | | 1 vaga|Aponiã
+R$ 50.000|2 quartos | |R$ 65 | 1 vaga|Socialista
+R$ 300.000|3 quartos | 100m² |R$ 0| |Aponiã
+R$ 140.000|2 quartos | 250m² | | 2 vagas|Cidade Nova
+R$ 350.000|3 quartos | 180m²| | |Embratel
+R$ 430.000|3 quartos | 170m²| | |São João Bosco
+R$ 65.000|2 quartos| | | |Jardim Santana
+R$ 25.500| | | | |Flodoaldo Pontes Pinto
+R$ 110.000|3 quartos| | | |Nossa Senhora das Graças
+R$ 390.000|3 quartos | 250m² | | 3 vagas|Embratel
+R$ 700.000|3 quartos | 155m² | | 4 vagas|Agenor de Carvalho
+R$ 840.000|3 quartos | 136m² |R$ 0 | 2 vagas|São João Bosco
+R$ 600.000|4 quartos | 551m² |R$ 550 | 4 vagas|Eletronorte
+R$ 1.600.000|4 quartos | | | 4 vagas|Nova Esperança
+R$ 1.850.000|3 quartos | 362m² |R$ 500 | 4 vagas|Aponiã
+R$ 375.000|2 quartos | 180m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 950.000|3 quartos | 183m² |R$ 300 | 2 vagas|Aponiã
+R$ 135.000|5 ou mais quartos | 0m²| | |Marcos Freire
+R$ 165.000|3 quartos | 200m² | | 2 vagas|Tiradentes
+R$ 75.000|2 quartos| | | |Lagoinha
+R$ 200.000|1 quarto | 0m²| | |Cohab
+R$ 20.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 35.000|2 quartos| | | |São Francisco
+R$ 60.000|2 quartos | 1025m²| | |Cascalheira
+R$ 600.000|5 ou mais quartos | | | 5 ou mais vagas|Tiradentes
+R$ 560.000| |105m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 50.000|2 quartos | 25m²| | |Mariana
+R$ 150.000|3 quartos | 50m² | | 3 vagas|Socialista
+R$ 80.000|3 quartos| | | |Mariana
+R$ 750.000|4 quartos | |R$ 450 | 2 vagas|Aeroclube
+R$ 170.000|3 quartos | 360m² | | 3 vagas|Três Marias
+R$ 50.000|2 quartos | 360m² | | 1 vaga|Mariana
+R$ 70.000|2 quartos | |R$ 100| |Socialista
+R$ 80.000|2 quartos | | | 1 vaga|Jardim Santana
+R$ 400.000|3 quartos | | | 3 vagas|Aponiã
+R$ 450.000|3 quartos | 20m² |R$ 36 | 2 vagas|Castanheira
+R$ 160.000|3 quartos| | | |Embratel
+R$ 150.000|3 quartos | | | 2 vagas|Lagoinha
+R$ 80.000|3 quartos | 250m² | | 2 vagas|Ulisses Guimarães
+R$ 349.000|3 quartos | 84m² |R$ 580 | 1 vaga|Rio Madeira
+R$ 280.000|2 quartos | | | 1 vaga|Rio Madeira
+R$ 360.000|3 quartos | 70m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 0| | | | |Socialista
+R$ 780.000|3 quartos | | | 3 vagas|Nova Esperança
+R$ 175.000|2 quartos | | | 1 vaga|Planalto
+R$ 550.000|3 quartos | 300m² | | 3 vagas|Agenor de Carvalho
+R$ 20.000|1 quarto| | | |Socialista
+R$ 75.000|2 quartos | 1230m²| | |Castanheira
+R$ 860.000|3 quartos | | | 3 vagas|Olaria
+R$ 800.000|4 quartos | |R$ 180 | 3 vagas|Rio Madeira
+R$ 80.000|3 quartos| | | |Cidade Nova
+R$ 400|3 quartos | 230m² | | 2 vagas|Pedrinhas
+R$ 39.900|2 quartos | 60m²| | |Cuniã
+R$ 45.000|2 quartos | 300m²| | |Novo Horizonte
+R$ 100.000|2 quartos | 80m²| | |Lagoinha
+R$ 1.680.000|3 quartos | 226m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 170.000|3 quartos | 200m² | | 5 ou mais vagas|Três Marias
+R$ 1.300.000|3 quartos | 376m² |R$ 1.500 | 3 vagas|Olaria
+R$ 130.000|4 quartos | 100m² | | 1 vaga|Tancredo Neves
+R$ 300.000|4 quartos | 0m² | | 2 vagas|Cohab
+R$ 37.000|2 quartos | 35m²| | |Nova Esperança
+R$ 95.000|3 quartos| | | |Ulisses Guimarães
+R$ 800.000|4 quartos | 130m² |R$ 977 | 2 vagas|Olaria
+R$ 549.000|3 quartos | 120m² |R$ 0 | 2 vagas|Nova Porto Velho
+R$ 20.000|2 quartos | |R$ 135 | 1 vaga|Três Marias
+R$ 550.000|3 quartos | 96m² | | 2 vagas|Industrial
+R$ 310.000|3 quartos | 70m² |R$ 390 | 2 vagas|Floresta
+R$ 95.000|3 quartos | | | 2 vagas|Nacional
+R$ 85.000|3 quartos | 40m² |R$ 0 | 3 vagas|Castanheira
+R$ 100.000|4 quartos | | | 1 vaga|Três Marias
+R$ 150.000|3 quartos| | | |Nossa Senhora das Graças
+R$ 580.000|3 quartos | 125m² |R$ 350 | 2 vagas|Pedrinhas
+R$ 12.000|2 quartos | |R$ 0 | 1 vaga|Nova Esperança
+R$ 230.000|3 quartos | 0m²| | |Nova Floresta
+R$ 180.000|3 quartos | 250m² | | 2 vagas|Cohab
+R$ 2.000.000|4 quartos | |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 380.000|2 quartos | 100m² |R$ 600 | 2 vagas|Embratel
+R$ 67.000|2 quartos | 0m² |R$ 0| |Areia Branca
+R$ 520.000|3 quartos | 0m² |R$ 0 | 3 vagas|Juscelino Kubitschek
+R$ 368.000|3 quartos | 0m² | | 3 vagas|Floresta
+R$ 360.000|3 quartos | |R$ 180 | 2 vagas|Embratel
+R$ 78.000|4 quartos | | | 2 vagas|São Sebastião
+R$ 110.000|4 quartos | 260m² | | 2 vagas|Socialista
+R$ 320.000|3 quartos | 72m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 1.450.000|3 quartos | 285m² |R$ 0 | 3 vagas|Olaria
+R$ 460.000|4 quartos | 457m² | | 2 vagas|Floresta
+R$ 0|4 quartos| | | |Socialista
+R$ 150.000|2 quartos | |R$ 165 | 2 vagas|Esperança da Comunidade
+R$ 310.000|4 quartos | 145m² |R$ 200 | 3 vagas|Bairro Novo
+R$ 200.000|3 quartos | | | 2 vagas|Lagoinha
+R$ 130.000|3 quartos | | | 3 vagas|Aeroclube
+R$ 275.000|3 quartos | 74m² |R$ 477 | 2 vagas|Triângulo
+R$ 220.000|3 quartos | | | 3 vagas|Socialista
+R$ 140.000|2 quartos | 60m²| | |Triângulo
+R$ 1.600.000|3 quartos | 250m² | | 2 vagas|Olaria
+R$ 800.000|3 quartos | | | 2 vagas|Industrial
+R$ 495.000|3 quartos | 0m² | | 2 vagas|Nova Esperança
+R$ 256.000|3 quartos | 94m² |R$ 318 | 1 vaga|Nova Esperança
+R$ 1.250.000|3 quartos | 240m² |R$ 450 | 2 vagas|Triângulo
+R$ 338.000|4 quartos | 300m² | | 5 ou mais vagas|Eletronorte
+R$ 120.000|2 quartos | 250m² | | 2 vagas|Areal
+R$ 650.000|3 quartos | 517m² | | 2 vagas|São João Bosco
+R$ 350.000|4 quartos | 250m² | | 3 vagas|Conceição
+R$ 175.000|2 quartos | 300m²| | |Embratel
+R$ 170.000|3 quartos | 250m² | | 2 vagas|Aponiã
+R$ 150.000|2 quartos | 70m² | | 2 vagas|Lagoa
+R$ 70.000|2 quartos | 0m² |R$ 0 | 3 vagas|Área Rural de Porto Velho
+R$ 80.000|2 quartos| | | |São Francisco
+R$ 31.000|2 quartos | | | 3 vagas|Jardim Santana
+R$ 45.000|1 quarto | 500m² | | 1 vaga|Embratel
+R$ 270.000|2 quartos | 119m² |R$ 0| |Teixeirão
+R$ 40.000|2 quartos| | | |São Sebastião
+R$ 115.000|4 quartos | | | 3 vagas|Juscelino Kubitschek
+R$ 145.000|2 quartos | 250m² | | 1 vaga|Costa e Silva
+R$ 30.000|2 quartos | |R$ 30.000 | 5 ou mais vagas|Socialista
+R$ 455.000|3 quartos | | | 2 vagas|São Francisco
+R$ 40.000|1 quarto| | | |Ronaldo Aragão
+R$ 210.000|3 quartos | | | 3 vagas|Juscelino Kubitschek
+R$ 280.000|4 quartos | 230m² | | 2 vagas|Industrial
+R$ 160.000|2 quartos | 140m² | | 2 vagas|Lagoa
+R$ 75.000|2 quartos | 300m² | | 2 vagas|Socialista
+R$ 900.000|4 quartos | 228m² | | 2 vagas|Rio Madeira
+R$ 385.000|3 quartos | 0m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 45.000|2 quartos | |R$ 100| |Socialista
+R$ 140.000|2 quartos | 49m² |R$ 250 | 2 vagas|Novo Horizonte
+R$ 60.000|2 quartos | | | 1 vaga|Mariana
+R$ 35.000|2 quartos | 42m² |R$ 130 | 1 vaga|Socialista
+R$ 140.000|2 quartos | 10m² | | 1 vaga|Aeroclube
+R$ 300.000|4 quartos | 10m² | | 3 vagas|Nova Floresta
+R$ 10.000|2 quartos | | | 5 ou mais vagas|Embratel
+R$ 350.000|3 quartos | | | 2 vagas|Floresta
+R$ 280.000|3 quartos | | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 90.000|2 quartos | |R$ 0 | 2 vagas|Jardim Santana
+R$ 350.000|3 quartos | | | 3 vagas|Aponiã
+R$ 170.000|3 quartos | 98m² | | 3 vagas|Aponiã
+R$ 800.000|3 quartos | 150m² |R$ 500 | 2 vagas|Industrial
+R$ 650.000|4 quartos | | | 2 vagas|Olaria
+R$ 2.200.000|4 quartos | 561m² | | 3 vagas|Rio Madeira
+R$ 290.000|3 quartos | | | 1 vaga|Cuniã
+R$ 750.000|3 quartos | 450m² | | 3 vagas|Agenor de Carvalho
+R$ 250.000|4 quartos | 400m² | | 2 vagas|Cuniã
+R$ 1.600.000|4 quartos | 416m² | | 4 vagas|Rio Madeira
+R$ 43.000|2 quartos | 50m² |R$ 50 | 1 vaga|Eletronorte
+R$ 55.900|2 quartos | | | 1 vaga|Aeroclube
+R$ 120.000|4 quartos | 89m² |R$ 0 | 1 vaga|Ronaldo Aragão
+R$ 85.000|2 quartos | | | 2 vagas|Lagoa
+R$ 890.000|3 quartos | 161m² |R$ 300 | 2 vagas|Aponiã
+R$ 26.000|2 quartos| | | |Maringá
+R$ 525.000|3 quartos | 0m² | | 3 vagas|Areal
+R$ 65.000|5 ou mais quartos | 250m² |R$ 0| |Jardim Santana
+R$ 320.000|3 quartos | 85m² |R$ 380 | 1 vaga|Nova Esperança
+R$ 170.000|2 quartos | |R$ 185.000 | 2 vagas|Bairro Novo
+R$ 380.000|3 quartos | 300m² | | 3 vagas|Igarapé
+R$ 75.000|2 quartos| | | |Nacional
+R$ 338.000|3 quartos | 75m² | | 2 vagas|Rio Madeira
+R$ 125.000|2 quartos | | | 2 vagas|Bairro Novo
+R$ 25.000|1 quarto | 240m² |R$ 0 | 3 vagas|Ulisses Guimarães
+R$ 90.000|2 quartos| | | |Aeroclube
+R$ 380.000|3 quartos | 80m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 230.000|2 quartos | 0m² |R$ 250 | 1 vaga|Embratel
+R$ 199.999|2 quartos | 170m² | | 1 vaga|Escola de Polícia
+R$ 650.000|3 quartos | 185m² | | 1 vaga|Liberdade
+R$ 1.890.000|3 quartos | 420m² |R$ 800 | 4 vagas|Aponiã
+R$ 225.000|2 quartos | 200m² | | 2 vagas|Conceição
+R$ 380.000|4 quartos | 350m² |R$ 0 | 2 vagas|Costa e Silva
+R$ 800.000|3 quartos | 150m²| | |Industrial
+R$ 180.000|3 quartos | 72m² |R$ 359 | 1 vaga|Rio Madeira
+R$ 620.000|3 quartos | 500m² | | 4 vagas|Nossa Senhora das Graças
+R$ 240.000|3 quartos | 120m² | | 2 vagas|Cohab
+R$ 1.500.000|3 quartos | 302m² |R$ 0 | 4 vagas|Triângulo
+R$ 110.000|2 quartos | | | 1 vaga|Bairro Novo
+R$ 210.000|3 quartos | | | 2 vagas|Novo Horizonte
+R$ 220.000|2 quartos | | | 2 vagas|Bairro Novo
+R$ 545.000| |210m² |R$ 0| |Flodoaldo Pontes Pinto
+R$ 450.000|4 quartos | 250m² | | 2 vagas|Baixa União
+R$ 350.000|3 quartos | 300m² | | 3 vagas|Aponiã
+R$ 450.000|3 quartos | 450m² | | 2 vagas|Embratel
+R$ 125.000|2 quartos | |R$ 138 | 2 vagas|Bairro Novo
+R$ 450.000|2 quartos | | | 2 vagas|Nova Esperança
+R$ 220.000|3 quartos | 300m² | | 3 vagas|Aponiã
+R$ 180.000|2 quartos | 129m² | | 2 vagas|Teixeirão
+R$ 390.000|3 quartos | 360m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 300.000|3 quartos | 300m² | | 3 vagas|Aponiã
+R$ 195.000|2 quartos | 58m² | | 1 vaga|Lagoinha
+R$ 560.000|2 quartos | 750m² | | 3 vagas|Lagoa
+R$ 350.000|4 quartos | 250m² | | 3 vagas|Conceição
+R$ 280.000| |250m² |R$ 470 | 4 vagas|Flodoaldo Pontes Pinto
+R$ 320.000|3 quartos | 85m² |R$ 580 | 2 vagas|Rio Madeira
+R$ 400.000|2 quartos | 250m² | | 3 vagas|Conceição
+R$ 275.000|2 quartos | 122m² | | 2 vagas|Aponiã
+R$ 700.000|3 quartos | 153m² |R$ 1.138 | 3 vagas|Agenor de Carvalho
+R$ 420.000|2 quartos | 98m²| | |Liberdade
+R$ 270.000|2 quartos | 200m² | | 2 vagas|Bairro Novo
+R$ 350.000|3 quartos | 300m² | | 2 vagas|Aponiã
+R$ 299.000|3 quartos | 107m² |R$ 150 | 2 vagas|Rio Madeira
+R$ 0|4 quartos | 0m² | | 2 vagas|Conceição
+R$ 150.000|2 quartos | 0m² | | 2 vagas|Cidade Nova
+R$ 850.000|3 quartos | 129m² | | 2 vagas|São João Bosco
+R$ 150.000|2 quartos | 46m² |R$ 0 | 1 vaga|Rio Madeira
+R$ 498.000|3 quartos | 104m² |R$ 600 | 2 vagas|Roque
+R$ 350.000|3 quartos | 600m² | | 2 vagas|Eletronorte
+R$ 1.200.000|3 quartos | 376m² | | 5 ou mais vagas|Baixa União
+R$ 180.000|3 quartos | 369m² | | 2 vagas|Cohab
+R$ 305.000|3 quartos | 250m² | | 2 vagas|Juscelino Kubitschek
+R$ 230.000|2 quartos | 130m² |R$ 220 | 2 vagas|Novo Horizonte
+R$ 230.000|2 quartos | 250m² | | 1 vaga|Aeroclube
+R$ 170.000|3 quartos | 120m² |R$ 100 | 2 vagas|Igarapé
+R$ 700.000|3 quartos | 4000m² |R$ 80 | 2 vagas|São João Bosco
+R$ 210.000|2 quartos | 170m² | | 2 vagas|Cuniã
+R$ 0|3 quartos | 0m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 280.000|3 quartos | 700m² |R$ 250 | 2 vagas|Rio Madeira
+R$ 1.200.000|3 quartos | 416m² | | 2 vagas|Cidade Jardim
+R$ 185.000|3 quartos | 195m² |R$ 175 | 2 vagas|Bairro Novo
+R$ 420.000|3 quartos | 350m² |R$ 480 | 2 vagas|Embratel
+R$ 380.000|4 quartos | 250m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 200.000|3 quartos | 560m² | | 2 vagas|Jardim Santana
+R$ 480.000|3 quartos | 120m² |R$ 840| |Nossa Senhora das Graças
+R$ 580.000|3 quartos | 120m² |R$ 450 | 2 vagas|Pedrinhas
+R$ 390.000|3 quartos | 74m² |R$ 350 | 1 vaga|Rio Madeira
+R$ 540.000|3 quartos | 120m² |R$ 450 | 2 vagas|Pedrinhas
+R$ 295.000|3 quartos | 250m² |R$ 325 | 2 vagas|Castanheira
+R$ 161.000|2 quartos | 52m²| | |Esperança da Comunidade
+R$ 2.600.000| |703m² | | 5 ou mais vagas|Caiari
+R$ 350.000|3 quartos | 250m² |R$ 450 | 2 vagas|Nova Floresta
+R$ 355.000|3 quartos | 0m² | | 2 vagas|Olaria
+R$ 550.000|3 quartos | 96m² | | 2 vagas|Industrial
+R$ 0|3 quartos | 0m²| | |Aponiã
+R$ 0|2 quartos | 0m² | | 2 vagas|Rio Madeira
+|3 quartos | 0m² |R$ 0 | 2 vagas|Olaria
+|4 quartos | 442m² |R$ 0 | 4 vagas|Cidade Jardim
+R$ 0|2 quartos | 0m² | | 3 vagas|Igarapé
+|2 quartos | 0m² |R$ 0 | 2 vagas|Pedrinhas
+R$ 780.000|3 quartos | 750m² | | 3 vagas|Olaria
+R$ 0|2 quartos | 0m² | | 2 vagas|Nova Floresta
+|3 quartos | 0m² |R$ 0 | 2 vagas|Novo Horizonte
+R$ 0|4 quartos | 0m²| | |Três Marias
+R$ 295.000|4 quartos | 250m² |R$ 0 | 1 vaga|Aponiã
+R$ 115.000|2 quartos | 4000m² |R$ 180 | 1 vaga|Floresta
+R$ 0|3 quartos | 145m² |R$ 0 | 2 vagas|Aponiã
+|3 quartos | 278m² |R$ 0 | 2 vagas|Tiradentes
+R$ 135.000|2 quartos | 44m² |R$ 130 | 1 vaga|Bairro Novo
+R$ 270.000|3 quartos | 62m² |R$ 145 | 2 vagas|Bairro Novo
+R$ 0|3 quartos | 0m² |R$ 0 | 2 vagas|Eldorado
+R$ 550.000| |275m²| | |Aponiã
+R$ 1.650.000|4 quartos | 450m² | | 4 vagas|Costa e Silva
+R$ 350.000|3 quartos | 160m² |R$ 200 | 2 vagas|Escola de Polícia
+R$ 175.000|3 quartos | 160m² | | 2 vagas|Três Marias
+R$ 350.000|3 quartos | 200m² | | 2 vagas|Aponiã
+R$ 220.000|2 quartos | 2000m² |R$ 400 | 2 vagas|Rio Madeira
+R$ 250.000|5 ou mais quartos | 150m² | | 2 vagas|Igarapé
+R$ 125.000|2 quartos | 120m² |R$ 190 | 2 vagas|Bairro Novo
+R$ 545.000| |210m² |R$ 0| |Flodoaldo Pontes Pinto
+R$ 230.000|2 quartos | 72m² |R$ 359 | 1 vaga|Rio Madeira
+R$ 298.000|3 quartos | 520m² | | 4 vagas|Igarapé
+R$ 0|2 quartos | 58m² | | 2 vagas|Rio Madeira
+R$ 599.000|3 quartos | 101m² |R$ 700 | 2 vagas|Liberdade
+R$ 1.300.000|5 ou mais quartos | 380m² |R$ 800 | 4 vagas|Costa e Silva
+R$ 35.000|1 quarto| | | |São Francisco
+R$ 90.000|2 quartos| | | |Juscelino Kubitschek
+R$ 0|3 quartos | 0m² | | 3 vagas|Escola de Polícia
+R$ 240.000|2 quartos | 75m² |R$ 220 | 2 vagas|Rio Madeira
+R$ 0|3 quartos | 0m² | | 2 vagas|Lagoa
+R$ 1.200.000|4 quartos | 313m² | | 3 vagas|Arigolândia
+R$ 0|3 quartos | 0m² | | 2 vagas|Pedrinhas
+R$ 0|3 quartos | 0m² | | 1 vaga|Aponiã
+R$ 128.000|2 quartos | 44m² |R$ 220 | 1 vaga|Aeroclube
+R$ 150.000|2 quartos | 200m² |R$ 450 | 2 vagas|Caladinho
+R$ 190.000|2 quartos | 200m² |R$ 138 | 2 vagas|Bairro Novo
+R$ 300.000| |200m² | | 2 vagas|Eletronorte
+R$ 1.500.000|3 quartos | 450m² |R$ 350 | 3 vagas|Nova Esperança
+R$ 375.000|2 quartos | 124m² |R$ 0 | 2 vagas|Rio Madeira
+R$ 395.000|1 quarto | 75m² |R$ 500 | 1 vaga|Industrial
+R$ 385.000|1 quarto | 75m² |R$ 500 | 1 vaga|Industrial
+R$ 380.000|3 quartos | 170m² | | 2 vagas|Panair
+R$ 459.000|3 quartos | 100m² |R$ 0 | 2 vagas|Aeroclube
+R$ 220.000|2 quartos | 200m² | | 5 ou mais vagas|Rio Madeira
+R$ 1.500.000|5 ou mais quartos | 736m² | | 5 ou mais vagas|Rio Madeira
+R$ 200.000|3 quartos | 135m² | | 2 vagas|Lagoinha
+R$ 235.000|1 quarto | 52m² |R$ 400 | 1 vaga|Igarapé
+R$ 160.000|2 quartos | 300m² | | 2 vagas|Aponiã
+R$ 240.000|2 quartos | 68m² |R$ 250 | 1 vaga|Nova Esperança
+R$ 150.000|2 quartos | | | 2 vagas|Aponiã
+R$ 300.000|2 quartos | 120m² | | 4 vagas|Igarapé
+R$ 200.000| |0m²| | |Nova Esperança
+R$ 170.000|3 quartos | 120m² | | 2 vagas|Tancredo Neves
+R$ 153.000|2 quartos | 0m² | | 2 vagas|Bairro Novo
+R$ 170.000| |130m² | | 5 ou mais vagas|Rio Madeira
+R$ 180.000|2 quartos | 75m² |R$ 200| |Industrial
+R$ 430.000|5 ou mais quartos | 220m² | | 4 vagas|Agenor de Carvalho
+R$ 280.000|2 quartos | 125m² | | 2 vagas|Aponiã
+R$ 390.000|3 quartos | 130m² |R$ 500 | 2 vagas|Pedrinhas
+R$ 275.000|3 quartos | 70m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 1.200.000|3 quartos | 320m² |R$ 450 | 2 vagas|Nova Esperança
+R$ 1.300.000|4 quartos | 398m² |R$ 1.100 | 2 vagas|Nova Porto Velho
+R$ 500.000|3 quartos | 0m² |R$ 600 | 2 vagas|Embratel
+R$ 280.000|3 quartos | 150m² | | 5 ou mais vagas|Tupy
+R$ 400.000|4 quartos | 220m² | | 2 vagas|Agenor de Carvalho
+R$ 169.800|3 quartos | 6753m² | | 2 vagas|Planalto
+R$ 459.000|3 quartos | 105m² | | 2 vagas|Liberdade
+R$ 235.000|2 quartos | 50m² |R$ 250 | 1 vaga|Igarapé
+R$ 185.000|2 quartos | 75m² |R$ 300 | 2 vagas|Liberdade
+R$ 550.000|3 quartos | 500m² | | 2 vagas|Olaria
+R$ 250.000|3 quartos | 105m²| | |Agenor de Carvalho
+R$ 165.000|2 quartos | 250m² | | 1 vaga|Juscelino Kubitschek
+R$ 680.000|2 quartos | 0m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 350.000|2 quartos | 68m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 380.000|4 quartos | 280m² | | 2 vagas|Costa e Silva
+R$ 110.000|4 quartos | 73m² | | 2 vagas|Castanheira
+R$ 750.000|3 quartos | 155m² |R$ 1.100 | 2 vagas|Rio Madeira
+R$ 160.000|3 quartos | 300m²| | |Conceição
+R$ 180.000|3 quartos | 360m²| | |Eldorado
+R$ 1.590.000|4 quartos | 248m² |R$ 650 | 4 vagas|Nova Esperança
+R$ 290.000|2 quartos | 100m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 0|3 quartos | 220m² |R$ 220 | 2 vagas|Novo Horizonte
+R$ 300.000|2 quartos| | | |Floresta
+R$ 1.420.000|3 quartos | 236m²| | |Rio Madeira
+|3 quartos | 0m² |R$ 0 | 2 vagas|Novo Horizonte
+|2 quartos | 54m² |R$ 0 | 1 vaga|Floresta
+R$ 145.000|3 quartos | 0m²| | |Castanheira
+R$ 0|3 quartos | 0m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 250.000|2 quartos | 90m² |R$ 500 | 1 vaga|Baixa União
+R$ 1.550.000|3 quartos | 410m²| | |Nova Esperança
+R$ 0|3 quartos | 177m² | | 2 vagas|Aponiã
+R$ 0|3 quartos | 165m² |R$ 264 | 2 vagas|Aponiã
+R$ 0| |0m² |R$ 264| |Aponiã
+R$ 750.000|3 quartos | 399m² | | 4 vagas|Rio Madeira
+R$ 160.000|3 quartos | 0m² | | 1 vaga|Castanheira
+R$ 690.000|5 ou mais quartos | 300m² | | 5 ou mais vagas|Nossa Senhora das Graças
+R$ 110.000|2 quartos | 0m² |R$ 200 | 1 vaga|Floresta
+R$ 380.000|3 quartos | | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 172.000|2 quartos | 144m² | | 2 vagas|Planalto
+R$ 165.000|2 quartos | 54m² |R$ 120 | 1 vaga|Eldorado
+R$ 0|3 quartos | 77m² |R$ 0 | 2 vagas|Novo Horizonte
+|3 quartos | 0m² |R$ 0 | 2 vagas|Liberdade
+|3 quartos | 0m² |R$ 0 | 2 vagas|Olaria
+|3 quartos | 120m² |R$ 0 | 1 vaga|Nossa Senhora das Graças
+R$ 0|2 quartos | 0m² |R$ 0 | 2 vagas|Floresta
+R$ 0|3 quartos | 0m² |R$ 0 | 2 vagas|Floresta
+R$ 380.000|3 quartos | 262m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 0|2 quartos | 0m² | | 1 vaga|Pedrinhas
+R$ 950.000|4 quartos | 380m² | | 4 vagas|Liberdade
+R$ 115.000|2 quartos | 0m² |R$ 0 | 2 vagas|Bairro Novo
+R$ 450.000|3 quartos | 250m² | | 5 ou mais vagas|Embratel
+|2 quartos | 54m² |R$ 230 | 1 vaga|Floresta
+R$ 160.000|2 quartos | 200m² | | 2 vagas|Tancredo Neves
+R$ 750.000|3 quartos | 126m² |R$ 977 | 2 vagas|São João Bosco
+R$ 300.000|3 quartos | 0m² | | 3 vagas|Novo Horizonte
+|3 quartos | |R$ 0 | 2 vagas|Bairro Novo
+R$ 0|3 quartos | | | 2 vagas|Aponiã
+R$ 0|4 quartos | 355m² | | 2 vagas|Olaria
+R$ 0|2 quartos| | | |Bairro Novo
+R$ 0|3 quartos | | | 2 vagas|Floresta
+R$ 0|3 quartos | | | 2 vagas|Eldorado
+R$ 2.700.000|4 quartos | | | 3 vagas|Rio Madeira
+R$ 820.000|3 quartos | | | 2 vagas|Rio Madeira
+R$ 0|3 quartos | | | 2 vagas|Três Marias
+R$ 430.000|2 quartos | 138m² | | 2 vagas|Olaria
+R$ 460.000|2 quartos | | | 2 vagas|Nova Porto Velho
+R$ 262.000|2 quartos | | | 1 vaga|Cuniã
+R$ 230.000|2 quartos| | | |Nova Esperança
+|2 quartos | 50m² |R$ 300 | 1 vaga|Floresta
+R$ 170.000|2 quartos | 100m² | | 3 vagas|Castanheira
+R$ 165.000|2 quartos | 65m² | | 3 vagas|Aeroclube
+R$ 135.000|3 quartos | 70m² | | 2 vagas|Castanheira
+R$ 0| |0m²| | |São Cristóvão
+|3 quartos | 75m² |R$ 0 | 1 vaga|Nova Esperança
+R$ 300.002|3 quartos | 0m²| | |Ronaldo Aragão
+R$ 110.000|3 quartos | 200m² | | 3 vagas|Castanheira
+R$ 200.000|2 quartos | 60m² | | 2 vagas|Castanheira
+R$ 285.000|3 quartos | 90m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 295.000|3 quartos | 90m² |R$ 0 | 1 vaga|Agenor de Carvalho
+R$ 0|3 quartos | 0m² | | 3 vagas|Aponiã
+|5 ou mais quartos | 355m² |R$ 0 | 3 vagas|Nova Esperança
+R$ 0|2 quartos | 84m² |R$ 0 | 2 vagas|Novo Horizonte
+R$ 0|2 quartos | 0m² |R$ 0 | 1 vaga|Triângulo
+R$ 0|3 quartos | 0m²| | |Novo Horizonte
+R$ 150.000|2 quartos | 225m² | | 2 vagas|Aponiã
+R$ 370.000|3 quartos | | | 5 ou mais vagas|Cuniã
+R$ 20.000|2 quartos | 49m² |R$ 50 | 1 vaga|Eletronorte
+R$ 430.000|3 quartos | 127m² |R$ 600 | 2 vagas|Nova Porto Velho
+R$ 820.000|3 quartos | 159m² | | 4 vagas|Aponiã
+R$ 570.000|3 quartos | 110m² | | 2 vagas|Olaria
+R$ 600.000|3 quartos | 100m² |R$ 500 | 2 vagas|Olaria
+R$ 680.000|4 quartos | 340m² |R$ 480 | 3 vagas|Liberdade
+R$ 275.000|3 quartos | 120m² | | 4 vagas|Lagoa
+R$ 2.560.000|3 quartos | 480m² | | 4 vagas|Industrial
+R$ 1.400.000|3 quartos | 380m² | | 4 vagas|Costa e Silva
+R$ 170.000|2 quartos | | | 4 vagas|Cascalheira
+R$ 370.000|5 ou mais quartos | | | 2 vagas|Aponiã
+R$ 600.000|3 quartos | | | 2 vagas|Rio Madeira
+R$ 380.000|3 quartos | 80m² | | 2 vagas|Rio Madeira
+R$ 215.000|3 quartos | 220m² | | 2 vagas|Cohab
+R$ 450.000|3 quartos | 250m² | | 2 vagas|Igarapé
+R$ 380.000|3 quartos | 450m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 240.000|3 quartos | 94m² | | 1 vaga|Aeroclube
+R$ 420.000|3 quartos | 280m² |R$ 180 | 3 vagas|Nova Esperança
+R$ 1.000.000|4 quartos | 850m² | | 3 vagas|Pedrinhas
+R$ 180.000|2 quartos | 52m² |R$ 360 | 1 vaga|Triângulo
+R$ 695.000|5 ou mais quartos | 250m² | | 1 vaga|Embratel
+R$ 252.119|3 quartos | | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 280.000|2 quartos | | | 1 vaga|Rio Madeira
+R$ 350.000|3 quartos | 350m² | | 3 vagas|Aponiã
+R$ 290.000|2 quartos | | | 1 vaga|Lagoa
+R$ 230.000|3 quartos | 120m² | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 380.000|3 quartos | 450m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 700.000|3 quartos | 270m² | | 5 ou mais vagas|São Cristóvão
+R$ 600.000|4 quartos | 338m² | | 4 vagas|Agenor de Carvalho
+R$ 780.000|3 quartos | 156m² |R$ 300 | 2 vagas|Aponiã
+R$ 500.000|5 ou mais quartos | | | 3 vagas|Igarapé
+R$ 150.000|3 quartos | | | 4 vagas|São Francisco
+R$ 550.000|4 quartos | 232m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 420.000|4 quartos | 200m² | | 2 vagas|Igarapé
+R$ 370.000|2 quartos | 180m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 605.000|3 quartos | 122m² | | 2 vagas|Olaria
+R$ 150.000|4 quartos | 215m² | | 4 vagas|Igarapé
+R$ 170.000|3 quartos | 238m² | | 2 vagas|Mariana
+R$ 220.000|2 quartos | | | 4 vagas|Castanheira
+R$ 450.000|2 quartos | 70m² | | 4 vagas|Igarapé
+R$ 750.000|3 quartos | 248m² | | 3 vagas|Aponiã
+R$ 325.000|3 quartos | 141m² | | 2 vagas|Flodoaldo Pontes Pinto
+R$ 650.000|4 quartos | 250m² | | 3 vagas|Costa e Silva
+R$ 345.000|4 quartos | 258m² | | 5 ou mais vagas|Nova Floresta
+R$ 600.000|5 ou mais quartos | 300m² | | 5 ou mais vagas|Rio Madeira
+R$ 200.000|2 quartos | 58m² | | 4 vagas|Aeroclube
+R$ 155.000|2 quartos | 57m² | | 4 vagas|Teixeirão
+R$ 300.000|1 quarto | 300m² |R$ 100 | 1 vaga|Cohab
+R$ 230.000|2 quartos | 73m² | | 1 vaga|Igarapé
+R$ 500.000|3 quartos | 117m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 260.000|4 quartos | 200m² | | 3 vagas|Aponiã
+R$ 180.000|3 quartos | 115m² | | 4 vagas|Nova Esperança
+R$ 1.000.000|3 quartos | 200m² | | 3 vagas|São João Bosco
+R$ 190.000|2 quartos | 280m² | | 3 vagas|Eldorado
+R$ 600.000|3 quartos | |R$ 730 | 2 vagas|Olaria
+R$ 1.700.000|3 quartos | 275m² | | 3 vagas|São João Bosco
+R$ 320.000|2 quartos | | | 3 vagas|Agenor de Carvalho
+R$ 90.000|2 quartos | | | 2 vagas|Área Rural de Porto Velho
+R$ 140.000|2 quartos | 90m² |R$ 153 | 2 vagas|Pantanal
+R$ 590.000|3 quartos | 132m² |R$ 1.200 | 1 vaga|Olaria
+R$ 130.000|2 quartos | 100m² | | 4 vagas|Flodoaldo Pontes Pinto
+R$ 760.000|3 quartos | | | 2 vagas|Industrial
+R$ 370.000|2 quartos | | | 2 vagas|Industrial
+R$ 195.000|3 quartos | 225m² | | 3 vagas|Esperança da Comunidade
+R$ 350.000|3 quartos | 200m² | | 1 vaga|Panair
+R$ 299.000|5 ou mais quartos | | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 1.000.000|5 ou mais quartos | 430m² | | 5 ou mais vagas|São Cristóvão
+R$ 1.750.000|3 quartos | | | 3 vagas|Olaria
+R$ 1.100.000|3 quartos | 600m² | | 5 ou mais vagas|Olaria
+R$ 650.000|2 quartos| | | |Olaria
+R$ 500.000|3 quartos | | | 3 vagas|Flodoaldo Pontes Pinto
+R$ 400.000|3 quartos | 200m² | | 3 vagas|Panair
+R$ 170.000|3 quartos | 100m² | | 1 vaga|Aponiã
+R$ 650.000|4 quartos | 250m² | | 4 vagas|Triângulo
+R$ 350.000|3 quartos | 250m² | | 3 vagas|Panair
+R$ 230.000|3 quartos | 200m² | | 1 vaga|Costa e Silva
+R$ 2.200.000|4 quartos | | | 3 vagas|Olaria
+R$ 120.000|2 quartos | 45m² | | 1 vaga|Aeroclube
+R$ 625.000|3 quartos | | | 2 vagas|Agenor de Carvalho
+R$ 320.000|2 quartos | 150m² | | 3 vagas|Agenor de Carvalho
+R$ 180.000|3 quartos | 250m² | | 2 vagas|Aponiã
+R$ 350.000|5 ou mais quartos | 250m² | | 2 vagas|Cohab
+R$ 900.000|3 quartos | 223m² |R$ 500 | 2 vagas|Lagoa
+R$ 1.600.000|4 quartos | 500m² | | 2 vagas|Nova Porto Velho
+R$ 490.000|5 ou mais quartos | 400m² | | 2 vagas|Aponiã
+R$ 290.000|3 quartos | 166m² | | 2 vagas|Agenor de Carvalho
+R$ 215.000|3 quartos | 0m² |R$ 490 | 2 vagas|Rio Madeira
+R$ 652.000|2 quartos | 106m² | | 2 vagas|São João Bosco
+R$ 682.000|3 quartos | 107m² | | 2 vagas|São João Bosco
+R$ 580.000|2 quartos | 130m² |R$ 730 | 2 vagas|Olaria
+R$ 930.000|3 quartos | 200m² |R$ 600 | 4 vagas|Nova Esperança
+R$ 380.000|3 quartos | 162m² | | 2 vagas|Embratel
+R$ 850.000|3 quartos | 108m² | | 2 vagas|Olaria
+R$ 255.000|2 quartos | 53m² |R$ 0 | 1 vaga|Igarapé
+R$ 300.000|3 quartos | 160m² | | 2 vagas|Tiradentes
+R$ 150.000|1 quarto | 130m²| | |Jardim Santana
+R$ 85.000|2 quartos | | | 1 vaga|Caladinho
+R$ 700.000|4 quartos | 150m² | | 2 vagas|Tupy
+R$ 1.600.000|3 quartos | 340m² | | 4 vagas|Industrial
+R$ 220.000|3 quartos | 87m² |R$ 400 | 1 vaga|Igarapé
+R$ 210.000|3 quartos | 96m² | | 2 vagas|Lagoinha
+R$ 180.000|4 quartos| | | |Igarapé
+R$ 120.000|1 quarto | 70m² | | 5 ou mais vagas|Nova Floresta
+R$ 172.000|2 quartos | 51m² | | 2 vagas|Planalto
+R$ 499.000|3 quartos | 135m² |R$ 850 | 2 vagas|Olaria
+R$ 160.000|3 quartos | | | 2 vagas|Aponiã
+R$ 240.000|5 ou mais quartos | 540m²| | |Jardim Santana
+R$ 160.000|1 quarto | 250m²| | |Lagoinha
+R$ 680.000|4 quartos | 250m² | | 4 vagas|Aeroclube
+R$ 339.000|4 quartos | 202m² | | 4 vagas|Lagoa
+R$ 550.000|4 quartos | | | 2 vagas|Olaria
+R$ 600.000|4 quartos | |R$ 900 | 2 vagas|Olaria
+R$ 65.000|2 quartos | 128m² | | 1 vaga|Ronaldo Aragão
+R$ 120.000|2 quartos | | | 2 vagas|Castanheira
+R$ 450.000|4 quartos | 500m² | | 4 vagas|Floresta
+R$ 1.500.000|5 ou mais quartos | | | 2 vagas|Centro
+R$ 400.000|3 quartos | 162m² | | 5 ou mais vagas|Esperança da Comunidade
+R$ 1.900.000|5 ou mais quartos | 390m² | | 3 vagas|Centro
+R$ 450.000|4 quartos | 185m² | | 4 vagas|Rio Madeira
+R$ 250.000|3 quartos | 200m² | | 1 vaga|Flodoaldo Pontes Pinto
+R$ 3.500.000|5 ou mais quartos | 902m² | | 5 ou mais vagas|Rio Madeira
+R$ 380.000|4 quartos | 264m² | | 2 vagas|São João Bosco
+R$ 2.800.000|5 ou mais quartos | | | 4 vagas|Centro
+R$ 267.991|2 quartos | 66m² |R$ 380 | 1 vaga|Lagoa
+R$ 690.000|3 quartos | 600m² | | 5 ou mais vagas|Agenor de Carvalho
+R$ 1.800.000|4 quartos | | | 3 vagas|Olaria
+R$ 450.000|5 ou mais quartos | | | 4 vagas|Centro
+R$ 600.000|3 quartos | | | 2 vagas|Olaria
+R$ 189.800|2 quartos | 77m² | | 2 vagas|Planalto
+R$ 1.300.000|4 quartos | 760m² | | 5 ou mais vagas|Nova Esperança
+R$ 170.000|3 quartos | | | 3 vagas|São Francisco
+R$ 400.000|3 quartos | 180m² | | 3 vagas|Agenor de Carvalho
+R$ 570.000|3 quartos | |R$ 1.000 | 2 vagas|Rio Madeira
+R$ 350.000|2 quartos | 150m² | | 2 vagas|Lagoinha
+R$ 550.000|3 quartos | |R$ 500 | 2 vagas|Floresta
+R$ 480.000|2 quartos | 250m² | | 5 ou mais vagas|Flodoaldo Pontes Pinto
+R$ 372.277|3 quartos | 93m² |R$ 380 | 2 vagas|Lagoa
+R$ 281.468|2 quartos | 70m² |R$ 380 | 1 vaga|Lagoa
+R$ 450.000|4 quartos | 280m² | | 2 vagas|Olaria
+R$ 260.000|3 quartos | 200m² | | 3 vagas|Conceição
+R$ 360.000|2 quartos | | | 3 vagas|Mato Grosso
+R$ 900.000|4 quartos | 300m² |R$ 820 | 3 vagas|Lagoa
+R$ 160.000|2 quartos | 280m² | | 2 vagas|Juscelino Kubitschek
+R$ 360.000|4 quartos | 200m² | | 2 vagas|Aponiã
+R$ 500.000|4 quartos | 350m² | | 5 ou mais vagas|Nova Floresta
+R$ 85.000|2 quartos | 100m² | | 3 vagas|Mariana
+R$ 1.200.000|4 quartos | 144m² |R$ 1.200 | 3 vagas|Olaria
+R$ 450.000|4 quartos | 250m² | | 2 vagas|Embratel
+R$ 1.100.000|3 quartos | 330m² | | 2 vagas|Costa e Silva
+R$ 400.000|3 quartos | 130m² | | 2 vagas|Nova Floresta
+R$ 1.250.000|4 quartos | 543m² | | 3 vagas|Panair
+R$ 280.000|2 quartos | 230m² | | 5 ou mais vagas|Pantanal
